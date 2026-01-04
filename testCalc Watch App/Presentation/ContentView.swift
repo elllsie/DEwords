@@ -1,23 +1,38 @@
 import SwiftUI
+import WatchKit
 
 struct ContentView: View {
 
-    // ⭐️ 当前索引
-    @State private var currentIndex: Int = 0
+    // MARK: - 数据
 
-    // ⭐️ 词库
+    @State private var currentIndex: Int = 0
     private let words = WordRepository.words
 
-    // Digital Crown
+    // MARK: - Digital Crown
+
     @State private var crownValue: Double = 0
     @State private var lastStep: Int = 0
     @FocusState private var isCrownFocused: Bool
 
-    // 发音防连点
+    // MARK: - 发音防连点
+
     @State private var lastSpeakTime: Date = .distantPast
     private let speakCooldown: TimeInterval = 0.3
 
-    // MARK: - 切换逻辑
+    // MARK: - 熟悉逻辑（Phase 1）
+
+    @State private var familiarWordIDs: Set<String> = []
+    @State private var showFamiliarHint: Bool = true
+    @State private var showFamiliarFeedback: Bool = false
+
+    // MARK: - 当前词
+
+    private var currentWord: Word? {
+        guard words.indices.contains(currentIndex) else { return nil }
+        return words[currentIndex]
+    }
+
+    // MARK: - 切换
 
     private func nextWord() {
         guard currentIndex < words.count - 1 else { return }
@@ -29,67 +44,128 @@ struct ContentView: View {
         currentIndex -= 1
     }
 
-    private var currentWord: Word? {
-        guard words.indices.contains(currentIndex) else { return nil }
-        return words[currentIndex]
+    // MARK: - 标记熟悉（核心）
+
+    private func markFamiliar() {
+        guard let word = currentWord else { return }
+
+        // 记录熟悉（暂存）
+        familiarWordIDs.insert(word.text)
+
+        // 触觉反馈
+        WKInterfaceDevice.current().play(.success)
+
+        // ✓ 动画（停留在当前词）
+        withAnimation(.easeOut(duration: 0.2)) {
+            showFamiliarFeedback = true
+        }
+
+        showFamiliarHint = false
+
+        // 延迟切词，保证“这是 A 被标记”
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.45) {
+            showFamiliarFeedback = false
+            nextWord()
+        }
     }
 
+    // MARK: - View
+
     var body: some View {
-        VStack {
-            if let word = currentWord {
-                VStack(spacing: 6) {
+        ZStack {
 
-                    Text(word.text)
-                        .font(.title2)
-                        .bold()
-                        .multilineTextAlignment(.center)
+            // 主内容
+            VStack {
+                if let word = currentWord {
+                    VStack(spacing: 6) {
 
-                    // 点击音标 → 发音
-                    Text(word.phonetic)
-                        .font(.footnote)
-                        .foregroundColor(.green)
-                        .onTapGesture {
-                            let now = Date()
-                            guard now.timeIntervalSince(lastSpeakTime) > speakCooldown else { return }
-                            lastSpeakTime = now
-                            SpeechHelper.shared.speak(word.text)
-                        }
+                        Text(word.text)
+                            .font(.title2)
+                            .bold()
+                            .multilineTextAlignment(.center)
 
-                    Text(word.meaning)
-                        .font(.footnote)
-                        .foregroundColor(.secondary)
+                        // 音标点击发音
+                        Text(word.phonetic)
+                            .font(.footnote)
+                            .foregroundColor(.green)
+                            .onTapGesture {
+                                let now = Date()
+                                guard now.timeIntervalSince(lastSpeakTime) > speakCooldown else { return }
+                                lastSpeakTime = now
+                                SpeechHelper.shared.speak(word.text)
+                            }
 
-                    Text(word.example)
-                        .font(.footnote)
-                        .multilineTextAlignment(.center)
-                        .padding(.top, 4)
+                        Text(word.meaning)
+                            .font(.footnote)
+                            .foregroundColor(.secondary)
+
+                        Text(word.example)
+                            .font(.footnote)
+                            .multilineTextAlignment(.center)
+                            .padding(.top, 4)
+                    }
+                    .padding()
+                } else {
+                    Text("滑动或旋转表冠")
+                        .foregroundColor(.gray)
                 }
-                .padding()
-            } else {
-                Text("滑动或旋转表冠")
-                    .foregroundColor(.gray)
+            }
+
+            // ✓ 熟悉反馈
+            if showFamiliarFeedback {
+                Image(systemName: "checkmark")
+                    .font(.largeTitle)
+                    .foregroundColor(.green)
+                    .transition(.scale.combined(with: .opacity))
+            }
+
+            // 首次提示
+            if showFamiliarHint {
+                VStack {
+                    Text("左滑标记为熟悉")
+                        .font(.footnote)
+                        .padding(6)
+                        .background(.black.opacity(0.7))
+                        .cornerRadius(8)
+                        .transition(.opacity)
+                    Spacer()
+                }
+                .padding(.top, 6)
             }
         }
 
-        // ⭐️ 上下滑切换
+        // MARK: - 手势（优先级非常重要）
+
         .gesture(
             DragGesture(minimumDistance: 20)
                 .onEnded { value in
-                    if value.translation.height < -20 {
-                        nextWord()       // 上滑 → 下一词
-                    } else if value.translation.height > 20 {
-                        previousWord()  // 下滑 → 上一词
+
+                    let h = value.translation.width
+                    let v = value.translation.height
+
+                    // 左滑：熟悉（强判定，防误触）
+                    if h < -30 && abs(h) > abs(v) * 1.3 {
+                        markFamiliar()
+                        return
+                    }
+
+                    // 上下滑：切词
+                    if v < -20 {
+                        nextWord()
+                    } else if v > 20 {
+                        previousWord()
                     }
                 }
         )
 
-        // ⭐️ Digital Crown：一格一词（正反方向）
+        // MARK: - Digital Crown
+
         .focusable(true)
         .focused($isCrownFocused)
         .digitalCrownRotation(
             $crownValue,
-            from: -100,
-            through: 100,
+            from: -50,
+            through: 50,
             by: 0.1,
             sensitivity: .medium,
             isContinuous: true,
@@ -106,8 +182,18 @@ struct ContentView: View {
 
             lastStep = step
         }
+
+        // MARK: - 生命周期
+
         .onAppear {
             isCrownFocused = true
+
+            // 提示只出现一次
+            DispatchQueue.main.asyncAfter(deadline: .now() + 3) {
+                withAnimation {
+                    showFamiliarHint = false
+                }
+            }
         }
     }
 }

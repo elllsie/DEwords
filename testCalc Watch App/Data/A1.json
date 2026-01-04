@@ -1,0 +1,6130 @@
+[
+  {
+    "id": "1",
+    "text": "ab",
+    "article": "",
+    "phonetic": "[ap]",
+    "source": "g2p",
+    "meaning": "从…起，自…开始",
+    "example": "Ab morgen muss ich arbeiten."
+  },
+  {
+    "id": "2",
+    "text": "aber",
+    "article": "",
+    "phonetic": "[ˈaːbɐ]",
+    "source": "g2p",
+    "meaning": "但是，然而",
+    "example": "Ich bin oft im Büro, aber nur für wenige Stunden."
+  },
+  {
+    "id": "3",
+    "text": "abfahren",
+    "article": "",
+    "phonetic": "[ˈapˌfaːʁən]",
+    "source": "g2p",
+    "meaning": "出发，驶离",
+    "example": "Wir fahren um zwölf Uhr ab."
+  },
+  {
+    "id": "4",
+    "text": "Abfahrt",
+    "article": "die",
+    "phonetic": "[ˈapˌfaːɐ̯t]",
+    "source": "g2p",
+    "meaning": "出发，发车",
+    "example": "Vor der Abfahrt rufe ich an."
+  },
+  {
+    "id": "5",
+    "text": "abgeben",
+    "article": "",
+    "phonetic": "[ˈapˌɡeːbn̩]",
+    "source": "g2p",
+    "meaning": "交出，交付",
+    "example": "Ich muss meine Schlüssel abgeben."
+  },
+  {
+    "id": "6",
+    "text": "abholen",
+    "article": "",
+    "phonetic": "[ˈapˌhoːlən]",
+    "source": "g2p",
+    "meaning": "接取，取走；接（某人）",
+    "example": "Wann kann ich den Schrank bei dir abholen? / Wir müssen noch meinen Bruder abholen."
+  },
+  {
+    "id": "7",
+    "text": "Absender",
+    "article": "der",
+    "phonetic": "[ˈapˌzɛndɐ]",
+    "source": "g2p",
+    "meaning": "寄件人",
+    "example": "Da ist ein Brief für dich ohne Absender."
+  },
+  {
+    "id": "8",
+    "text": "Achtung",
+    "article": "die",
+    "phonetic": "[ˈaxtʊŋ]",
+    "source": "g2p",
+    "meaning": "注意，小心",
+    "example": "Achtung! Das dürfen Sie nicht tun."
+  },
+  {
+    "id": "9",
+    "text": "Adresse",
+    "article": "die",
+    "phonetic": "[aˈdʁɛsə]",
+    "source": "g2p",
+    "meaning": "地址",
+    "example": "Können Sie mir seine Adresse sagen?"
+  },
+  {
+    "id": "10",
+    "text": "all",
+    "article": "",
+    "phonetic": "[al]",
+    "source": "g2p",
+    "meaning": "所有，一切",
+    "example": "Alles Gute! / Das ist alles. / Sind alle da?"
+  },
+  {
+    "id": "11",
+    "text": "allein",
+    "article": "",
+    "phonetic": "[aˈlaɪ̯n]",
+    "source": "g2p",
+    "meaning": "单独，独自",
+    "example": "Er kommt allein."
+  },
+  {
+    "id": "12",
+    "text": "also",
+    "article": "",
+    "phonetic": "[ˈalzo]",
+    "source": "g2p",
+    "meaning": "那么，因此",
+    "example": "Also, es ist so: … / Er hat Zeit, also muss er uns helfen."
+  },
+  {
+    "id": "13",
+    "text": "alt",
+    "article": "",
+    "phonetic": "[alt]",
+    "source": "g2p",
+    "meaning": "老的；旧的；年老的",
+    "example": "Wie alt sind Sie? / Mein Auto ist schon sehr alt. / Köln ist eine alte Stadt."
+  },
+  {
+    "id": "14",
+    "text": "Alter",
+    "article": "das",
+    "phonetic": "[ˈaltɐ]",
+    "source": "g2p",
+    "meaning": "年龄",
+    "example": "Alter: 26 Jahre."
+  },
+  {
+    "id": "15",
+    "text": "an",
+    "article": "",
+    "phonetic": "[an]",
+    "source": "g2p",
+    "meaning": "在...旁边；在...（时间）",
+    "example": "Fahren Sie an der nächsten Straße nach rechts. / Wir treffen uns am Bahnhof."
+  },
+  {
+    "id": "16",
+    "text": "anbieten",
+    "article": "",
+    "phonetic": "[ˈanˌbiːtn̩]",
+    "source": "g2p",
+    "meaning": "提供",
+    "example": "Was darf ich dir anbieten?"
+  },
+  {
+    "id": "17",
+    "text": "Angebot",
+    "article": "das",
+    "phonetic": "[ˈanɡəˌboːt]",
+    "source": "g2p",
+    "meaning": "供应；报价",
+    "example": "Heute sind Sportschuhe im Angebot."
+  },
+  {
+    "id": "18",
+    "text": "ander",
+    "article": "",
+    "phonetic": "[ˈandɐ]",
+    "source": "g2p",
+    "meaning": "其他的，另一个",
+    "example": "Willst du diese Jacke? – Nein, ich möchte die andere."
+  },
+  {
+    "id": "19",
+    "text": "anfangen",
+    "article": "",
+    "phonetic": "[ˈanˌfaŋən]",
+    "source": "g2p",
+    "meaning": "开始",
+    "example": "Hier fängt die Bahnhofstraße an. / Der Unterricht fängt gleich an."
+  },
+  {
+    "id": "20",
+    "text": "Anfang",
+    "article": "der",
+    "phonetic": "[ˈanˌfaŋ]",
+    "source": "g2p",
+    "meaning": "开始，开端",
+    "example": "Sie wohnt am Anfang der Straße. / Wir machen Anfang Juli Urlaub."
+  },
+  {
+    "id": "21",
+    "text": "anklicken",
+    "article": "",
+    "phonetic": "[ˈanˌklɪkn̩]",
+    "source": "g2p",
+    "meaning": "点击（鼠标）",
+    "example": "Da musst du dieses Wort anklicken."
+  },
+  {
+    "id": "22",
+    "text": "ankommen",
+    "article": "",
+    "phonetic": "[ˈanˌkɔmən]",
+    "source": "g2p",
+    "meaning": "到达",
+    "example": "Wann kommt dieser Zug in Hamburg an?"
+  },
+  {
+    "id": "23",
+    "text": "Ankunft",
+    "article": "die",
+    "phonetic": "[ˈanˌkʊnft]",
+    "source": "g2p",
+    "meaning": "到达，抵达",
+    "example": "Auf diesem Plan steht nur die Ankunft(-szeit) der Züge."
+  },
+  {
+    "id": "24",
+    "text": "ankreuzen",
+    "article": "",
+    "phonetic": "[ˈanˌkʁɔɪ̯ʦn̩]",
+    "source": "g2p",
+    "meaning": "打勾，标记",
+    "example": "Auf dem Formular müssen Sie an mehreren Stellen etwas ankreuzen."
+  },
+  {
+    "id": "25",
+    "text": "anmachen",
+    "article": "",
+    "phonetic": "[ˈanˌmaxn̩]",
+    "source": "g2p",
+    "meaning": "打开（电器、灯等）",
+    "example": "Mach bitte das Licht an!"
+  },
+  {
+    "id": "26",
+    "text": "anmelden",
+    "article": "",
+    "phonetic": "[ˈanˌmeːldn̩]",
+    "source": "g2p",
+    "meaning": "登记，注册",
+    "example": "Wo kann ich mich anmelden?"
+  },
+  {
+    "id": "27",
+    "text": "Anmeldung",
+    "article": "die",
+    "phonetic": "[ˈanˌmeːldʊŋ]",
+    "source": "g2p",
+    "meaning": "登记，注册",
+    "example": "Eine Anmeldung für diesen Kurs ist nicht mehr möglich."
+  },
+  {
+    "id": "28",
+    "text": "Anrede",
+    "article": "die",
+    "phonetic": "[ˈanˌʁeːdə]",
+    "source": "g2p",
+    "meaning": "称呼",
+    "example": "Schreiben Sie auch eine Anrede und einen Gruß."
+  },
+  {
+    "id": "29",
+    "text": "anrufen",
+    "article": "",
+    "phonetic": "[ˈanˌʁuːfn̩]",
+    "source": "g2p",
+    "meaning": "打电话",
+    "example": "Kann man Sie anrufen? / Peter ruft kurz seine Freundin an."
+  },
+  {
+    "id": "30",
+    "text": "Anruf",
+    "article": "der",
+    "phonetic": "[ˈanˌʁuːf]",
+    "source": "g2p",
+    "meaning": "电话通话",
+    "example": "Sie bekommt viele Anrufe auf ihrem Handy."
+  },
+  {
+    "id": "31",
+    "text": "Anrufbeantworter",
+    "article": "der",
+    "phonetic": "[ˈanʁuːfbəˌantvɔʁtɐ]",
+    "source": "g2p",
+    "meaning": "电话答录机",
+    "example": "Wir sind im Moment nicht da. Sprechen Sie bitte auf den Anrufbeantworter."
+  },
+  {
+    "id": "32",
+    "text": "Ansage",
+    "article": "die",
+    "phonetic": "[ˈanˌzaːɡə]",
+    "source": "g2p",
+    "meaning": "广播通知，播报",
+    "example": "Hören Sie die Ansagen."
+  },
+  {
+    "id": "33",
+    "text": "Anschluss",
+    "article": "der",
+    "phonetic": "[ˈanˌʃlʊs]",
+    "source": "g2p",
+    "meaning": "连接；转乘",
+    "example": "In Mannheim haben Sie Anschluss nach Saarbrücken. / Ist das die Anmeldung für einen Telefonanschluss?"
+  },
+  {
+    "id": "34",
+    "text": "an sein",
+    "article": "",
+    "phonetic": "[an zaɪ̯n]",
+    "source": "g2p",
+    "meaning": "开着（指电器）",
+    "example": "Heute Nacht war das Licht an."
+  },
+  {
+    "id": "35",
+    "text": "antworten",
+    "article": "",
+    "phonetic": "[ˈantˌvɔʁtn̩]",
+    "source": "g2p",
+    "meaning": "回答",
+    "example": "Er antwortet nicht."
+  },
+  {
+    "id": "36",
+    "text": "Antwort",
+    "article": "die",
+    "phonetic": "[ˈantvɔʁt]",
+    "source": "g2p",
+    "meaning": "答案，回答",
+    "example": "Er gibt leider keine Antwort."
+  },
+  {
+    "id": "37",
+    "text": "Anzeige",
+    "article": "die",
+    "phonetic": "[ˈanˌt͡saɪ̯ɡə]",
+    "source": "g2p",
+    "meaning": "广告；显示",
+    "example": "Ich habe Ihre Anzeige in der Zeitung gelesen."
+  },
+  {
+    "id": "38",
+    "text": "anziehen",
+    "article": "",
+    "phonetic": "[ˈanˌt͡siːən]",
+    "source": "g2p",
+    "meaning": "穿衣服",
+    "example": "Ich muss mich noch anziehen."
+  },
+  {
+    "id": "39",
+    "text": "Apartment",
+    "article": "das",
+    "phonetic": "[aˈpaʁtmənt]",
+    "source": "g2p",
+    "meaning": "公寓",
+    "example": "Wir haben ein Apartment gemietet."
+  },
+  {
+    "id": "40",
+    "text": "Apfel",
+    "article": "der",
+    "phonetic": "[ˈap͡fl̩]",
+    "source": "g2p",
+    "meaning": "苹果",
+    "example": "Ein Pfund Äpfel bitte."
+  },
+  {
+    "id": "41",
+    "text": "Appetit",
+    "article": "der",
+    "phonetic": "[ˈapəˌtiːt]",
+    "source": "g2p",
+    "meaning": "胃口，食欲",
+    "example": "Guten Appetit!"
+  },
+  {
+    "id": "42",
+    "text": "arbeiten",
+    "article": "",
+    "phonetic": "[ˈaʁbaɪ̯tn̩]",
+    "source": "g2p",
+    "meaning": "工作",
+    "example": "Wo arbeiten Sie?"
+  },
+  {
+    "id": "43",
+    "text": "Arbeit",
+    "article": "die",
+    "phonetic": "[ˈaʁbaɪ̯t]",
+    "source": "g2p",
+    "meaning": "工作",
+    "example": "Mein Bruder sucht Arbeit."
+  },
+  {
+    "id": "44",
+    "text": "arbeitslos",
+    "article": "",
+    "phonetic": "[ˈaʁbaɪ̯t͡sˌloːs]",
+    "source": "g2p",
+    "meaning": "失业的",
+    "example": "Es gibt bei uns viele Leute, die schon lange arbeitslos sind."
+  },
+  {
+    "id": "45",
+    "text": "Arbeitsplatz",
+    "article": "der",
+    "phonetic": "[ˈaʁbaɪ̯t͡sˌplat͡s]",
+    "source": "g2p",
+    "meaning": "工作岗位，工作地点",
+    "example": "An meinem Arbeitsplatz fehlt ein Drucker."
+  },
+  {
+    "id": "46",
+    "text": "Arm",
+    "article": "der",
+    "phonetic": "[aʁm]",
+    "source": "g2p",
+    "meaning": "手臂",
+    "example": "Mein Arm tut weh."
+  },
+  {
+    "id": "47",
+    "text": "Arzt",
+    "article": "der",
+    "phonetic": "[aʁt͡st]",
+    "source": "g2p",
+    "meaning": "医生",
+    "example": "Morgen habe ich einen Termin bei meiner Ärztin."
+  },
+  {
+    "id": "48",
+    "text": "auch",
+    "article": "",
+    "phonetic": "[aʊ̯x]",
+    "source": "g2p",
+    "meaning": "也",
+    "example": "Ich bin auch Spanier."
+  },
+  {
+    "id": "49",
+    "text": "auf",
+    "article": "",
+    "phonetic": "[aʊ̯f]",
+    "source": "g2p",
+    "meaning": "在...上；到...上",
+    "example": "Die Kinder spielen auf der Straße. / Auf Wiedersehen. / Wie heißt das auf Deutsch?"
+  },
+  {
+    "id": "50",
+    "text": "Aufgabe",
+    "article": "die",
+    "phonetic": "[ˈaʊ̯fˌɡaːbə]",
+    "source": "g2p",
+    "meaning": "任务，作业",
+    "example": "Das ist eine schwere Aufgabe."
+  },
+  {
+    "id": "51",
+    "text": "aufhören",
+    "article": "",
+    "phonetic": "[ˈaʊ̯fˌhøːʁən]",
+    "source": "g2p",
+    "meaning": "停止，结束",
+    "example": "Der Kurs hört in einer Woche auf. / Hier hört die Bahnhofstraße auf."
+  },
+  {
+    "id": "52",
+    "text": "auf sein",
+    "article": "",
+    "phonetic": "[aʊ̯f zaɪ̯n]",
+    "source": "g2p",
+    "meaning": "开着（门等）",
+    "example": "Du brauchst den Schlüssel nicht. Die Wohnung ist auf."
+  },
+  {
+    "id": "53",
+    "text": "aufstehen",
+    "article": "",
+    "phonetic": "[ˈaʊ̯fˌʃteːən]",
+    "source": "g2p",
+    "meaning": "起床；站起来",
+    "example": "Ich muss immer um vier Uhr aufstehen. / Soll ich aufstehen?"
+  },
+  {
+    "id": "54",
+    "text": "Aufzug",
+    "article": "der",
+    "phonetic": "[ˈaʊ̯fˌt͡suːk]",
+    "source": "g2p",
+    "meaning": "电梯",
+    "example": "In diesem Haus gibt es keinen Aufzug."
+  },
+  {
+    "id": "55",
+    "text": "Auge",
+    "article": "das",
+    "phonetic": "[ˈaʊ̯ɡə]",
+    "source": "g2p",
+    "meaning": "眼睛",
+    "example": "Er hat blaue Augen."
+  },
+  {
+    "id": "56",
+    "text": "aus",
+    "article": "",
+    "phonetic": "[aʊ̯s]",
+    "source": "g2p",
+    "meaning": "从...来；由...制成",
+    "example": "Er kommt aus Brasilien."
+  },
+  {
+    "id": "57",
+    "text": "Ausflug",
+    "article": "der",
+    "phonetic": "[ˈaʊ̯sˌfluːk]",
+    "source": "g2p",
+    "meaning": "郊游，短途旅行",
+    "example": "Morgen machen wir einen Ausflug nach Heidelberg."
+  },
+  {
+    "id": "58",
+    "text": "ausfüllen",
+    "article": "",
+    "phonetic": "[ˈaʊ̯sˌfʏlən]",
+    "source": "g2p",
+    "meaning": "填写",
+    "example": "Füllen Sie bitte dieses Formular aus."
+  },
+  {
+    "id": "59",
+    "text": "Ausgang",
+    "article": "der",
+    "phonetic": "[ˈaʊ̯sˌɡaŋ]",
+    "source": "g2p",
+    "meaning": "出口",
+    "example": "Wo ist der Ausgang?"
+  },
+  {
+    "id": "60",
+    "text": "Auskunft",
+    "article": "die",
+    "phonetic": "[ˈaʊ̯sˌkʊnft]",
+    "source": "g2p",
+    "meaning": "信息，问讯处",
+    "example": "Können Sie mir eine Auskunft geben?"
+  },
+  {
+    "id": "61",
+    "text": "Ausland",
+    "article": "das",
+    "phonetic": "[ˈaʊ̯sˌlant]",
+    "source": "g2p",
+    "meaning": "外国",
+    "example": "Fahren Sie ins Ausland?"
+  },
+  {
+    "id": "62",
+    "text": "Ausländer",
+    "article": "der",
+    "phonetic": "[ˈaʊ̯sˌlɛndɐ]",
+    "source": "g2p",
+    "meaning": "外国人",
+    "example": "Sind Sie Ausländerin?"
+  },
+  {
+    "id": "63",
+    "text": "ausländisch",
+    "article": "",
+    "phonetic": "[ˈaʊ̯sˌlɛndɪʃ]",
+    "source": "g2p",
+    "meaning": "外国的",
+    "example": "Leider habe ich nur ausländisches Geld."
+  },
+  {
+    "id": "64",
+    "text": "ausmachen",
+    "article": "",
+    "phonetic": "[ˈaʊ̯sˌmaxn̩]",
+    "source": "g2p",
+    "meaning": "关掉（电器）",
+    "example": "Mach bitte das Licht aus!"
+  },
+  {
+    "id": "65",
+    "text": "Aussage",
+    "article": "die",
+    "phonetic": "[ˈaʊ̯sˌzaːɡə]",
+    "source": "g2p",
+    "meaning": "陈述，说法",
+    "example": "Ist die Aussage richtig oder falsch?"
+  },
+  {
+    "id": "66",
+    "text": "aussehen",
+    "article": "",
+    "phonetic": "[ˈaʊ̯sˌzeːən]",
+    "source": "g2p",
+    "meaning": "看起来",
+    "example": "Das sieht schön aus."
+  },
+  {
+    "id": "67",
+    "text": "aus sein",
+    "article": "",
+    "phonetic": "[aʊ̯s zaɪ̯n]",
+    "source": "g2p",
+    "meaning": "结束；关着",
+    "example": "Das Licht ist aus. / Die Schule ist aus."
+  },
+  {
+    "id": "68",
+    "text": "aussteigen",
+    "article": "",
+    "phonetic": "[ˈaʊ̯sˌʃtaɪ̯ɡn̩]",
+    "source": "g2p",
+    "meaning": "下车，下船",
+    "example": "Wo muss ich aussteigen?"
+  },
+  {
+    "id": "69",
+    "text": "Ausweis",
+    "article": "der",
+    "phonetic": "[ˈaʊ̯sˌvaɪ̯s]",
+    "source": "g2p",
+    "meaning": "证件",
+    "example": "Hier ist mein Ausweis."
+  },
+  {
+    "id": "70",
+    "text": "ausziehen",
+    "article": "",
+    "phonetic": "[ˈaʊ̯sˌt͡siːən]",
+    "source": "g2p",
+    "meaning": "脱衣服；搬家",
+    "example": "Zieh die Schuhe aus, bitte!"
+  },
+  {
+    "id": "71",
+    "text": "Auto",
+    "article": "das",
+    "phonetic": "[ˈaʊ̯to]",
+    "source": "g2p",
+    "meaning": "汽车",
+    "example": "Er kommt mit dem Auto."
+  },
+  {
+    "id": "72",
+    "text": "Autobahn",
+    "article": "die",
+    "phonetic": "[ˈaʊ̯toˌbaːn]",
+    "source": "g2p",
+    "meaning": "高速公路",
+    "example": "Wo geht’s hier bitte zur Autobahn?"
+  },
+  {
+    "id": "73",
+    "text": "Automat",
+    "article": "der",
+    "phonetic": "[aʊ̯toˈmaːt]",
+    "source": "g2p",
+    "meaning": "自动售货机；自动装置",
+    "example": "Die Fahrkarten gibt es nur am Automaten."
+  },
+  {
+    "id": "74",
+    "text": "automatisch",
+    "article": "",
+    "phonetic": "[aʊ̯toˈmaːtɪʃ]",
+    "source": "g2p",
+    "meaning": "自动的",
+    "example": "Du musst nichts machen. Das geht automatisch."
+  },
+  {
+    "id": "75",
+    "text": "Baby",
+    "article": "das",
+    "phonetic": "[ˈbeːbi]",
+    "source": "g2p",
+    "meaning": "婴儿",
+    "example": "Mein Kind ist noch ein Baby."
+  },
+  {
+    "id": "76",
+    "text": "Bäckerei",
+    "article": "die",
+    "phonetic": "[bɛkəˈʁaɪ̯]",
+    "source": "g2p",
+    "meaning": "面包店",
+    "example": "Ich geh mal schnell zur Bäckerei."
+  },
+  {
+    "id": "77",
+    "text": "Bad",
+    "article": "das",
+    "phonetic": "[baːt]",
+    "source": "g2p",
+    "meaning": "浴室；沐浴",
+    "example": "Wir haben kein großes Bad."
+  },
+  {
+    "id": "78",
+    "text": "baden",
+    "article": "",
+    "phonetic": "[ˈbaːdn̩]",
+    "source": "g2p",
+    "meaning": "洗澡，沐浴",
+    "example": "Ich bade nicht so gern, ich dusche lieber."
+  },
+  {
+    "id": "79",
+    "text": "Bahn",
+    "article": "die",
+    "phonetic": "[baːn]",
+    "source": "g2p",
+    "meaning": "火车；轨道",
+    "example": "Wir fahren lieber mit der Bahn. / Ich nehme die nächste Bahn."
+  },
+  {
+    "id": "80",
+    "text": "Bahnhof",
+    "article": "der",
+    "phonetic": "[ˈbaːnˌhoːf]",
+    "source": "g2p",
+    "meaning": "火车站",
+    "example": "Komme ich hier zum Bahnhof?"
+  },
+  {
+    "id": "81",
+    "text": "Bahnsteig",
+    "article": "der",
+    "phonetic": "[ˈbaːnˌʃtaɪ̯k]",
+    "source": "g2p",
+    "meaning": "站台",
+    "example": "Auf welchem Bahnsteig fährt der Zug?"
+  },
+  {
+    "id": "82",
+    "text": "bald",
+    "article": "",
+    "phonetic": "[balt]",
+    "source": "g2p",
+    "meaning": "很快，不久",
+    "example": "Ich komme bald."
+  },
+  {
+    "id": "83",
+    "text": "Balkon",
+    "article": "der",
+    "phonetic": "[balˈkɔ̃ː]",
+    "source": "g2p",
+    "meaning": "阳台",
+    "example": "Die Wohnung hat auch einen kleinen Balkon."
+  },
+  {
+    "id": "84",
+    "text": "Banane",
+    "article": "die",
+    "phonetic": "[baˈnaːnə]",
+    "source": "g2p",
+    "meaning": "香蕉",
+    "example": "Drei Bananen, bitte!"
+  },
+  {
+    "id": "85",
+    "text": "Bank",
+    "article": "die",
+    "phonetic": "[baŋk]",
+    "source": "g2p",
+    "meaning": "银行；长凳",
+    "example": "Die Bank schließt schon um vier Uhr. / Er sitzt im Park auf einer Bank und liest."
+  },
+  {
+    "id": "86",
+    "text": "bar",
+    "article": "",
+    "phonetic": "[baːɐ̯]",
+    "source": "g2p",
+    "meaning": "现金的",
+    "example": "Muss ich bar zahlen oder geht’s auch mit Karte?"
+  },
+  {
+    "id": "87",
+    "text": "Bauch",
+    "article": "der",
+    "phonetic": "[baʊ̯x]",
+    "source": "g2p",
+    "meaning": "肚子，腹部",
+    "example": "Seit gestern tut mir der Bauch weh."
+  },
+  {
+    "id": "88",
+    "text": "Baum",
+    "article": "der",
+    "phonetic": "[baʊ̯m]",
+    "source": "g2p",
+    "meaning": "树",
+    "example": "Vorsicht, fahr nicht an den Baum!"
+  },
+  {
+    "id": "89",
+    "text": "Beamte",
+    "article": "der/die",
+    "phonetic": "[bəˈʔamtə]",
+    "source": "g2p",
+    "meaning": "公务员，官员",
+    "example": "Fragen Sie die Beamtin an Schalter acht!"
+  },
+  {
+    "id": "90",
+    "text": "bedeuten",
+    "article": "",
+    "phonetic": "[bəˈdɔɪ̯tn̩]",
+    "source": "g2p",
+    "meaning": "意思是，意味着",
+    "example": "Was bedeutet das Wort?"
+  },
+  {
+    "id": "91",
+    "text": "beginnen",
+    "article": "",
+    "phonetic": "[bəˈɡɪnən]",
+    "source": "g2p",
+    "meaning": "开始",
+    "example": "Das Spiel beginnt um 15.30 Uhr."
+  },
+  {
+    "id": "92",
+    "text": "bei",
+    "article": "",
+    "phonetic": "[baɪ̯]",
+    "source": "g2p",
+    "meaning": "在...处；在...家；在...时",
+    "example": "Offenbach liegt bei Frankfurt. / Ich wohne bei meinen Eltern. / Bei uns regnet es heute. / Er arbeitet bei der Polizei."
+  },
+  {
+    "id": "93",
+    "text": "beide",
+    "article": "",
+    "phonetic": "[ˈbaɪ̯də]",
+    "source": "g2p",
+    "meaning": "两个，双方",
+    "example": "Beide Eltern arbeiten. / Wir kommen beide."
+  },
+  {
+    "id": "94",
+    "text": "Bein",
+    "article": "das",
+    "phonetic": "[baɪ̯n]",
+    "source": "g2p",
+    "meaning": "腿",
+    "example": "Mein rechtes Bein tut weh."
+  },
+  {
+    "id": "95",
+    "text": "Beispiel",
+    "article": "das",
+    "phonetic": "[ˈbaɪ̯ˌʃpiːl]",
+    "source": "g2p",
+    "meaning": "例子",
+    "example": "Kannst du mir ein Beispiel sagen?"
+  },
+  {
+    "id": "96",
+    "text": "zum Beispiel",
+    "article": "",
+    "phonetic": "[t͡sʊm ˈbaɪ̯ˌʃpiːl]",
+    "source": "g2p",
+    "meaning": "例如",
+    "example": "Viele meiner Verwandten, z. B. meine beiden Brüder, arbeiten auch hier."
+  },
+  {
+    "id": "97",
+    "text": "bekannt",
+    "article": "",
+    "phonetic": "[bəˈkant]",
+    "source": "g2p",
+    "meaning": "知名的，熟悉的",
+    "example": "Picasso ist sehr bekannt."
+  },
+  {
+    "id": "98",
+    "text": "Bekannte",
+    "article": "der/die",
+    "phonetic": "[bəˈkantə]",
+    "source": "g2p",
+    "meaning": "熟人，认识的人",
+    "example": "Ein Bekannter von mir heißt Klaus."
+  },
+  {
+    "id": "99",
+    "text": "bekommen",
+    "article": "",
+    "phonetic": "[bəˈkɔmən]",
+    "source": "g2p",
+    "meaning": "得到，收到",
+    "example": "Haben Sie meinen Brief bekommen? / Was bekommen Sie? / Dieses Medikament bekommen Sie in der Apotheke."
+  }，
+  
+    {
+      "id": "100",
+      "text": "benutzen",
+      "article": "",
+      "phonetic": "[bəˈnʊt͡sn̩]",
+      "source": "g2p",
+      "meaning": "使用",
+      "example": "Die Aufzüge bitte nicht benutzen!"
+    },
+    {
+      "id": "101",
+      "text": "Beruf",
+      "article": "der",
+      "phonetic": "[bəˈʁuːf]",
+      "source": "g2p",
+      "meaning": "职业",
+      "example": "Was sind Sie von Beruf? / Was ist Ihr Beruf?"
+    },
+    {
+      "id": "102",
+      "text": "besetzt",
+      "article": "",
+      "phonetic": "[bəˈzɛt͡st]",
+      "source": "g2p",
+      "meaning": "占用的；繁忙的",
+      "example": "Die Nummer ist immer besetzt. / Der Platz ist besetzt."
+    },
+    {
+      "id": "103",
+      "text": "besichtigen",
+      "article": "",
+      "phonetic": "[bəˈzɪçtɪɡn̩]",
+      "source": "g2p",
+      "meaning": "参观",
+      "example": "Ich möchte gern den Dom besichtigen."
+    },
+    {
+      "id": "104",
+      "text": "besser",
+      "article": "",
+      "phonetic": "[ˈbɛsɐ]",
+      "source": "g2p",
+      "meaning": "更好",
+      "example": "Es geht mir schon besser."
+    },
+    {
+      "id": "105",
+      "text": "best-",
+      "article": "",
+      "phonetic": "[bɛst]",
+      "source": "g2p",
+      "meaning": "最好的",
+      "example": "Am besten treffen wir uns morgen."
+    },
+    {
+      "id": "106",
+      "text": "bestellen",
+      "article": "",
+      "phonetic": "[bəˈʃtɛlən]",
+      "source": "g2p",
+      "meaning": "点餐；订购",
+      "example": "Wir möchten bestellen, bitte. / Dieses Buch haben wir nicht – sollen wir es für Sie bestellen?"
+    },
+    {
+      "id": "107",
+      "text": "besuchen",
+      "article": "",
+      "phonetic": "[bəˈzuːxn̩]",
+      "source": "g2p",
+      "meaning": "拜访；参观",
+      "example": "Darf ich dich besuchen?"
+    },
+    {
+      "id": "108",
+      "text": "Bett",
+      "article": "das",
+      "phonetic": "[bɛt]",
+      "source": "g2p",
+      "meaning": "床",
+      "example": "Wir brauchen noch ein Kinderbett."
+    },
+    {
+      "id": "109",
+      "text": "bezahlen",
+      "article": "",
+      "phonetic": "[bəˈt͡saːlən]",
+      "source": "g2p",
+      "meaning": "支付",
+      "example": "Wo muss ich bezahlen?"
+    },
+    {
+      "id": "110",
+      "text": "Bier",
+      "article": "das",
+      "phonetic": "[biːɐ̯]",
+      "source": "g2p",
+      "meaning": "啤酒",
+      "example": "Noch ein Bier bitte."
+    },
+    {
+      "id": "111",
+      "text": "Bild",
+      "article": "das",
+      "phonetic": "[bɪlt]",
+      "source": "g2p",
+      "meaning": "图片；照片",
+      "example": "Hast du ein Bild von deinem Sohn?"
+    },
+    {
+      "id": "112",
+      "text": "billig",
+      "article": "",
+      "phonetic": "[ˈbɪlɪç]",
+      "source": "g2p",
+      "meaning": "便宜的",
+      "example": "Die Jacke kostet nur 10 Euro! Die ist aber billig!"
+    },
+    {
+      "id": "113",
+      "text": "Birne",
+      "article": "die",
+      "phonetic": "[ˈbɪʁnə]",
+      "source": "g2p",
+      "meaning": "梨",
+      "example": "Ein Kilo Birnen, bitte!"
+    },
+    {
+      "id": "114",
+      "text": "bis",
+      "article": "",
+      "phonetic": "[bɪs]",
+      "source": "g2p",
+      "meaning": "直到",
+      "example": "Ich fahre nur bis Stuttgart. / Ich warte bis morgen."
+    },
+    {
+      "id": "115",
+      "text": "bisschen",
+      "article": "",
+      "phonetic": "[ˈbɪsçən]",
+      "source": "g2p",
+      "meaning": "一点，一些",
+      "example": "Ich spreche Englisch, Französisch und ein bisschen Deutsch."
+    },
+    {
+      "id": "116",
+      "text": "bitte",
+      "article": "",
+      "phonetic": "[ˈbɪtə]",
+      "source": "g2p",
+      "meaning": "请；不客气",
+      "example": "Eine Tasse Kaffee, bitte! / Sprechen Sie bitte leise!"
+    },
+    {
+      "id": "117",
+      "text": "Bitte",
+      "article": "die",
+      "phonetic": "[ˈbɪtə]",
+      "source": "g2p",
+      "meaning": "请求",
+      "example": "Ich habe noch eine Bitte."
+    },
+    {
+      "id": "118",
+      "text": "bitten",
+      "article": "",
+      "phonetic": "[ˈbɪtn̩]",
+      "source": "g2p",
+      "meaning": "请求",
+      "example": "Darf ich Sie um etwas bitten?"
+    },
+    {
+      "id": "119",
+      "text": "bitter",
+      "article": "",
+      "phonetic": "[ˈbɪtɐ]",
+      "source": "g2p",
+      "meaning": "苦的",
+      "example": "Der Kaffee schmeckt bitter."
+    },
+    {
+      "id": "120",
+      "text": "bleiben",
+      "article": "",
+      "phonetic": "[ˈblaɪ̯bn̩]",
+      "source": "g2p",
+      "meaning": "停留；保持",
+      "example": "Ich bleibe heute zu Hause. / Wir bleiben nur bis morgen."
+    },
+    {
+      "id": "121",
+      "text": "Bleistift",
+      "article": "der",
+      "phonetic": "[ˈblaɪ̯ˌʃtɪft]",
+      "source": "g2p",
+      "meaning": "铅笔",
+      "example": "Hast du einen Bleistift?"
+    },
+    {
+      "id": "122",
+      "text": "Blick",
+      "article": "der",
+      "phonetic": "[blɪk]",
+      "source": "g2p",
+      "meaning": "目光；视野",
+      "example": "Von diesem Hotel hat man einen guten Blick auf den Rhein."
+    },
+    {
+      "id": "123",
+      "text": "Blume",
+      "article": "die",
+      "phonetic": "[ˈbluːmə]",
+      "source": "g2p",
+      "meaning": "花",
+      "example": "Gefallen dir die Blumen?"
+    },
+    {
+      "id": "124",
+      "text": "Bogen",
+      "article": "der",
+      "phonetic": "[ˈboːɡn̩]",
+      "source": "g2p",
+      "meaning": "表格；纸张",
+      "example": "Schreiben Sie Ihre Lösungen bitte auf den Antwortbogen."
+    },
+    {
+      "id": "125",
+      "text": "böse",
+      "article": "",
+      "phonetic": "[ˈbøːzə]",
+      "source": "g2p",
+      "meaning": "生气的",
+      "example": "Sie ist böse auf mich."
+    },
+    {
+      "id": "126",
+      "text": "brauchen",
+      "article": "",
+      "phonetic": "[ˈbʁaʊ̯xn̩]",
+      "source": "g2p",
+      "meaning": "需要",
+      "example": "Brauchst du die Zeitung noch?"
+    },
+    {
+      "id": "127",
+      "text": "breit",
+      "article": "",
+      "phonetic": "[bʁaɪ̯t]",
+      "source": "g2p",
+      "meaning": "宽的",
+      "example": "Wie breit ist der Schrank?"
+    },
+    {
+      "id": "128",
+      "text": "Brief",
+      "article": "der",
+      "phonetic": "[bʁiːf]",
+      "source": "g2p",
+      "meaning": "信",
+      "example": "Haben Sie einen Brief für mich?"
+    },
+    {
+      "id": "129",
+      "text": "Briefmarke",
+      "article": "die",
+      "phonetic": "[ˈbʁiːfˌmaʁkə]",
+      "source": "g2p",
+      "meaning": "邮票",
+      "example": "Kaufst du bitte Briefmarken bei der Post."
+    },
+    {
+      "id": "130",
+      "text": "bringen",
+      "article": "",
+      "phonetic": "[ˈbʁɪŋən]",
+      "source": "g2p",
+      "meaning": "带来；送",
+      "example": "Bringen Sie mir bitte noch einen Kaffee! / Wir müssen ihn zum Arzt bringen."
+    },
+    {
+      "id": "131",
+      "text": "Brot",
+      "article": "das",
+      "phonetic": "[bʁoːt]",
+      "source": "g2p",
+      "meaning": "面包",
+      "example": "Haben Sie auch Weißbrot? / Nimm noch ein paar Brote für die Fahrt mit."
+    },
+    {
+      "id": "132",
+      "text": "Brötchen",
+      "article": "das",
+      "phonetic": "[ˈbʁøːtçən]",
+      "source": "g2p",
+      "meaning": "小面包",
+      "example": "Möchtest du Brötchen zum Frühstück?"
+    },
+    {
+      "id": "133",
+      "text": "Bruder",
+      "article": "der",
+      "phonetic": "[ˈbʁuːdɐ]",
+      "source": "g2p",
+      "meaning": "兄弟",
+      "example": "Sein Bruder arbeitet auch hier."
+    },
+    {
+      "id": "134",
+      "text": "Buch",
+      "article": "das",
+      "phonetic": "[buːx]",
+      "source": "g2p",
+      "meaning": "书",
+      "example": "Gute Bücher sind oft sehr teuer."
+    },
+    {
+      "id": "135",
+      "text": "Buchstabe",
+      "article": "der",
+      "phonetic": "[ˈbuːxˌʃtaːbə]",
+      "source": "g2p",
+      "meaning": "字母",
+      "example": "Diesen Buchstaben gibt es in meiner Sprache nicht."
+    },
+    {
+      "id": "136",
+      "text": "buchstabieren",
+      "article": "",
+      "phonetic": "[buːxʃtaˈbiːʁən]",
+      "source": "g2p",
+      "meaning": "拼写",
+      "example": "Bitte buchstabieren Sie Ihren Namen."
+    },
+    {
+      "id": "137",
+      "text": "Bus",
+      "article": "der",
+      "phonetic": "[bʊs]",
+      "source": "g2p",
+      "meaning": "公共汽车",
+      "example": "Wann kommt der nächste Bus?"
+    },
+    {
+      "id": "138",
+      "text": "Butter",
+      "article": "die",
+      "phonetic": "[ˈbʊtɐ]",
+      "source": "g2p",
+      "meaning": "黄油",
+      "example": "Für mich bitte ein Brötchen mit Butter und Käse."
+    },
+    {
+      "id": "139",
+      "text": "Café",
+      "article": "das",
+      "phonetic": "[kaˈfeː]",
+      "source": "g2p",
+      "meaning": "咖啡馆",
+      "example": "Sollen wir uns im Café treffen?"
+    },
+    {
+      "id": "140",
+      "text": "CD",
+      "article": "die",
+      "phonetic": "[t͡seːˈdeː]",
+      "source": "g2p",
+      "meaning": "CD光盘",
+      "example": "Bring bitte deine Lieblings-CD mit."
+    },
+    {
+      "id": "141",
+      "text": "Chef",
+      "article": "der",
+      "phonetic": "[ʃɛf]",
+      "source": "g2p",
+      "meaning": "上司，老板",
+      "example": "Wir haben eine neue Chefin."
+    },
+    {
+      "id": "142",
+      "text": "circa",
+      "article": "",
+      "phonetic": "[ˈt͡sɪʁka]",
+      "source": "g2p",
+      "meaning": "大约",
+      "example": "Von Mainz nach Frankfurt sind es circa fünfzig Kilometer."
+    },
+    {
+      "id": "143",
+      "text": "Computer",
+      "article": "der",
+      "phonetic": "[kɔmˈpjuːtɐ]",
+      "source": "g2p",
+      "meaning": "计算机，电脑",
+      "example": "Wann bekommst du deinen neuen Computer?"
+    },
+    {
+      "id": "144",
+      "text": "da",
+      "article": "",
+      "phonetic": "[daː]",
+      "source": "g2p",
+      "meaning": "那里；那时；因为",
+      "example": "Da hinten ist er ja. / Wir sprechen gerade über Paul. Da kommt er ja gerade. / Ich nehme das da."
+    },
+    {
+      "id": "145",
+      "text": "Dame",
+      "article": "die",
+      "phonetic": "[ˈdaːmə]",
+      "source": "g2p",
+      "meaning": "女士；夫人",
+      "example": "Ist Herr Klein schon da? / Damen (an der Toilette) / Sehr geehrte Damen und Herren!"
+    },
+    {
+      "id": "146",
+      "text": "daneben",
+      "article": "",
+      "phonetic": "[daˈneːbn̩]",
+      "source": "g2p",
+      "meaning": "在旁边",
+      "example": "Du kennst doch die Post. Daneben ist die Bank."
+    },
+    {
+      "id": "147",
+      "text": "danken",
+      "article": "",
+      "phonetic": "[ˈdaŋkn̩]",
+      "source": "g2p",
+      "meaning": "感谢",
+      "example": "Ich danke Ihnen für die Einladung."
+    },
+    {
+      "id": "148",
+      "text": "Dank",
+      "article": "der",
+      "phonetic": "[daŋk]",
+      "source": "g2p",
+      "meaning": "感谢",
+      "example": "Vielen Dank! / Herzlichen Dank!"
+    },
+    {
+      "id": "149",
+      "text": "danke",
+      "article": "",
+      "phonetic": "[ˈdaŋkə]",
+      "source": "g2p",
+      "meaning": "谢谢",
+      "example": "Soll ich Ihnen helfen? - Nein, danke!"
+    },
+    {
+      "id": "150",
+      "text": "dann",
+      "article": "",
+      "phonetic": "[dan]",
+      "source": "g2p",
+      "meaning": "然后，那么",
+      "example": "Ich muss noch schnell zur Post, dann komme ich."
+    },
+    {
+      "id": "151",
+      "text": "Datum",
+      "article": "das",
+      "phonetic": "[ˈdaːtʊm]",
+      "source": "g2p",
+      "meaning": "日期",
+      "example": "Bitte schreiben Sie noch das Datum auf das Formular."
+    },
+    {
+      "id": "152",
+      "text": "dauern",
+      "article": "",
+      "phonetic": "[ˈdaʊ̯ɐn]",
+      "source": "g2p",
+      "meaning": "持续",
+      "example": "Wie lange dauert der Film?"
+    },
+    {
+      "id": "153",
+      "text": "dein-",
+      "article": "",
+      "phonetic": "[daɪ̯n]",
+      "source": "g2p",
+      "meaning": "你的",
+      "example": "Ist das dein Auto? / Ist das deins?"
+    },
+    {
+      "id": "154",
+      "text": "der, die, das",
+      "article": "",
+      "phonetic": "[deːɐ̯], [diː], [das]",
+      "source": "g2p",
+      "meaning": "定冠词（这个/那个）",
+      "example": "Ich kann nicht kommen, denn ich bin krank. / Ich nehme das da. / Hier ist der Brief, den du suchst. / Die Fahrkarte bekommst du am Bahnhof."
+    },
+    {
+      "id": "155",
+      "text": "dich",
+      "article": "",
+      "phonetic": "[dɪç]",
+      "source": "g2p",
+      "meaning": "你（宾格）",
+      "example": "Die Blumen sind für dich."
+    },
+    {
+      "id": "156",
+      "text": "dies-",
+      "article": "",
+      "phonetic": "[diːs]",
+      "source": "g2p",
+      "meaning": "这个",
+      "example": "Ich nehme lieber diesen Kuchen."
+    },
+    {
+      "id": "157",
+      "text": "dir",
+      "article": "",
+      "phonetic": "[diːɐ̯]",
+      "source": "g2p",
+      "meaning": "你（与格）",
+      "example": "Gefallen dir die Blumen?"
+    },
+    {
+      "id": "158",
+      "text": "Disco",
+      "article": "die",
+      "phonetic": "[ˈdɪsko]",
+      "source": "g2p",
+      "meaning": "迪斯科舞厅",
+      "example": "Heute abend gehen wir in die Disco tanzen."
+    },
+    {
+      "id": "159",
+      "text": "Doktor",
+      "article": "der",
+      "phonetic": "[ˈdɔktoːɐ̯]",
+      "source": "g2p",
+      "meaning": "医生；博士",
+      "example": "Meine Tochter ist krank. Wir gehen zum Doktor."
+    },
+    {
+      "id": "160",
+      "text": "Doppelzimmer",
+      "article": "das",
+      "phonetic": "[ˈdɔpl̩ˌt͡sɪmɐ]",
+      "source": "g2p",
+      "meaning": "双人间",
+      "example": "Wollen Sie ein Doppelzimmer oder ein Einzelzimmer?"
+    },
+    {
+      "id": "161",
+      "text": "Dorf",
+      "article": "das",
+      "phonetic": "[dɔʁf]",
+      "source": "g2p",
+      "meaning": "村庄",
+      "example": "Meine Familie lebt in einem Dorf."
+    },
+    {
+      "id": "162",
+      "text": "dort",
+      "article": "",
+      "phonetic": "[dɔʁt]",
+      "source": "g2p",
+      "meaning": "那里",
+      "example": "Deine Tasche kannst du dorthin stellen. / Dort ist unser Haus."
+    },
+    {
+      "id": "163",
+      "text": "draußen",
+      "article": "",
+      "phonetic": "[ˈdʁaʊ̯sn̩]",
+      "source": "g2p",
+      "meaning": "在外面",
+      "example": "Wollen wir draußen sitzen?"
+    },
+    {
+      "id": "164",
+      "text": "drucken",
+      "article": "",
+      "phonetic": "[ˈdʁʊkn̩]",
+      "source": "g2p",
+      "meaning": "打印",
+      "example": "Bitte drucke das Formular für mich."
+    },
+    {
+      "id": "165",
+      "text": "Drucker",
+      "article": "der",
+      "phonetic": "[ˈdʁʊkɐ]",
+      "source": "g2p",
+      "meaning": "打印机",
+      "example": "Mein Drucker ist kaputt."
+    },
+    {
+      "id": "166",
+      "text": "drücken",
+      "article": "",
+      "phonetic": "[ˈdʁʏkn̩]",
+      "source": "g2p",
+      "meaning": "按，压",
+      "example": "Drück hier, dann geht der Computer an."
+    },
+    {
+      "id": "167",
+      "text": "durch",
+      "article": "",
+      "phonetic": "[dʊʁç]",
+      "source": "g2p",
+      "meaning": "穿过，通过",
+      "example": "Am besten gehen Sie durch die Breite Straße."
+    },
+    {
+      "id": "168",
+      "text": "Durchsage",
+      "article": "die",
+      "phonetic": "[ˈdʊʁçˌzaːɡə]",
+      "source": "g2p",
+      "meaning": "广播通知",
+      "example": "Ich habe die Durchsage nicht verstanden."
+    },
+    {
+      "id": "169",
+      "text": "dürfen",
+      "article": "",
+      "phonetic": "[ˈdʏʁfn̩]",
+      "source": "g2p",
+      "meaning": "可以，允许",
+      "example": "Sie dürfen hier nicht rauchen. / Darf ich Sie zu einem Kaffee einladen? / Es darf nicht mehr als 15 Euro kosten."
+    },
+    {
+      "id": "170",
+      "text": "Durst",
+      "article": "der",
+      "phonetic": "[dʊʁst]",
+      "source": "g2p",
+      "meaning": "口渴",
+      "example": "Hast du etwas zu trinken? Ich habe großen Durst."
+    },
+    {
+      "id": "171",
+      "text": "duschen",
+      "article": "",
+      "phonetic": "[ˈduːʃn̩]",
+      "source": "g2p",
+      "meaning": "淋浴",
+      "example": "Ich bade nicht so gern, ich dusche lieber."
+    },
+    {
+      "id": "172",
+      "text": "Dusche",
+      "article": "die",
+      "phonetic": "[ˈduːʃə]",
+      "source": "g2p",
+      "meaning": "淋浴；淋浴间",
+      "example": "Unsere Wohnung hat nur eine Dusche."
+    },
+    {
+      "id": "173",
+      "text": "Ecke",
+      "article": "die",
+      "phonetic": "[ˈɛkə]",
+      "source": "g2p",
+      "meaning": "角落；拐角",
+      "example": "An der nächsten Ecke links."
+    },
+    {
+      "id": "174",
+      "text": "Ehefrau",
+      "article": "die",
+      "phonetic": "[ˈeːəˌfʁaʊ̯]",
+      "source": "g2p",
+      "meaning": "妻子",
+      "example": "Das ist mein (Ehe-) Mann/meine (Ehe-) Frau."
+    },
+    {
+      "id": "175",
+      "text": "Ei",
+      "article": "das",
+      "phonetic": "[aɪ̯]",
+      "source": "g2p",
+      "meaning": "蛋，鸡蛋",
+      "example": "Möchtest du ein Ei zum Frühstück?"
+    },
+    {
+      "id": "176",
+      "text": "eilig",
+      "article": "",
+      "phonetic": "[ˈaɪ̯lɪç]",
+      "source": "g2p",
+      "meaning": "紧急的，匆忙的",
+      "example": "Hast du es eilig?"
+    },
+    {
+      "id": "177",
+      "text": "ein-",
+      "article": "",
+      "phonetic": "[aɪ̯n]",
+      "source": "g2p",
+      "meaning": "一个；不定冠词",
+      "example": "Ich nehme ein Bier. Willst du auch eins? / Ist hier einer, der das kann?"
+    },
+    {
+      "id": "178",
+      "text": "einfach",
+      "article": "",
+      "phonetic": "[ˈaɪ̯nˌfax]",
+      "source": "g2p",
+      "meaning": "简单的；单程的",
+      "example": "Die Prüfung ist ganz einfach. / Hin und zurück? - Nein, bitte nur einfach. / Ich brauche nur ein einfaches Zimmer."
+    },
+    {
+      "id": "179",
+      "text": "Eingang",
+      "article": "der",
+      "phonetic": "[ˈaɪ̯nˌɡaŋ]",
+      "source": "g2p",
+      "meaning": "入口",
+      "example": "Der Eingang ist um die Ecke."
+    },
+    {
+      "id": "180",
+      "text": "einkaufen",
+      "article": "",
+      "phonetic": "[ˈaɪ̯nˌkaʊ̯fn̩]",
+      "source": "g2p",
+      "meaning": "购物",
+      "example": "Ich muss noch für morgen einkaufen."
+    },
+    {
+      "id": "181",
+      "text": "einladen",
+      "article": "",
+      "phonetic": "[ˈaɪ̯nˌlaːdn̩]",
+      "source": "g2p",
+      "meaning": "邀请",
+      "example": "Darf ich Sie zu einem Kaffee einladen?"
+    },
+    {
+      "id": "182",
+      "text": "Einladung",
+      "article": "die",
+      "phonetic": "[ˈaɪ̯nˌlaːdʊŋ]",
+      "source": "g2p",
+      "meaning": "邀请",
+      "example": "Danke für die Einladung!"
+    },
+    {
+      "id": "183",
+      "text": "einmal",
+      "article": "",
+      "phonetic": "[ˈaɪ̯nˌmaːl]",
+      "source": "g2p",
+      "meaning": "一次",
+      "example": "Diese Prüfung mache ich nicht noch einmal."
+    },
+    {
+      "id": "184",
+      "text": "einsteigen",
+      "article": "",
+      "phonetic": "[ˈaɪ̯nˌʃtaɪ̯ɡn̩]",
+      "source": "g2p",
+      "meaning": "上车，登上",
+      "example": "Schnell, steig ein, der Zug fährt gleich."
+    },
+    {
+      "id": "185",
+      "text": "Eintritt",
+      "article": "der",
+      "phonetic": "[ˈaɪ̯nˌtʁɪt]",
+      "source": "g2p",
+      "meaning": "入场；入场费",
+      "example": "Der Preis für den Eintritt ist 5 Euro."
+    },
+    {
+      "id": "186",
+      "text": "Einzelzimmer",
+      "article": "das",
+      "phonetic": "[ˈaɪ̯nt͡sl̩ˌt͡sɪmɐ]",
+      "source": "g2p",
+      "meaning": "单人间",
+      "example": "Haben Sie noch ein Einzelzimmer?"
+    },
+    {
+      "id": "187",
+      "text": "Eltern",
+      "article": "pl. (die)",
+      "phonetic": "[ˈɛltɐn]",
+      "source": "g2p",
+      "meaning": "父母",
+      "example": "Meine Eltern leben in Spanien."
+    },
+    {
+      "id": "188",
+      "text": "E-Mail",
+      "article": "die",
+      "phonetic": "[ˈiːmeːl]",
+      "source": "g2p",
+      "meaning": "电子邮件",
+      "example": "Ich habe Ihre E-Mail nicht bekommen."
+    },
+    {
+      "id": "189",
+      "text": "Empfänger",
+      "article": "der",
+      "phonetic": "[ɛmˈp͡fɛŋɐ]",
+      "source": "g2p",
+      "meaning": "收件人",
+      "example": "Auf dem Brief steht dein Name, also bist du der Empfänger."
+    },
+    {
+      "id": "190",
+      "text": "empfehlen",
+      "article": "",
+      "phonetic": "[ɛmˈp͡feːlən]",
+      "source": "g2p",
+      "meaning": "推荐",
+      "example": "Welchen Wein können Sie mir empfehlen?"
+    },
+    {
+      "id": "191",
+      "text": "enden",
+      "article": "",
+      "phonetic": "[ˈɛndn̩]",
+      "source": "g2p",
+      "meaning": "结束",
+      "example": "Die Straße endet hier."
+    },
+    {
+      "id": "192",
+      "text": "Ende",
+      "article": "das",
+      "phonetic": "[ˈɛndə]",
+      "source": "g2p",
+      "meaning": "结束，末尾",
+      "example": "Sie wohnt am Ende der Straße. / Er bekommt sein Geld am Ende des Monats."
+    },
+    {
+      "id": "193",
+      "text": "entschuldigen",
+      "article": "",
+      "phonetic": "[ɛntˈʃʊldɪɡn̩]",
+      "source": "g2p",
+      "meaning": "原谅；道歉",
+      "example": "Entschuldigen Sie bitte!"
+    },
+    {
+      "id": "194",
+      "text": "Entschuldigung",
+      "article": "die",
+      "phonetic": "[ɛntˈʃʊldɪɡʊŋ]",
+      "source": "g2p",
+      "meaning": "道歉；原谅",
+      "example": "Entschuldigung! – Bitte."
+    },
+    {
+      "id": "195",
+      "text": "er",
+      "article": "",
+      "phonetic": "[eːɐ̯]",
+      "source": "g2p",
+      "meaning": "他",
+      "example": "Er heißt Ali."
+    },
+    {
+      "id": "196",
+      "text": "Ergebnis",
+      "article": "das",
+      "phonetic": "[ɛɐ̯ˈɡeːpnɪs]",
+      "source": "g2p",
+      "meaning": "结果",
+      "example": "Das Ergebnis des Tests bekommen Sie in zwei Wochen."
+    },
+    {
+      "id": "197",
+      "text": "erklären",
+      "article": "",
+      "phonetic": "[ɛɐ̯ˈklɛːʁən]",
+      "source": "g2p",
+      "meaning": "解释",
+      "example": "Kannst du mir das erklären?"
+    },
+    {
+      "id": "198",
+      "text": "erlauben",
+      "article": "",
+      "phonetic": "[ɛɐ̯ˈlaʊ̯bn̩]",
+      "source": "g2p",
+      "meaning": "允许",
+      "example": "Rauchen ist hier nicht erlaubt."
+    },
+    {
+      "id": "199",
+      "text": "Erwachsene",
+      "article": "der/die",
+      "phonetic": "[ɛɐ̯ˈvaksənə]",
+      "source": "g2p",
+      "meaning": "成年人",
+      "example": "Dieser Film ist nur für Erwachsene."
+    },
+    
+      {
+        "id": "200",
+        "text": "erzählen",
+        "article": "",
+        "phonetic": "[ɛɐ̯ˈt͡sɛːlən]",
+        "source": "g2p",
+        "meaning": "讲述，叙述",
+        "example": "Wir müssen euch etwas erzählen!"
+      },
+      {
+        "id": "201",
+        "text": "es",
+        "article": "",
+        "phonetic": "[ɛs]",
+        "source": "g2p",
+        "meaning": "它",
+        "example": "Es regnet."
+      },
+      {
+        "id": "202",
+        "text": "essen",
+        "article": "",
+        "phonetic": "[ˈɛsn̩]",
+        "source": "g2p",
+        "meaning": "吃",
+        "example": "Was gibt es zu essen?"
+      },
+      {
+        "id": "203",
+        "text": "Essen",
+        "article": "das",
+        "phonetic": "[ˈɛsn̩]",
+        "source": "g2p",
+        "meaning": "食物；用餐",
+        "example": "Das Essen ist heute sehr gut."
+      },
+      {
+        "id": "204",
+        "text": "euer",
+        "article": "",
+        "phonetic": "[ˈɔɪ̯ɐ]",
+        "source": "g2p",
+        "meaning": "你们的",
+        "example": "Euer Kurs beginnt heute."
+      },
+      {
+        "id": "205",
+        "text": "fahren",
+        "article": "",
+        "phonetic": "[ˈfaːʁən]",
+        "source": "g2p",
+        "meaning": "驾驶；乘坐（交通工具）",
+        "example": "Ich fahre mit dem Auto zur Arbeit."
+      },
+      {
+        "id": "206",
+        "text": "Fahrer",
+        "article": "der",
+        "phonetic": "[ˈfaːʁɐ]",
+        "source": "g2p",
+        "meaning": "司机",
+        "example": "Bitte nicht mit dem Fahrer sprechen!"
+      },
+      {
+        "id": "207",
+        "text": "Fahrkarte",
+        "article": "die",
+        "phonetic": "[ˈfaːɐ̯ˌkaʁtə]",
+        "source": "g2p",
+        "meaning": "车票",
+        "example": "Hast du schon eine Fahrkarte?"
+      },
+      {
+        "id": "208",
+        "text": "Fahrrad",
+        "article": "das",
+        "phonetic": "[ˈfaːɐ̯ˌʁaːt]",
+        "source": "g2p",
+        "meaning": "自行车",
+        "example": "Fährst du mit dem Fahrrad oder mit dem Auto?"
+      },
+      {
+        "id": "209",
+        "text": "falsch",
+        "article": "",
+        "phonetic": "[falʃ]",
+        "source": "g2p",
+        "meaning": "错误的",
+        "example": "Das ist falsch."
+      },
+      {
+        "id": "210",
+        "text": "Familie",
+        "article": "die",
+        "phonetic": "[faˈmiːli̯ə]",
+        "source": "g2p",
+        "meaning": "家庭",
+        "example": "Meine Familie lebt in Spanien."
+      },
+      {
+        "id": "211",
+        "text": "Familienname",
+        "article": "der",
+        "phonetic": "[faˈmiːli̯ənˌnaːmə]",
+        "source": "g2p",
+        "meaning": "姓氏",
+        "example": "Meine Familiennamen sind García González."
+      },
+      {
+        "id": "212",
+        "text": "Familienstand",
+        "article": "der",
+        "phonetic": "[faˈmiːli̯ənˌʃtant]",
+        "source": "g2p",
+        "meaning": "婚姻状况",
+        "example": "Bei „Familienstand“ musst du „ledig“ ankreuzen."
+      },
+      {
+        "id": "213",
+        "text": "Farbe",
+        "article": "die",
+        "phonetic": "[ˈfaʁbə]",
+        "source": "g2p",
+        "meaning": "颜色",
+        "example": "Die Farbe gefällt mir gut."
+      },
+      {
+        "id": "214",
+        "text": "Fax",
+        "article": "das",
+        "phonetic": "[faks]",
+        "source": "g2p",
+        "meaning": "传真",
+        "example": "Schicken Sie uns einfach ein Fax!"
+      },
+      {
+        "id": "215",
+        "text": "Feier-",
+        "article": "",
+        "phonetic": "[ˈfaɪ̯ɐ]",
+        "source": "g2p",
+        "meaning": "庆祝（前缀）",
+        "example": "z. B. Feierabend, Feiertag"
+      },
+      {
+        "id": "216",
+        "text": "feiern",
+        "article": "",
+        "phonetic": "[ˈfaɪ̯ɐn]",
+        "source": "g2p",
+        "meaning": "庆祝",
+        "example": "Wir feiern heute meinen Geburtstag."
+      },
+      {
+        "id": "217",
+        "text": "fehlen",
+        "article": "",
+        "phonetic": "[ˈfeːlən]",
+        "source": "g2p",
+        "meaning": "缺席；缺少",
+        "example": "Herr Müller ist nicht da, er fehlt schon seit drei Tagen. / Was fehlt Ihnen?"
+      },
+      {
+        "id": "218",
+        "text": "Fehler",
+        "article": "der",
+        "phonetic": "[ˈfeːlɐ]",
+        "source": "g2p",
+        "meaning": "错误",
+        "example": "Diesen Fehler mache ich immer."
+      },
+      {
+        "id": "219",
+        "text": "fernsehen",
+        "article": "",
+        "phonetic": "[ˈfɛʁnˌzeːən]",
+        "source": "g2p",
+        "meaning": "看电视",
+        "example": "Wollen wir heute Abend mal fernsehen?"
+      },
+      {
+        "id": "220",
+        "text": "fertig",
+        "article": "",
+        "phonetic": "[ˈfɛʁtɪç]",
+        "source": "g2p",
+        "meaning": "准备好的；完成了的",
+        "example": "Bist du fertig? / Ist mein Auto schon fertig?"
+      },
+      {
+        "id": "221",
+        "text": "Feuer",
+        "article": "das",
+        "phonetic": "[ˈfɔɪ̯ɐ]",
+        "source": "g2p",
+        "meaning": "火",
+        "example": "Haben Sie Feuer?"
+      },
+      {
+        "id": "222",
+        "text": "Fieber",
+        "article": "das",
+        "phonetic": "[ˈfiːbɐ]",
+        "source": "g2p",
+        "meaning": "发烧",
+        "example": "Mein Mann hat noch immer Fieber."
+      },
+      {
+        "id": "223",
+        "text": "Film",
+        "article": "der",
+        "phonetic": "[fɪlm]",
+        "source": "g2p",
+        "meaning": "电影",
+        "example": "Ich möchte gern diesen Film sehen."
+      },
+      {
+        "id": "224",
+        "text": "finden",
+        "article": "",
+        "phonetic": "[ˈfɪndn̩]",
+        "source": "g2p",
+        "meaning": "找到；认为",
+        "example": "Wir müssen den Schlüssel finden."
+      },
+      {
+        "id": "225",
+        "text": "Firma",
+        "article": "die",
+        "phonetic": "[ˈfɪʁma]",
+        "source": "g2p",
+        "meaning": "公司",
+        "example": "Er arbeitet jetzt bei einer anderen Firma."
+      },
+      {
+        "id": "226",
+        "text": "Fisch",
+        "article": "der",
+        "phonetic": "[fɪʃ]",
+        "source": "g2p",
+        "meaning": "鱼",
+        "example": "Ich esse gern Fisch. Fleisch mag ich nicht."
+      },
+      {
+        "id": "227",
+        "text": "Flasche",
+        "article": "die",
+        "phonetic": "[ˈflaʃə]",
+        "source": "g2p",
+        "meaning": "瓶子",
+        "example": "Eine Flasche Bier, bitte."
+      },
+      {
+        "id": "228",
+        "text": "Fleisch",
+        "article": "das",
+        "phonetic": "[flaɪ̯ʃ]",
+        "source": "g2p",
+        "meaning": "肉",
+        "example": "Fleisch mag ich nicht."
+      },
+      {
+        "id": "229",
+        "text": "fliegen",
+        "article": "",
+        "phonetic": "[ˈfliːɡn̩]",
+        "source": "g2p",
+        "meaning": "飞；乘飞机",
+        "example": "Ich fliege nicht gern. Deshalb fahre ich mit dem Zug."
+      },
+      {
+        "id": "230",
+        "text": "abfliegen",
+        "article": "",
+        "phonetic": "[ˈapˌfliːɡn̩]",
+        "source": "g2p",
+        "meaning": "起飞，飞离",
+        "example": "Wann fliegst du ab?"
+      },
+      {
+        "id": "231",
+        "text": "Abflug",
+        "article": "der",
+        "phonetic": "[ˈapˌfluːk]",
+        "source": "g2p",
+        "meaning": "起飞",
+        "example": "Der Abflug ist um 11.20 Uhr."
+      },
+      {
+        "id": "232",
+        "text": "Flughafen",
+        "article": "der",
+        "phonetic": "[ˈfluːkˌhaːfn̩]",
+        "source": "g2p",
+        "meaning": "机场",
+        "example": "Kannst du mich zum Flughafen bringen?"
+      },
+      {
+        "id": "233",
+        "text": "Flugzeug",
+        "article": "das",
+        "phonetic": "[ˈfluːkˌt͡sɔɪ̯k]",
+        "source": "g2p",
+        "meaning": "飞机",
+        "example": "Das Flugzeug aus Berlin kommt heute später an."
+      },
+      {
+        "id": "234",
+        "text": "Formular",
+        "article": "das",
+        "phonetic": "[fɔʁmuˈlaːɐ̯]",
+        "source": "g2p",
+        "meaning": "表格",
+        "example": "Sie müssen dieses Formular ausfüllen."
+      },
+      {
+        "id": "235",
+        "text": "Foto",
+        "article": "das",
+        "phonetic": "[ˈfoːto]",
+        "source": "g2p",
+        "meaning": "照片",
+        "example": "Darf ich ein Foto machen?"
+      },
+      {
+        "id": "236",
+        "text": "fragen",
+        "article": "",
+        "phonetic": "[ˈfʁaːɡn̩]",
+        "source": "g2p",
+        "meaning": "问",
+        "example": "Er möchte Sie etwas fragen. Wann kommen Sie?"
+      },
+      {
+        "id": "237",
+        "text": "Frage",
+        "article": "die",
+        "phonetic": "[ˈfʁaːɡə]",
+        "source": "g2p",
+        "meaning": "问题",
+        "example": "Ich habe eine Frage."
+      },
+      {
+        "id": "238",
+        "text": "Frau",
+        "article": "die",
+        "phonetic": "[fʁaʊ̯]",
+        "source": "g2p",
+        "meaning": "女士；妻子",
+        "example": "Das ist Frau Becker. / Guten Tag, Frau Schmitt! / Hier arbeiten mehr Frauen als Männer."
+      },
+      {
+        "id": "239",
+        "text": "frei",
+        "article": "",
+        "phonetic": "[fʁaɪ̯]",
+        "source": "g2p",
+        "meaning": "自由的；空闲的",
+        "example": "Ist der Platz noch frei?"
+      },
+      {
+        "id": "240",
+        "text": "Freizeit",
+        "article": "die",
+        "phonetic": "[ˈfʁaɪ̯ˌt͡saɪ̯t]",
+        "source": "g2p",
+        "meaning": "业余时间",
+        "example": "In meiner Freizeit spiele ich oft Fußball."
+      },
+      {
+        "id": "241",
+        "text": "fremd",
+        "article": "",
+        "phonetic": "[fʁɛmt]",
+        "source": "g2p",
+        "meaning": "陌生的，外国的",
+        "example": "Das weiß ich nicht; ich bin fremd hier."
+      },
+      {
+        "id": "242",
+        "text": "freuen",
+        "article": "",
+        "phonetic": "[ˈfʁɔɪ̯ən]",
+        "source": "g2p",
+        "meaning": "感到高兴",
+        "example": "Ich freue mich auf den Urlaub."
+      },
+      {
+        "id": "243",
+        "text": "Freund",
+        "article": "der",
+        "phonetic": "[fʁɔɪ̯nt]",
+        "source": "g2p",
+        "meaning": "朋友；男朋友",
+        "example": "Das ist ein Freund von mir. / Das ist meine Freundin."
+      },
+      {
+        "id": "244",
+        "text": "früher",
+        "article": "",
+        "phonetic": "[ˈfʁyːɐ]",
+        "source": "g2p",
+        "meaning": "以前，从前",
+        "example": "Früher waren wir oft zusammen im Kino."
+      },
+      {
+        "id": "245",
+        "text": "frühstücken",
+        "article": "",
+        "phonetic": "[ˈfʁyːˌʃtʏkn̩]",
+        "source": "g2p",
+        "meaning": "吃早餐",
+        "example": "Am Sonntag frühstücke ich gern im Bett."
+      },
+      {
+        "id": "246",
+        "text": "Frühstück",
+        "article": "das",
+        "phonetic": "[ˈfʁyːˌʃtʏk]",
+        "source": "g2p",
+        "meaning": "早餐",
+        "example": "Möchtest du ein Ei zum Frühstück?"
+      },
+      {
+        "id": "247",
+        "text": "Führung",
+        "article": "die",
+        "phonetic": "[ˈfyːʁʊŋ]",
+        "source": "g2p",
+        "meaning": "导游；带领",
+        "example": "Die Führung durch das Haus beginnt in 3 Minuten."
+      },
+      {
+        "id": "248",
+        "text": "für",
+        "article": "",
+        "phonetic": "[fyːɐ̯]",
+        "source": "g2p",
+        "meaning": "为了；对于；给",
+        "example": "Das ist für Sie. / Das ist der Schlüssel für die Haustür. / Das ist das Brot für morgen."
+      },
+      {
+        "id": "249",
+        "text": "Fuß",
+        "article": "der",
+        "phonetic": "[fuːs]",
+        "source": "g2p",
+        "meaning": "脚",
+        "example": "Der linke Fuß tut mir weh."
+      },
+      {
+        "id": "250",
+        "text": "Fußball",
+        "article": "der",
+        "phonetic": "[ˈfuːsˌbal]",
+        "source": "g2p",
+        "meaning": "足球",
+        "example": "Spielt ihr gerne Fußball?"
+      },
+      {
+        "id": "251",
+        "text": "Garten",
+        "article": "der",
+        "phonetic": "[ˈɡaʁtn̩]",
+        "source": "g2p",
+        "meaning": "花园",
+        "example": "Wir haben leider keinen Garten."
+      },
+      {
+        "id": "252",
+        "text": "Gast",
+        "article": "der",
+        "phonetic": "[ɡast]",
+        "source": "g2p",
+        "meaning": "客人",
+        "example": "Am Wochenende haben wir mehrere Gäste."
+      },
+      {
+        "id": "253",
+        "text": "geben",
+        "article": "",
+        "phonetic": "[ˈɡeːbn̩]",
+        "source": "g2p",
+        "meaning": "给",
+        "example": "Kannst du mir bitte deinen Kugelschreiber geben? / Es gibt keine Karten mehr."
+      },
+      {
+        "id": "254",
+        "text": "geboren",
+        "article": "",
+        "phonetic": "[ɡəˈboːʁən]",
+        "source": "g2p",
+        "meaning": "出生",
+        "example": "Ich bin in Zagreb geboren."
+      },
+      {
+        "id": "255",
+        "text": "Geburtsjahr",
+        "article": "das",
+        "phonetic": "[ɡəˈbuːɐ̯t͡sˌjaːɐ̯]",
+        "source": "g2p",
+        "meaning": "出生年份",
+        "example": "Das Geburtsjahr Ihres Sohnes, bitte?"
+      },
+      {
+        "id": "256",
+        "text": "Geburtsort",
+        "article": "der",
+        "phonetic": "[ɡəˈbuːɐ̯t͡sˌʔɔʁt]",
+        "source": "g2p",
+        "meaning": "出生地",
+        "example": "Bitte schreiben Sie Ihren Geburtsort auf das Formular."
+      },
+      {
+        "id": "257",
+        "text": "Geburtstag",
+        "article": "der",
+        "phonetic": "[ɡəˈbuːɐ̯t͡sˌtaːk]",
+        "source": "g2p",
+        "meaning": "生日",
+        "example": "Herzlichen Glückwunsch zum Geburtstag!"
+      },
+      {
+        "id": "258",
+        "text": "gefallen",
+        "article": "",
+        "phonetic": "[ɡəˈfalən]",
+        "source": "g2p",
+        "meaning": "使喜欢",
+        "example": "Das gefällt mir."
+      },
+      {
+        "id": "259",
+        "text": "gegen",
+        "article": "",
+        "phonetic": "[ˈɡeːɡn̩]",
+        "source": "g2p",
+        "meaning": "反对；朝着；大约",
+        "example": "Fahr nicht gegen den Baum! / Ich bin gegen diese Lösung. / Wer spielt gegen wen?"
+      },
+      {
+        "id": "260",
+        "text": "gehen",
+        "article": "",
+        "phonetic": "[ˈɡeːən]",
+        "source": "g2p",
+        "meaning": "走；进行；可以",
+        "example": "Ich weiß nicht, wie das geht. / Wie geht’s? / Jetzt muss ich (aber) leider gehen. / Ich muss zum Arzt gehen. / Das geht nicht!"
+      },
+      {
+        "id": "261",
+        "text": "gehören",
+        "article": "",
+        "phonetic": "[ɡəˈhøːʁən]",
+        "source": "g2p",
+        "meaning": "属于",
+        "example": "Was geht das?"
+      },
+      {
+        "id": "262",
+        "text": "Geld",
+        "article": "das",
+        "phonetic": "[ɡɛlt]",
+        "source": "g2p",
+        "meaning": "钱",
+        "example": "Hast du noch Geld?"
+      },
+      {
+        "id": "263",
+        "text": "Gemüse",
+        "article": "das",
+        "phonetic": "[ɡəˈmyːzə]",
+        "source": "g2p",
+        "meaning": "蔬菜",
+        "example": "Gemüse brauchen wir auch noch."
+      },
+      {
+        "id": "264",
+        "text": "Gepäck",
+        "article": "das",
+        "phonetic": "[ɡəˈpɛk]",
+        "source": "g2p",
+        "meaning": "行李",
+        "example": "Wollen Sie Ihr Gepäck mitnehmen?"
+      },
+      {
+        "id": "265",
+        "text": "gerade",
+        "article": "",
+        "phonetic": "[ɡəˈʁaːdə]",
+        "source": "g2p",
+        "meaning": "正好，刚刚",
+        "example": "Da kommt er ja gerade."
+      },
+      {
+        "id": "266",
+        "text": "geradeaus",
+        "article": "",
+        "phonetic": "[ɡəˈʁaːdəˌʔaʊ̯s]",
+        "source": "g2p",
+        "meaning": "笔直向前",
+        "example": "Gehen Sie immer geradeaus!"
+      },
+      {
+        "id": "267",
+        "text": "gern(e)",
+        "article": "",
+        "phonetic": "[ɡɛʁn]",
+        "source": "g2p",
+        "meaning": "乐意地，喜欢",
+        "example": "Ich gehe gerne einkaufen."
+      },
+      {
+        "id": "268",
+        "text": "Geschäft",
+        "article": "das",
+        "phonetic": "[ɡəˈʃɛft]",
+        "source": "g2p",
+        "meaning": "商店；生意",
+        "example": "Die Geschäfte schließen um 18.30 Uhr."
+      },
+      {
+        "id": "269",
+        "text": "Geschenk",
+        "article": "das",
+        "phonetic": "[ɡəˈʃɛŋk]",
+        "source": "g2p",
+        "meaning": "礼物",
+        "example": "Danke für das schöne Geschenk."
+      },
+      {
+        "id": "270",
+        "text": "Geschwister",
+        "article": "pl. (die)",
+        "phonetic": "[ɡəˈʃvɪstɐ]",
+        "source": "g2p",
+        "meaning": "兄弟姐妹",
+        "example": "Ich habe leider keine Geschwister."
+      },
+      {
+        "id": "271",
+        "text": "Gespräch",
+        "article": "das",
+        "phonetic": "[ɡəˈʃpʁɛːç]",
+        "source": "g2p",
+        "meaning": "谈话，对话",
+        "example": "Das Gespräch mit Frau Kunz ist um 14 Uhr."
+      },
+      {
+        "id": "272",
+        "text": "gestern",
+        "article": "",
+        "phonetic": "[ˈɡɛstɐn]",
+        "source": "g2p",
+        "meaning": "昨天",
+        "example": "Gestern war ich krank."
+      },
+      {
+        "id": "273",
+        "text": "gestorben",
+        "article": "",
+        "phonetic": "[ɡəˈʃtɔʁbn̩]",
+        "source": "g2p",
+        "meaning": "去世的",
+        "example": "Meine Frau ist gestern gestorben."
+      },
+      {
+        "id": "274",
+        "text": "Getränk",
+        "article": "das",
+        "phonetic": "[ɡəˈtʁɛŋk]",
+        "source": "g2p",
+        "meaning": "饮料",
+        "example": "Mein Lieblingsgetränk ist Tomatensaft."
+      },
+      {
+        "id": "275",
+        "text": "Gewicht",
+        "article": "das",
+        "phonetic": "[ɡəˈvɪçt]",
+        "source": "g2p",
+        "meaning": "重量",
+        "example": "Bei „Gewicht“ schreibst du: 62 Kilo."
+      },
+      {
+        "id": "276",
+        "text": "gewinnen",
+        "article": "",
+        "phonetic": "[ɡəˈvɪnən]",
+        "source": "g2p",
+        "meaning": "赢得",
+        "example": "Wer gewinnt das Spiel?"
+      },
+      {
+        "id": "277",
+        "text": "Glas",
+        "article": "das",
+        "phonetic": "[ɡlaːs]",
+        "source": "g2p",
+        "meaning": "玻璃杯；玻璃",
+        "example": "Bitte noch ein Glas Wein! / Wir brauchen noch drei Gläser."
+      },
+      {
+        "id": "278",
+        "text": "glauben",
+        "article": "",
+        "phonetic": "[ˈɡlaʊ̯bn̩]",
+        "source": "g2p",
+        "meaning": "相信；认为",
+        "example": "Sie können mir glauben, es ist so. / Ich glaube, er kommt gleich."
+      },
+      {
+        "id": "279",
+        "text": "gleich",
+        "article": "",
+        "phonetic": "[ɡlaɪ̯ç]",
+        "source": "g2p",
+        "meaning": "相同的；马上；无所谓",
+        "example": "Das ist mir gleich. / Das ist der gleiche Preis. / Ich komme gleich."
+      },
+      {
+        "id": "280",
+        "text": "Gleis",
+        "article": "das",
+        "phonetic": "[ɡlaɪ̯s]",
+        "source": "g2p",
+        "meaning": "轨道，站台",
+        "example": "Der ICE nach Berlin hält heute an Gleis 12."
+      },
+      {
+        "id": "281",
+        "text": "Glück",
+        "article": "das",
+        "phonetic": "[ɡlʏk]",
+        "source": "g2p",
+        "meaning": "幸运，幸福",
+        "example": "Viel Glück!"
+      },
+      {
+        "id": "282",
+        "text": "glücklich",
+        "article": "",
+        "phonetic": "[ˈɡlʏklɪç]",
+        "source": "g2p",
+        "meaning": "幸福的，幸运的",
+        "example": "Meine Kinder sind glücklich verheiratet."
+      },
+      {
+        "id": "283",
+        "text": "Glückwunsch",
+        "article": "der",
+        "phonetic": "[ˈɡlʏkˌvʊnʃ]",
+        "source": "g2p",
+        "meaning": "祝贺",
+        "example": "Herzlichen Glückwunsch zum Geburtstag."
+      },
+      {
+        "id": "284",
+        "text": "Grad",
+        "article": "der",
+        "phonetic": "[ɡʁaːt]",
+        "source": "g2p",
+        "meaning": "度（温度）",
+        "example": "Heute haben wir dreißig Grad."
+      },
+      {
+        "id": "285",
+        "text": "gratulieren",
+        "article": "",
+        "phonetic": "[ɡʁatuˈliːʁən]",
+        "source": "g2p",
+        "meaning": "祝贺",
+        "example": "Ich gratuliere dir!"
+      },
+      {
+        "id": "286",
+        "text": "grillen",
+        "article": "",
+        "phonetic": "[ˈɡʁɪlən]",
+        "source": "g2p",
+        "meaning": "烧烤",
+        "example": "Heute grillen wir im Garten."
+      },
+      {
+        "id": "287",
+        "text": "groß",
+        "article": "",
+        "phonetic": "[ɡʁoːs]",
+        "source": "g2p",
+        "meaning": "大的；高的",
+        "example": "Mein Bruder und ich sind gleich groß. / Frankfurt ist eine große Stadt."
+      },
+      {
+        "id": "288",
+        "text": "Größe",
+        "article": "die",
+        "phonetic": "[ˈɡʁøːsə]",
+        "source": "g2p",
+        "meaning": "尺寸；大小",
+        "example": "Haben Sie das auch in Größe 40?"
+      },
+      {
+        "id": "289",
+        "text": "Großeltern",
+        "article": "pl. (die)",
+        "phonetic": "[ˈɡʁoːsˌʔɛltɐn]",
+        "source": "g2p",
+        "meaning": "祖父母，外祖父母",
+        "example": "Meine Großeltern leben in Japan."
+      },
+      {
+        "id": "290",
+        "text": "Großmutter",
+        "article": "die",
+        "phonetic": "[ˈɡʁoːsˌmʊtɐ]",
+        "source": "g2p",
+        "meaning": "祖母，外祖母",
+        "example": "Meine Großmutter heißt Eva."
+      },
+      {
+        "id": "291",
+        "text": "Großvater",
+        "article": "der",
+        "phonetic": "[ˈɡʁoːsˌfaːtɐ]",
+        "source": "g2p",
+        "meaning": "祖父，外祖父",
+        "example": "Mein Großvater ist schon 80."
+      },
+      {
+        "id": "292",
+        "text": "Gruppe",
+        "article": "die",
+        "phonetic": "[ˈɡʁʊpə]",
+        "source": "g2p",
+        "meaning": "组，群",
+        "example": "Die erste Gruppe beginnt um 16 Uhr."
+      },
+      {
+        "id": "293",
+        "text": "Gruß",
+        "article": "der",
+        "phonetic": "[ɡʁuːs]",
+        "source": "g2p",
+        "meaning": "问候",
+        "example": "Viele Grüße an Ihre Frau. / Mit freundlichen Grüßen"
+      },
+      {
+        "id": "294",
+        "text": "gültig",
+        "article": "",
+        "phonetic": "[ˈɡʏltɪç]",
+        "source": "g2p",
+        "meaning": "有效的",
+        "example": "Der Pass ist not mehr gültig."
+      },
+      {
+        "id": "295",
+        "text": "günstig",
+        "article": "",
+        "phonetic": "[ˈɡʏnstɪç]",
+        "source": "g2p",
+        "meaning": "有利的；便宜的",
+        "example": "Dort gibt es günstige Angebote."
+      },
+      {
+        "id": "296",
+        "text": "gut",
+        "article": "",
+        "phonetic": "[ɡuːt]",
+        "source": "g2p",
+        "meaning": "好的",
+        "example": "Das finde ich gut. / Ich komme um 13 Uhr. – Gut! / Guten Morgen! / Ein gutes neues Jahr! / Guten Appetit!"
+      },
+      {
+        "id": "297",
+        "text": "Haar",
+        "article": "das",
+        "phonetic": "[haːɐ̯]",
+        "source": "g2p",
+        "meaning": "头发",
+        "example": "Sie hat lange Haare."
+      },
+      {
+        "id": "298",
+        "text": "haben",
+        "article": "",
+        "phonetic": "[ˈhaːbn̩]",
+        "source": "g2p",
+        "meaning": "有",
+        "example": "Ich habe ein neues Auto."
+      },
+      {
+        "id": "299",
+        "text": "Hähnchen",
+        "article": "das",
+        "phonetic": "[ˈhɛːnçən]",
+        "source": "g2p",
+        "meaning": "小鸡；鸡肉",
+        "example": "Ein Hähnchen mit Pommes bitte!"
+      },
+      
+        {
+          "id": "300",
+          "text": "Halbpension",
+          "article": "die",
+          "phonetic": "[ˈhalpˌpɑ̃zi̯oːn]",
+          "source": "g2p",
+          "meaning": "半食宿（含早餐和一顿主餐）",
+          "example": "Möchten Sie Vollpension oder Halbpension?"
+        },
+        {
+          "id": "301",
+          "text": "Halle",
+          "article": "die",
+          "phonetic": "[ˈhalə]",
+          "source": "g2p",
+          "meaning": "大厅，馆",
+          "example": "Wir treffen uns in Halle B"
+        },
+        {
+          "id": "302",
+          "text": "hallo",
+          "article": "",
+          "phonetic": "[haˈloː]",
+          "source": "g2p",
+          "meaning": "你好（问候语）",
+          "example": "Hallo Inge! Wie geht’s?"
+        },
+        {
+          "id": "303",
+          "text": "halten",
+          "article": "",
+          "phonetic": "[ˈhaltn̩]",
+          "source": "g2p",
+          "meaning": "停；持；认为",
+          "example": "Dieser Zug hält nicht in Rüdesheim."
+        },
+        {
+          "id": "304",
+          "text": "Haltestelle",
+          "article": "die",
+          "phonetic": "[ˈhaltəˌʃtɛlə]",
+          "source": "g2p",
+          "meaning": "车站，站点",
+          "example": "An der nächsten Haltestelle müssen Sie aussteigen."
+        },
+        {
+          "id": "305",
+          "text": "Hand",
+          "article": "die",
+          "phonetic": "[hant]",
+          "source": "g2p",
+          "meaning": "手",
+          "example": "Er gibt mir die Hand."
+        },
+        {
+          "id": "306",
+          "text": "Handy",
+          "article": "das",
+          "phonetic": "[ˈhɛndi]",
+          "source": "g2p",
+          "meaning": "手机",
+          "example": "In der Schule bitte die Handys ausmachen!"
+        },
+        {
+          "id": "307",
+          "text": "Haus",
+          "article": "das",
+          "phonetic": "[haʊ̯s]",
+          "source": "g2p",
+          "meaning": "房子；家",
+          "example": "In welchem Haus wohnst du? / Ich gehe jetzt nach Hause. / Paul ist nicht zu Hause."
+        },
+        {
+          "id": "308",
+          "text": "Hausaufgabe",
+          "article": "die",
+          "phonetic": "[ˈhaʊ̯sˌʔaʊ̯fɡaːbə]",
+          "source": "g2p",
+          "meaning": "家庭作业",
+          "example": "Kannst du mir bei den Hausaufgaben helfen?"
+        },
+        {
+          "id": "309",
+          "text": "Hausfrau",
+          "article": "die",
+          "phonetic": "[ˈhaʊ̯sˌfʁaʊ̯]",
+          "source": "g2p",
+          "meaning": "家庭主妇",
+          "example": "Die Hausfrau/der Hausmann wäscht, kocht und kauft ein."
+        },
+        {
+          "id": "310",
+          "text": "Heimat",
+          "article": "die",
+          "phonetic": "[ˈhaɪ̯maːt]",
+          "source": "g2p",
+          "meaning": "家乡，故乡",
+          "example": "Ich komme aus der Schweiz. Das ist meine Heimat."
+        },
+        {
+          "id": "311",
+          "text": "heiraten",
+          "article": "",
+          "phonetic": "[ˈhaɪ̯ʁaːtn̩]",
+          "source": "g2p",
+          "meaning": "结婚",
+          "example": "Meine Schwester heiratet einen Japaner."
+        },
+        {
+          "id": "312",
+          "text": "heißen",
+          "article": "",
+          "phonetic": "[ˈhaɪ̯sn̩]",
+          "source": "g2p",
+          "meaning": "名叫；意思是",
+          "example": "Ich heiße Charlotte Meier. / Wie heißt das auf Deutsch?"
+        },
+        {
+          "id": "313",
+          "text": "helfen",
+          "article": "",
+          "phonetic": "[ˈhɛlfn̩]",
+          "source": "g2p",
+          "meaning": "帮助",
+          "example": "Können Sie mir helfen, bitte?"
+        },
+        {
+          "id": "314",
+          "text": "hell",
+          "article": "",
+          "phonetic": "[hɛl]",
+          "source": "g2p",
+          "meaning": "明亮的",
+          "example": "Im Sommer ist es bis 21 Uhr hell."
+        },
+        {
+          "id": "315",
+          "text": "Herd",
+          "article": "der",
+          "phonetic": "[heːɐ̯t]",
+          "source": "g2p",
+          "meaning": "灶台，炉灶",
+          "example": "In der neuen Küche fehlt noch der Herd."
+        },
+        {
+          "id": "316",
+          "text": "Herr",
+          "article": "der",
+          "phonetic": "[hɛʁ]",
+          "source": "g2p",
+          "meaning": "先生；男士",
+          "example": "Guten Tag, Herr Sommer!"
+        },
+        {
+          "id": "317",
+          "text": "herzlich",
+          "article": "",
+          "phonetic": "[ˈhɛʁt͡slɪç]",
+          "source": "g2p",
+          "meaning": "衷心的，诚挚的",
+          "example": "Herzlichen Glückwunsch!"
+        },
+        {
+          "id": "318",
+          "text": "heute",
+          "article": "",
+          "phonetic": "[ˈhɔɪ̯tə]",
+          "source": "g2p",
+          "meaning": "今天",
+          "example": "Heute ist ein schöner Tag."
+        },
+        {
+          "id": "319",
+          "text": "hier",
+          "article": "",
+          "phonetic": "[hiːɐ̯]",
+          "source": "g2p",
+          "meaning": "这里",
+          "example": "Hier ist 06131-553221, Pamela Linke. / Hier wohne ich."
+        },
+        {
+          "id": "320",
+          "text": "Hilfe",
+          "article": "die",
+          "phonetic": "[ˈhɪlfə]",
+          "source": "g2p",
+          "meaning": "帮助",
+          "example": "Hilfe! Bitte helfen Sie mir! / Brauchen Sie meine Hilfe?"
+        },
+        {
+          "id": "321",
+          "text": "hinten",
+          "article": "",
+          "phonetic": "[ˈhɪntn̩]",
+          "source": "g2p",
+          "meaning": "在后面",
+          "example": "Die Tür zum Aussteigen ist hinten."
+        },
+        {
+          "id": "322",
+          "text": "Hobby",
+          "article": "das",
+          "phonetic": "[ˈhɔbi]",
+          "source": "g2p",
+          "meaning": "爱好",
+          "example": "Meine Hobbys sind Wandern und Schwimmen."
+        },
+        {
+          "id": "323",
+          "text": "hoch",
+          "article": "",
+          "phonetic": "[hoːx]",
+          "source": "g2p",
+          "meaning": "高的",
+          "example": "Der Mount Everest ist 8.880 Meter hoch."
+        },
+        {
+          "id": "324",
+          "text": "Hochzeit",
+          "article": "die",
+          "phonetic": "[ˈhɔxˌt͡saɪ̯t]",
+          "source": "g2p",
+          "meaning": "婚礼",
+          "example": "Zur dieser Hochzeit kommen mehr als fünfzig Gäste."
+        },
+        {
+          "id": "325",
+          "text": "holen",
+          "article": "",
+          "phonetic": "[ˈhoːlən]",
+          "source": "g2p",
+          "meaning": "取来，拿来",
+          "example": "Ich hole zwei Flaschen Wasser aus der Küche."
+        },
+        {
+          "id": "326",
+          "text": "hören",
+          "article": "",
+          "phonetic": "[ˈhøːʁən]",
+          "source": "g2p",
+          "meaning": "听",
+          "example": "Hör mal! Was ist das? / Ich habe das Lied schon mal gehört."
+        },
+        {
+          "id": "327",
+          "text": "Hotel",
+          "article": "das",
+          "phonetic": "[hoˈtɛl]",
+          "source": "g2p",
+          "meaning": "酒店",
+          "example": "Im Urlaub sind wir in einem Hotel am Meer."
+        },
+        {
+          "id": "328",
+          "text": "Hund",
+          "article": "der",
+          "phonetic": "[hʊnt]",
+          "source": "g2p",
+          "meaning": "狗",
+          "example": "Der Hund ist noch jung."
+        },
+        {
+          "id": "329",
+          "text": "Hunger",
+          "article": "der",
+          "phonetic": "[ˈhʊŋɐ]",
+          "source": "g2p",
+          "meaning": "饥饿",
+          "example": "Ich habe Hunger! Wann ist das Essen fertig?"
+        },
+        {
+          "id": "330",
+          "text": "ich",
+          "article": "",
+          "phonetic": "[ɪç]",
+          "source": "g2p",
+          "meaning": "我",
+          "example": "Ich heiße Veronika."
+        },
+        {
+          "id": "331",
+          "text": "ihr",
+          "article": "",
+          "phonetic": "[iːɐ̯]",
+          "source": "g2p",
+          "meaning": "你们；她的；他们的",
+          "example": "Gib ihr/ihm bitte das Buch. / Ruf ihn bitte an."
+        },
+        {
+          "id": "332",
+          "text": "immer",
+          "article": "",
+          "phonetic": "[ˈɪmɐ]",
+          "source": "g2p",
+          "meaning": "总是，一直",
+          "example": "Frau Bast kommt immer zu spät."
+        },
+        {
+          "id": "333",
+          "text": "in",
+          "article": "",
+          "phonetic": "[ɪn]",
+          "source": "g2p",
+          "meaning": "在...里面；到...里面",
+          "example": "Ich wohne in Wiesbaden. / Der Zug kommt in fünf Minuten. / Frau Rausch arbeitet in einem Geschäft. / Komm, wir gehen ins Kino."
+        },
+        {
+          "id": "334",
+          "text": "Information",
+          "article": "die",
+          "phonetic": "[ɪnfɔʁmaˈt͡si̯oːn]",
+          "source": "g2p",
+          "meaning": "信息；问讯处",
+          "example": "Wenn Sie Fragen haben, gehen Sie zur Information. / Wir haben hier wichtige Informationen für Sie."
+        },
+        {
+          "id": "335",
+          "text": "international",
+          "article": "",
+          "phonetic": "[ɪntɐnat͡si̯oˈnaːl]",
+          "source": "g2p",
+          "meaning": "国际的",
+          "example": "Unser Deutschkurs ist international: Silvana kommt aus Italien, Conchi aus Spanien, Yin aus China …"
+        },
+        {
+          "id": "336",
+          "text": "Internet",
+          "article": "das",
+          "phonetic": "[ˈɪntɐnɛt]",
+          "source": "g2p",
+          "meaning": "互联网",
+          "example": "Das findest du im Internet."
+        },
+        {
+          "id": "337",
+          "text": "ja",
+          "article": "",
+          "phonetic": "[jaː]",
+          "source": "g2p",
+          "meaning": "是；对",
+          "example": "Sind Sie Herr Watanabe? – Ja."
+        },
+        {
+          "id": "338",
+          "text": "Jacke",
+          "article": "die",
+          "phonetic": "[ˈjakə]",
+          "source": "g2p",
+          "meaning": "夹克",
+          "example": "Zieh dir eine Jacke an. Es ist kalt."
+        },
+        {
+          "id": "339",
+          "text": "jed-",
+          "article": "",
+          "phonetic": "[jeːt]",
+          "source": "g2p",
+          "meaning": "每个",
+          "example": "Blumen kannst du in jedem Bahnhof kaufen."
+        },
+        {
+          "id": "340",
+          "text": "jetzt",
+          "article": "",
+          "phonetic": "[jɛt͡st]",
+          "source": "g2p",
+          "meaning": "现在",
+          "example": "Jetzt machen wir eine Pause."
+        },
+        {
+          "id": "341",
+          "text": "Job",
+          "article": "der",
+          "phonetic": "[d͡ʒɔp]",
+          "source": "g2p",
+          "meaning": "工作（多指临时或非正式）",
+          "example": "Jenny hat einen neuen Job bei der Post."
+        },
+        {
+          "id": "342",
+          "text": "Jugendliche",
+          "article": "der/die",
+          "phonetic": "[ˈjuːɡəntˌlɪçə]",
+          "source": "g2p",
+          "meaning": "青少年",
+          "example": "Viele Jugendliche kaufen gern ein."
+        },
+        {
+          "id": "343",
+          "text": "jung",
+          "article": "",
+          "phonetic": "[jʊŋ]",
+          "source": "g2p",
+          "meaning": "年轻的",
+          "example": "Claudia ist 21. – Was? Noch so jung?"
+        },
+        {
+          "id": "344",
+          "text": "Junge",
+          "article": "der",
+          "phonetic": "[ˈjʊŋə]",
+          "source": "g2p",
+          "meaning": "男孩",
+          "example": "Ich habe zwei Kinder. Einen Jungen und ein Mädchen."
+        },
+        {
+          "id": "345",
+          "text": "Kaffee",
+          "article": "der",
+          "phonetic": "[ˈkafeː]",
+          "source": "g2p",
+          "meaning": "咖啡",
+          "example": "Zum Frühstück trinke ich immer Kaffee."
+        },
+        {
+          "id": "346",
+          "text": "kaputt",
+          "article": "",
+          "phonetic": "[kaˈpʊt]",
+          "source": "g2p",
+          "meaning": "坏的，破碎的",
+          "example": "Das Glas war teuer. Es geht sehr leicht kaputt."
+        },
+        {
+          "id": "347",
+          "text": "Karte",
+          "article": "die",
+          "phonetic": "[ˈkaʁtə]",
+          "source": "g2p",
+          "meaning": "卡片；门票；地图；菜单",
+          "example": "Ich schreibe meinen Bekannten eine Karte aus dem Urlaub. / Wollen wir Karten spielen? / Ich möchte auch etwas essen. Bringen Sie mir die Karte, bitte."
+        },
+        {
+          "id": "348",
+          "text": "Kartoffel",
+          "article": "die",
+          "phonetic": "[kaʁˈtɔfl̩]",
+          "source": "g2p",
+          "meaning": "土豆",
+          "example": "Für Pommes frites braucht man Kartoffeln."
+        },
+        {
+          "id": "349",
+          "text": "Kasse",
+          "article": "die",
+          "phonetic": "[ˈkasə]",
+          "source": "g2p",
+          "meaning": "收银台",
+          "example": "Zahlen Sie bitte an der Kasse."
+        },
+        {
+          "id": "350",
+          "text": "kaufen",
+          "article": "",
+          "phonetic": "[ˈkaʊ̯fn̩]",
+          "source": "g2p",
+          "meaning": "购买",
+          "example": "Tim kauft sich ein neues Auto."
+        },
+        {
+          "id": "351",
+          "text": "kein",
+          "article": "",
+          "phonetic": "[kaɪ̯n]",
+          "source": "g2p",
+          "meaning": "没有，不",
+          "example": "Es gibt keine Eintrittskarten mehr."
+        },
+        {
+          "id": "352",
+          "text": "kennen",
+          "article": "",
+          "phonetic": "[ˈkɛnən]",
+          "source": "g2p",
+          "meaning": "认识，了解",
+          "example": "Kennen Sie diese Frau? – Nein, leider nicht."
+        },
+        {
+          "id": "353",
+          "text": "kennenlernen",
+          "article": "",
+          "phonetic": "[ˈkɛnənˌlɛʁnən]",
+          "source": "g2p",
+          "meaning": "结识，认识",
+          "example": "Wir sind neu hier. Wir möchten Sie kennenlernen."
+        },
+        {
+          "id": "354",
+          "text": "Kind",
+          "article": "das",
+          "phonetic": "[kɪnt]",
+          "source": "g2p",
+          "meaning": "孩子",
+          "example": "Wie viele Kinder haben Sie?"
+        },
+        {
+          "id": "355",
+          "text": "Kindergarten",
+          "article": "der",
+          "phonetic": "[ˈkɪndɐˌɡaʁtn̩]",
+          "source": "g2p",
+          "meaning": "幼儿园",
+          "example": "Die kleine Laura geht schon in den Kindergarten."
+        },
+        {
+          "id": "356",
+          "text": "Kino",
+          "article": "das",
+          "phonetic": "[ˈkiːno]",
+          "source": "g2p",
+          "meaning": "电影院",
+          "example": "Wir sehen heute Abend im Kino einen schönen Film."
+        },
+        {
+          "id": "357",
+          "text": "Kiosk",
+          "article": "der",
+          "phonetic": "[kiˈɔsk]",
+          "source": "g2p",
+          "meaning": "报刊亭，小卖部",
+          "example": "Am Kiosk bekommen Sie Getränke, Zigaretten und Zeitungen."
+        },
+        {
+          "id": "358",
+          "text": "klar",
+          "article": "",
+          "phonetic": "[klaːɐ̯]",
+          "source": "g2p",
+          "meaning": "清楚的；当然",
+          "example": "Kommst du mit? – Klar!"
+        },
+        {
+          "id": "359",
+          "text": "Klasse",
+          "article": "die",
+          "phonetic": "[ˈklasə]",
+          "source": "g2p",
+          "meaning": "班级；等级",
+          "example": "In unserer Klasse sind fünfundzwanzig Schüler. / Im Zug fahre ich immer 2. Klasse."
+        },
+        {
+          "id": "360",
+          "text": "Kleidung",
+          "article": "die",
+          "phonetic": "[ˈklaɪ̯dʊŋ]",
+          "source": "g2p",
+          "meaning": "衣服",
+          "example": "Wo finde ich Kleidung? – Jacken im ersten, Jeans im zweiten Stock."
+        },
+        {
+          "id": "361",
+          "text": "klein",
+          "article": "",
+          "phonetic": "[klaɪ̯n]",
+          "source": "g2p",
+          "meaning": "小的",
+          "example": "Eltville ist eine kleine Stadt am Rhein."
+        },
+        {
+          "id": "362",
+          "text": "kochen",
+          "article": "",
+          "phonetic": "[ˈkɔxn̩]",
+          "source": "g2p",
+          "meaning": "烹饪；煮",
+          "example": "Herr Georgi kann gut kochen."
+        },
+        {
+          "id": "363",
+          "text": "Koffer",
+          "article": "der",
+          "phonetic": "[ˈkɔfɐ]",
+          "source": "g2p",
+          "meaning": "行李箱",
+          "example": "Ist das Ihr Koffer?"
+        },
+        {
+          "id": "364",
+          "text": "Kollege",
+          "article": "der",
+          "phonetic": "[kɔˈleːɡə]",
+          "source": "g2p",
+          "meaning": "同事",
+          "example": "Wie heißt die neue Kollegin?"
+        },
+        {
+          "id": "365",
+          "text": "kommen",
+          "article": "",
+          "phonetic": "[ˈkɔmən]",
+          "source": "g2p",
+          "meaning": "来",
+          "example": "Woher kommen Sie? – Aus Frankreich. / Kommst du mit ins Schwimmbad?"
+        },
+        {
+          "id": "366",
+          "text": "können",
+          "article": "",
+          "phonetic": "[ˈkœnən]",
+          "source": "g2p",
+          "meaning": "能够；会",
+          "example": "Ich kann Deutsch und Russisch. / Können Sie mir helfen?"
+        },
+        {
+          "id": "367",
+          "text": "Konto",
+          "article": "das",
+          "phonetic": "[ˈkɔnto]",
+          "source": "g2p",
+          "meaning": "账户",
+          "example": "Das Geld überweisen wir am ersten März auf Ihr Konto."
+        },
+        {
+          "id": "368",
+          "text": "Kopf",
+          "article": "der",
+          "phonetic": "[kɔp͡f]",
+          "source": "g2p",
+          "meaning": "头",
+          "example": "Mein Kopf tut weh!"
+        },
+        {
+          "id": "369",
+          "text": "kosten",
+          "article": "",
+          "phonetic": "[ˈkɔstn̩]",
+          "source": "g2p",
+          "meaning": "花费；品尝",
+          "example": "Wie viel kostet das? – 10 Euro."
+        },
+        {
+          "id": "370",
+          "text": "krank",
+          "article": "",
+          "phonetic": "[kʁaŋk]",
+          "source": "g2p",
+          "meaning": "生病的",
+          "example": "Ich kann heute nicht zur Arbeit kommen, ich bin krank und liege im Bett."
+        },
+        {
+          "id": "371",
+          "text": "kriegen",
+          "article": "",
+          "phonetic": "[ˈkʁiːɡn̩]",
+          "source": "g2p",
+          "meaning": "得到（口语）",
+          "example": "Ich kriege 15 Euro in der Stunde für meine Arbeit."
+        },
+        {
+          "id": "372",
+          "text": "Küche",
+          "article": "die",
+          "phonetic": "[ˈkʏçə]",
+          "source": "g2p",
+          "meaning": "厨房；菜肴",
+          "example": "Der neue Herd kommt in die Küche."
+        },
+        {
+          "id": "373",
+          "text": "Kuchen",
+          "article": "der",
+          "phonetic": "[ˈkuːxn̩]",
+          "source": "g2p",
+          "meaning": "蛋糕",
+          "example": "Ich nehme ein Stück Kuchen."
+        },
+        {
+          "id": "374",
+          "text": "Kugelschreiber",
+          "article": "der",
+          "phonetic": "[ˈkuːɡl̩ˌʃʁaɪ̯bɐ]",
+          "source": "g2p",
+          "meaning": "圆珠笔",
+          "example": "Hast du einen Kugelschreiber für mich?"
+        },
+        {
+          "id": "375",
+          "text": "Kühlschrank",
+          "article": "der",
+          "phonetic": "[ˈkyːlˌʃʁaŋk]",
+          "source": "g2p",
+          "meaning": "冰箱",
+          "example": "Haben wir noch Milch? – Ja, im Kühlschrank."
+        },
+        {
+          "id": "376",
+          "text": "kulturell",
+          "article": "",
+          "phonetic": "[kʊltuˈʁɛl]",
+          "source": "g2p",
+          "meaning": "文化的",
+          "example": "Ich bin kulturell interessiert. Ich gehe oft ins Museum."
+        },
+        {
+          "id": "377",
+          "text": "kümmern",
+          "article": "",
+          "phonetic": "[ˈkʏmɐn]",
+          "source": "g2p",
+          "meaning": "照顾，关心",
+          "example": "Jede Mutter kümmert sich um ihre kleinen Kinder."
+        },
+        {
+          "id": "378",
+          "text": "Kunde",
+          "article": "der",
+          "phonetic": "[ˈkʊndə]",
+          "source": "g2p",
+          "meaning": "顾客",
+          "example": "Einen Moment, bitte. Ich habe eine Kundin."
+        },
+        {
+          "id": "379",
+          "text": "Kurs",
+          "article": "der",
+          "phonetic": "[kʊʁs]",
+          "source": "g2p",
+          "meaning": "课程；汇率",
+          "example": "Der Deutschkurs geht bis zum Sommer."
+        },
+        {
+          "id": "380",
+          "text": "kurz",
+          "article": "",
+          "phonetic": "[kʊʁt͡s]",
+          "source": "g2p",
+          "meaning": "短的；短暂的",
+          "example": "Ricardo hat kurzes Haar."
+        },
+        {
+          "id": "381",
+          "text": "lachen",
+          "article": "",
+          "phonetic": "[ˈlaxn̩]",
+          "source": "g2p",
+          "meaning": "笑",
+          "example": "Die Kinder lachen viel."
+        },
+        {
+          "id": "382",
+          "text": "Laden",
+          "article": "der",
+          "phonetic": "[ˈlaːdn̩]",
+          "source": "g2p",
+          "meaning": "商店",
+          "example": "Im Buchladen können Sie Bücher kaufen."
+        },
+        {
+          "id": "383",
+          "text": "Land",
+          "article": "das",
+          "phonetic": "[lant]",
+          "source": "g2p",
+          "meaning": "国家；陆地；农村",
+          "example": "Italien ist ein schönes Land."
+        },
+        {
+          "id": "384",
+          "text": "lang",
+          "article": "",
+          "phonetic": "[laŋ]",
+          "source": "g2p",
+          "meaning": "长的；长久的",
+          "example": "Die Jeans ist zu lang."
+        },
+        {
+          "id": "385",
+          "text": "lange",
+          "article": "",
+          "phonetic": "[ˈlaŋə]",
+          "source": "g2p",
+          "meaning": "长久地",
+          "example": "Wie lange fährt der Zug von Hamburg nach Berlin?"
+        },
+        {
+          "id": "386",
+          "text": "langsam",
+          "article": "",
+          "phonetic": "[ˈlaŋzaːm]",
+          "source": "g2p",
+          "meaning": "慢的",
+          "example": "Könnten Sie bitte etwas langsamer sprechen?"
+        },
+        {
+          "id": "387",
+          "text": "laufen",
+          "article": "",
+          "phonetic": "[ˈlaʊ̯fn̩]",
+          "source": "g2p",
+          "meaning": "跑；行走；运转",
+          "example": "Ich möchte nicht Auto fahren, ich möchte laufen."
+        },
+        {
+          "id": "388",
+          "text": "laut",
+          "article": "",
+          "phonetic": "[laʊ̯t]",
+          "source": "g2p",
+          "meaning": "大声的；根据",
+          "example": "Nicht so laut! Das Baby schläft."
+        },
+        {
+          "id": "389",
+          "text": "leben",
+          "article": "",
+          "phonetic": "[ˈleːbn̩]",
+          "source": "g2p",
+          "meaning": "生活；居住；活着",
+          "example": "Sie lebt bei ihrer Schwester. / Ihre Eltern leben nicht mehr. / Das Leben in diesem Land ist teuer."
+        },
+        {
+          "id": "390",
+          "text": "Lebensmittel",
+          "article": "pl. (die)",
+          "phonetic": "[ˈleːbn̩sˌmɪtl̩]",
+          "source": "g2p",
+          "meaning": "食品",
+          "example": "Lebensmittel bekommen Sie im Supermarkt."
+        },
+        {
+          "id": "391",
+          "text": "ledig",
+          "article": "",
+          "phonetic": "[ˈleːdɪç]",
+          "source": "g2p",
+          "meaning": "单身的",
+          "example": "Sind Sie verheiratet? – Nein. Ledig."
+        },
+        {
+          "id": "392",
+          "text": "legen",
+          "article": "",
+          "phonetic": "[ˈleːɡn̩]",
+          "source": "g2p",
+          "meaning": "平放，放置",
+          "example": "Legen Sie das Buch auf den Tisch."
+        },
+        {
+          "id": "393",
+          "text": "Lehrer",
+          "article": "der",
+          "phonetic": "[ˈleːʁɐ]",
+          "source": "g2p",
+          "meaning": "教师",
+          "example": "Unsere Deutschlehrerin heißt Frau Müller."
+        },
+        {
+          "id": "394",
+          "text": "leicht",
+          "article": "",
+          "phonetic": "[laɪ̯çt]",
+          "source": "g2p",
+          "meaning": "轻的；容易的",
+          "example": "Der Koffer ist leicht. / Deutsch ist nicht leicht."
+        },
+        {
+          "id": "395",
+          "text": "leider",
+          "article": "",
+          "phonetic": "[ˈlaɪ̯dɐ]",
+          "source": "g2p",
+          "meaning": "遗憾地，可惜",
+          "example": "Leider kann ich nicht kommen. Ich muss zum Arzt."
+        },
+        {
+          "id": "396",
+          "text": "leise",
+          "article": "",
+          "phonetic": "[ˈlaɪ̯zə]",
+          "source": "g2p",
+          "meaning": "安静的；小声的",
+          "example": "Seid leise. Die anderen schlafen schon."
+        },
+        {
+          "id": "397",
+          "text": "lernen",
+          "article": "",
+          "phonetic": "[ˈlɛʁnən]",
+          "source": "g2p",
+          "meaning": "学习",
+          "example": "Wie lange lernen Sie schon Deutsch?"
+        },
+        {
+          "id": "398",
+          "text": "lesen",
+          "article": "",
+          "phonetic": "[ˈleːzn̩]",
+          "source": "g2p",
+          "meaning": "阅读",
+          "example": "Ich lese ein Buch von García Márquez."
+        },
+        {
+          "id": "399",
+          "text": "letzt-",
+          "article": "",
+          "phonetic": "[lɛt͡st]",
+          "source": "g2p",
+          "meaning": "最后的",
+          "example": "Morgen ist der letzte Kurstag."
+        },
+        
+          {
+            "id": "400",
+            "text": "Leute",
+            "article": "pl. (die)",
+            "phonetic": "[ˈlɔɪ̯tə]",
+            "source": "g2p",
+            "meaning": "人们",
+            "example": "In der Disko sind viele Leute."
+          },
+          {
+            "id": "401",
+            "text": "Licht",
+            "article": "das",
+            "phonetic": "[lɪçt]",
+            "source": "g2p",
+            "meaning": "灯；光",
+            "example": "Wo macht man hier das Licht an?"
+          },
+          {
+            "id": "402",
+            "text": "lieb-",
+            "article": "",
+            "phonetic": "[liːp]",
+            "source": "g2p",
+            "meaning": "亲爱的（用于称呼）",
+            "example": "Liebe Susanne, lieber Hans,"
+          },
+          {
+            "id": "403",
+            "text": "lieben",
+            "article": "",
+            "phonetic": "[ˈliːbn̩]",
+            "source": "g2p",
+            "meaning": "爱",
+            "example": "Ich liebe dich!"
+          },
+          {
+            "id": "404",
+            "text": "lieber",
+            "article": "",
+            "phonetic": "[ˈliːbɐ]",
+            "source": "g2p",
+            "meaning": "更喜欢，宁可",
+            "example": "Sie fährt lieber mit der Bahn."
+          },
+          {
+            "id": "405",
+            "text": "Lieblings-",
+            "article": "",
+            "phonetic": "[ˈliːplɪŋs]",
+            "source": "g2p",
+            "meaning": "最喜爱的",
+            "example": "Mein Lieblingsfilm ist „Schwarze Augen“."
+          },
+          {
+            "id": "406",
+            "text": "Lied",
+            "article": "das",
+            "phonetic": "[liːt]",
+            "source": "g2p",
+            "meaning": "歌曲",
+            "example": "Welches ist dein Lieblingslied?"
+          },
+          {
+            "id": "407",
+            "text": "liegen",
+            "article": "",
+            "phonetic": "[ˈliːɡn̩]",
+            "source": "g2p",
+            "meaning": "位于；平躺；放着",
+            "example": "Um neun Uhr liegt Judith noch im Bett. / Frankfurt liegt am Main."
+          },
+          {
+            "id": "408",
+            "text": "links",
+            "article": "",
+            "phonetic": "[lɪŋks]",
+            "source": "g2p",
+            "meaning": "左边；向左",
+            "example": "Gehen Sie die nächste Straße links."
+          },
+          {
+            "id": "409",
+            "text": "Lkw",
+            "article": "der",
+            "phonetic": "[ˈɛlkaːˌveː]",
+            "source": "g2p",
+            "meaning": "载重汽车，卡车",
+            "example": "Dieser Lastkraftwagen ist sehr groß."
+          },
+          {
+            "id": "410",
+            "text": "Lokal",
+            "article": "das",
+            "phonetic": "[loˈkaːl]",
+            "source": "g2p",
+            "meaning": "小餐馆，酒馆",
+            "example": "In unserer Straße gibt es ein neues Lokal."
+          },
+          {
+            "id": "411",
+            "text": "Lösung",
+            "article": "die",
+            "phonetic": "[ˈløːzʊŋ]",
+            "source": "g2p",
+            "meaning": "答案；解决",
+            "example": "Die Lösung ist ganz einfach."
+          },
+          {
+            "id": "412",
+            "text": "lustig",
+            "article": "",
+            "phonetic": "[ˈlʊstɪç]",
+            "source": "g2p",
+            "meaning": "有趣的，滑稽的",
+            "example": "Frau Mertens ist lustig. Sie lacht immer."
+          },
+          {
+            "id": "413",
+            "text": "machen",
+            "article": "",
+            "phonetic": "[ˈmaxn̩]",
+            "source": "g2p",
+            "meaning": "做；使得",
+            "example": "Was machst du heute Abend? / Ich muss jetzt das Essen machen. / Das macht 5 Euro 95. / Das macht nichts."
+          },
+          {
+            "id": "414",
+            "text": "Mädchen",
+            "article": "das",
+            "phonetic": "[ˈmɛːtçən]",
+            "source": "g2p",
+            "meaning": "女孩",
+            "example": "Familie Kurz bekommt ein Baby. – Junge oder Mädchen?"
+          },
+          {
+            "id": "415",
+            "text": "man",
+            "article": "",
+            "phonetic": "[man]",
+            "source": "g2p",
+            "meaning": "人们，有人",
+            "example": "Hier darf man nicht rauchen."
+          },
+          {
+            "id": "416",
+            "text": "Mann",
+            "article": "der",
+            "phonetic": "[man]",
+            "source": "g2p",
+            "meaning": "男人；丈夫",
+            "example": "Mein Mann arbeitet bei der Polizei."
+          },
+          {
+            "id": "417",
+            "text": "männlich",
+            "article": "",
+            "phonetic": "[ˈmɛnlɪç]",
+            "source": "g2p",
+            "meaning": "男性的",
+            "example": "Kreuzen Sie bitte an: „weiblich“ oder „männlich“."
+          },
+          {
+            "id": "418",
+            "text": "Maschine",
+            "article": "die",
+            "phonetic": "[maˈʃiːnə]",
+            "source": "g2p",
+            "meaning": "机器",
+            "example": "Die Waschmaschine ist günstig."
+          },
+          {
+            "id": "419",
+            "text": "Meer",
+            "article": "das",
+            "phonetic": "[meːɐ̯]",
+            "source": "g2p",
+            "meaning": "海",
+            "example": "Wir machen Urlaub am Meer."
+          },
+          {
+            "id": "420",
+            "text": "mehr",
+            "article": "",
+            "phonetic": "[meːɐ̯]",
+            "source": "g2p",
+            "meaning": "更多",
+            "example": "Dieses Auto kostet 1.000 Euro mehr als das andere."
+          },
+          {
+            "id": "421",
+            "text": "mein",
+            "article": "",
+            "phonetic": "[maɪ̯n]",
+            "source": "g2p",
+            "meaning": "我的",
+            "example": "Mein Vater ist Arzt."
+          },
+          {
+            "id": "422",
+            "text": "meist-",
+            "article": "",
+            "phonetic": "[maɪ̯st]",
+            "source": "g2p",
+            "meaning": "大多数的",
+            "example": "Die meisten Norddeutschen sind sehr groß."
+          },
+          {
+            "id": "423",
+            "text": "Mensch",
+            "article": "der",
+            "phonetic": "[mɛnʃ]",
+            "source": "g2p",
+            "meaning": "人",
+            "example": "Die Menschen sind hier anders als bei uns."
+          },
+          {
+            "id": "424",
+            "text": "mieten",
+            "article": "",
+            "phonetic": "[ˈmiːtn̩]",
+            "source": "g2p",
+            "meaning": "租用",
+            "example": "Ich möchte ein Auto mieten."
+          },
+          {
+            "id": "425",
+            "text": "Miete",
+            "article": "die",
+            "phonetic": "[ˈmiːtə]",
+            "source": "g2p",
+            "meaning": "租金",
+            "example": "Die Miete für diese Wohnung ist 600 Euro."
+          },
+          {
+            "id": "426",
+            "text": "Milch",
+            "article": "die",
+            "phonetic": "[mɪlç]",
+            "source": "g2p",
+            "meaning": "牛奶",
+            "example": "Die Milch steht im Kühlschrank."
+          },
+          {
+            "id": "427",
+            "text": "mit",
+            "article": "",
+            "phonetic": "[mɪt]",
+            "source": "g2p",
+            "meaning": "和...一起；用",
+            "example": "Trinken Sie den Kaffee mit Milch?"
+          },
+          {
+            "id": "428",
+            "text": "mitbringen",
+            "article": "",
+            "phonetic": "[ˈmɪtˌbʁɪŋən]",
+            "source": "g2p",
+            "meaning": "带来",
+            "example": "Ich gehe einkaufen. Soll ich dir was mitbringen?"
+          },
+          {
+            "id": "429",
+            "text": "mitkommen",
+            "article": "",
+            "phonetic": "[ˈmɪtˌkɔmən]",
+            "source": "g2p",
+            "meaning": "一起来",
+            "example": "Ich gehe ins Kino. Kommst du mit?"
+          },
+          {
+            "id": "430",
+            "text": "mitmachen",
+            "article": "",
+            "phonetic": "[ˈmɪtˌmaxn̩]",
+            "source": "g2p",
+            "meaning": "一起做，参加",
+            "example": "Warum macht ihr nicht mit?"
+          },
+          {
+            "id": "431",
+            "text": "mitnehmen",
+            "article": "",
+            "phonetic": "[ˈmɪtˌneːmən]",
+            "source": "g2p",
+            "meaning": "带走；顺便买",
+            "example": "Nehmen wir meine Schwester ins Kino mit?"
+          },
+          {
+            "id": "432",
+            "text": "Mitte",
+            "article": "die",
+            "phonetic": "[ˈmɪtə]",
+            "source": "g2p",
+            "meaning": "中间，中心",
+            "example": "Der Lehrer steht in der Mitte des Klassenzimmers."
+          },
+          {
+            "id": "433",
+            "text": "Möbel",
+            "article": "pl. (die)",
+            "phonetic": "[ˈmøːbl̩]",
+            "source": "g2p",
+            "meaning": "家具",
+            "example": "Sind die Möbel neu?"
+          },
+          {
+            "id": "433",
+            "text": "möchten",
+            "article": "",
+            "phonetic": "[ˈmœçtn̩]",
+            "source": "g2p",
+            "meaning": "想要（礼貌表达）",
+            "example": "Was möchten Sie trinken?"
+          },
+          {
+            "id": "434",
+            "text": "mögen",
+            "article": "",
+            "phonetic": "[ˈmøːɡn̩]",
+            "source": "g2p",
+            "meaning": "喜欢；想要",
+            "example": "Magst du Kaffee oder Tee?"
+          },
+          {
+            "id": "435",
+            "text": "möglich",
+            "article": "",
+            "phonetic": "[ˈmøːklɪç]",
+            "source": "g2p",
+            "meaning": "可能的",
+            "example": "Mit dieser Fahrkarte ist die Fahrt ab 9 Uhr möglich."
+          },
+          {
+            "id": "436",
+            "text": "Moment",
+            "article": "der",
+            "phonetic": "[moˈmɛnt]",
+            "source": "g2p",
+            "meaning": "片刻，时刻",
+            "example": "Moment mal bitte! / Einen Moment bitte."
+          },
+          {
+            "id": "437",
+            "text": "morgen",
+            "article": "",
+            "phonetic": "[ˈmɔʁɡn̩]",
+            "source": "g2p",
+            "meaning": "明天",
+            "example": "Morgen beginnt die Schule um 10 Uhr."
+          },
+          {
+            "id": "438",
+            "text": "müde",
+            "article": "",
+            "phonetic": "[ˈmyːdə]",
+            "source": "g2p",
+            "meaning": "疲倦的",
+            "example": "Ich bin müde. Ich gehe schlafen."
+          },
+          {
+            "id": "439",
+            "text": "Mund",
+            "article": "der",
+            "phonetic": "[mʊnt]",
+            "source": "g2p",
+            "meaning": "嘴",
+            "example": "Öffnen Sie den Mund."
+          },
+          {
+            "id": "440",
+            "text": "müssen",
+            "article": "",
+            "phonetic": "[ˈmʏsn̩]",
+            "source": "g2p",
+            "meaning": "必须，不得不",
+            "example": "Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten."
+          },
+          {
+            "id": "441",
+            "text": "Mutter",
+            "article": "die",
+            "phonetic": "[ˈmʊtɐ]",
+            "source": "g2p",
+            "meaning": "母亲",
+            "example": "Frau Berghäuser ist die Mutter von Michaela."
+          },
+          {
+            "id": "442",
+            "text": "nach",
+            "article": "",
+            "phonetic": "[naːx]",
+            "source": "g2p",
+            "meaning": "向，往；在...之后",
+            "example": "Ich gehe jetzt nach Hause. / Ich fliege nach München. / Es ist schon 5 nach 12."
+          },
+          {
+            "id": "443",
+            "text": "nächst-",
+            "article": "",
+            "phonetic": "[nɛːçst]",
+            "source": "g2p",
+            "meaning": "下一个的",
+            "example": "Sehen wir uns nächste Woche?"
+          },
+          {
+            "id": "444",
+            "text": "Name",
+            "article": "der",
+            "phonetic": "[ˈnaːmə]",
+            "source": "g2p",
+            "meaning": "名字",
+            "example": "Mein Name ist Thomas Schmidt. / Mein Vorname ist Thomas; Schmidt ist der Familienname."
+          },
+          {
+            "id": "445",
+            "text": "nehmen",
+            "article": "",
+            "phonetic": "[ˈneːmən]",
+            "source": "g2p",
+            "meaning": "拿；取；乘坐",
+            "example": "Heute gibt es Hähnchen. Das nehme ich. / Ich nehme den Bus."
+          },
+          {
+            "id": "446",
+            "text": "nein",
+            "article": "",
+            "phonetic": "[naɪ̯n]",
+            "source": "g2p",
+            "meaning": "不",
+            "example": "Fährst du auch nach München? – Nein, ich habe keine Zeit."
+          },
+          {
+            "id": "447",
+            "text": "neu",
+            "article": "",
+            "phonetic": "[nɔɪ̯]",
+            "source": "g2p",
+            "meaning": "新的",
+            "example": "Ich bin der neue Kollege. / Wir haben eine neue Wohnung."
+          },
+          {
+            "id": "448",
+            "text": "nicht",
+            "article": "",
+            "phonetic": "[nɪçt]",
+            "source": "g2p",
+            "meaning": "不",
+            "example": "Das stimmt nicht. / Das ist doch schön, nicht?"
+          },
+          {
+            "id": "449",
+            "text": "nichts",
+            "article": "",
+            "phonetic": "[nɪçt͡s]",
+            "source": "g2p",
+            "meaning": "没有什么",
+            "example": "Das macht nichts. / Hier kaufe ich nichts. Der Laden gefällt mir nicht."
+          },
+          {
+            "id": "450",
+            "text": "nie",
+            "article": "",
+            "phonetic": "[niː]",
+            "source": "g2p",
+            "meaning": "从不",
+            "example": "Er kommt nie pünktlich."
+          },
+          {
+            "id": "451",
+            "text": "noch",
+            "article": "",
+            "phonetic": "[nɔx]",
+            "source": "g2p",
+            "meaning": "还，仍然；再",
+            "example": "Vielleicht kommt er noch. / Wir warten noch fünf Minuten. / Ich habe noch 20 Euro."
+          },
+          {
+            "id": "452",
+            "text": "normal",
+            "article": "",
+            "phonetic": "[nɔʁˈmaːl]",
+            "source": "g2p",
+            "meaning": "正常的",
+            "example": "75 kg. Sein Gewicht ist normal."
+          },
+          {
+            "id": "453",
+            "text": "Nummer",
+            "article": "die",
+            "phonetic": "[ˈnʊmɐ]",
+            "source": "g2p",
+            "meaning": "号码",
+            "example": "Sie haben Zimmer Nummer zwölf. / Welche Hausnummer haben Sie? / Können Sie mir Ihre Nummer geben?"
+          },
+          {
+            "id": "454",
+            "text": "nur",
+            "article": "",
+            "phonetic": "[nuːɐ̯]",
+            "source": "g2p",
+            "meaning": "只，仅仅",
+            "example": "Ich möchte nur ein Glas Wasser."
+          },
+          {
+            "id": "455",
+            "text": "oben",
+            "article": "",
+            "phonetic": "[ˈoːbn̩]",
+            "source": "g2p",
+            "meaning": "上面",
+            "example": "Ich wohne oben."
+          },
+          {
+            "id": "456",
+            "text": "Obst",
+            "article": "das",
+            "phonetic": "[oːp͡st]",
+            "source": "g2p",
+            "meaning": "水果（总称）",
+            "example": "Im Sommer ist das Obst billig."
+          },
+          {
+            "id": "457",
+            "text": "oder",
+            "article": "",
+            "phonetic": "[ˈoːdɐ]",
+            "source": "g2p",
+            "meaning": "或者",
+            "example": "Wann können Sie kommen - heute oder morgen?"
+          },
+          {
+            "id": "458",
+            "text": "öffnen",
+            "article": "",
+            "phonetic": "[ˈœfnən]",
+            "source": "g2p",
+            "meaning": "打开",
+            "example": "Ich öffne die Tür."
+          },
+          {
+            "id": "459",
+            "text": "geöffnet",
+            "article": "",
+            "phonetic": "[ɡəˈœfnət]",
+            "source": "g2p",
+            "meaning": "开着的，营业中的",
+            "example": "Der Laden ist samstags bis 16.00 Uhr geöffnet."
+          },
+          {
+            "id": "460",
+            "text": "oft",
+            "article": "",
+            "phonetic": "[ɔft]",
+            "source": "g2p",
+            "meaning": "经常",
+            "example": "Petra treffe ich oft."
+          },
+          {
+            "id": "461",
+            "text": "ohne",
+            "article": "",
+            "phonetic": "[ˈoːnə]",
+            "source": "g2p",
+            "meaning": "没有",
+            "example": "Ohne Geld kann er nichts kaufen. / Den Salat machen wir ohne Öl."
+          },
+          {
+            "id": "462",
+            "text": "Öl",
+            "article": "das",
+            "phonetic": "[øːl]",
+            "source": "g2p",
+            "meaning": "油",
+            "example": "Den Salat machen wir ohne Öl."
+          },
+          {
+            "id": "463",
+            "text": "Oma",
+            "article": "die",
+            "phonetic": "[ˈoːma]",
+            "source": "g2p",
+            "meaning": "奶奶，外婆",
+            "example": "Meine Oma ist schon tot."
+          },
+          {
+            "id": "464",
+            "text": "Opa",
+            "article": "der",
+            "phonetic": "[ˈoːpa]",
+            "source": "g2p",
+            "meaning": "爷爷，外公",
+            "example": "Mein Opa heißt Hans."
+          },
+          {
+            "id": "465",
+            "text": "Ordnung",
+            "article": "die",
+            "phonetic": "[ˈɔʁdnʊŋ]",
+            "source": "g2p",
+            "meaning": "秩序；整齐",
+            "example": "Das ist in Ordnung."
+          },
+          {
+            "id": "466",
+            "text": "Ort",
+            "article": "der",
+            "phonetic": "[ɔʁt]",
+            "source": "g2p",
+            "meaning": "地方，地点",
+            "example": "Der Ort liegt am Meer."
+          },
+          {
+            "id": "467",
+            "text": "Papier",
+            "article": "das",
+            "phonetic": "[paˈpiːɐ̯]",
+            "source": "g2p",
+            "meaning": "纸",
+            "example": "Hier sind Papier und Bleistift."
+          },
+          {
+            "id": "468",
+            "text": "Papiere",
+            "article": "pl. (die)",
+            "phonetic": "[paˈpiːʁə]",
+            "source": "g2p",
+            "meaning": "证件，文件",
+            "example": "Haben Sie Ihre Papiere dabei?"
+          },
+          {
+            "id": "469",
+            "text": "Partner",
+            "article": "der",
+            "phonetic": "[ˈpaʁtnɐ]",
+            "source": "g2p",
+            "meaning": "伙伴，搭档",
+            "example": "Sie ist meine Partnerin."
+          },
+          {
+            "id": "470",
+            "text": "Party",
+            "article": "die",
+            "phonetic": "[ˈpaʁti]",
+            "source": "g2p",
+            "meaning": "聚会，派对",
+            "example": "Heute Abend machen wir eine Party."
+          },
+          {
+            "id": "471",
+            "text": "Pass",
+            "article": "der",
+            "phonetic": "[pas]",
+            "source": "g2p",
+            "meaning": "护照",
+            "example": "Im Hotel brauchst du deinen Pass."
+          },
+          {
+            "id": "472",
+            "text": "Pause",
+            "article": "die",
+            "phonetic": "[ˈpaʊ̯zə]",
+            "source": "g2p",
+            "meaning": "休息，间歇",
+            "example": "Von 12.00 bis 12.30 Uhr haben wir Mittagspause."
+          },
+          {
+            "id": "473",
+            "text": "Plan",
+            "article": "der",
+            "phonetic": "[plaːn]",
+            "source": "g2p",
+            "meaning": "计划；地图",
+            "example": "Ich kaufe mir einen Stadtplan."
+          },
+          {
+            "id": "474",
+            "text": "Platz",
+            "article": "der",
+            "phonetic": "[plat͡s]",
+            "source": "g2p",
+            "meaning": "位置；座位；广场",
+            "example": "Tut mir leid, der Platz ist besetzt. / Bitte nehmen Sie Platz! / Ich wohne Messeplatz 5."
+          },
+          {
+            "id": "475",
+            "text": "Polizei",
+            "article": "die",
+            "phonetic": "[poliˈt͡saɪ̯]",
+            "source": "g2p",
+            "meaning": "警察；警察局",
+            "example": "Holen Sie die Polizei!"
+          },
+          {
+            "id": "476",
+            "text": "Pommes frites",
+            "article": "pl. (die)",
+            "phonetic": "[pɔm ˈfʁɪt]",
+            "source": "g2p",
+            "meaning": "炸薯条",
+            "example": "Die Kinder essen Hähnchen mit Pommes frites."
+          },
+          {
+            "id": "477",
+            "text": "Post",
+            "article": "die",
+            "phonetic": "[pɔst]",
+            "source": "g2p",
+            "meaning": "邮局；邮件",
+            "example": "Wo ist die Post, bitte? / Ist Post da?"
+          },
+          {
+            "id": "478",
+            "text": "Postleitzahl",
+            "article": "die",
+            "phonetic": "[ˈpɔstlaɪ̯tˌt͡saːl]",
+            "source": "g2p",
+            "meaning": "邮政编码",
+            "example": "Wie ist Ihre Postleitzahl?"
+          },
+          {
+            "id": "479",
+            "text": "Praktikum",
+            "article": "das",
+            "phonetic": "[ˈpʁaktikʊm]",
+            "source": "g2p",
+            "meaning": "实习",
+            "example": "Ich mache ein Praktikum bei Siemens."
+          },
+          {
+            "id": "480",
+            "text": "Praxis",
+            "article": "die",
+            "phonetic": "[ˈpʁaksɪs]",
+            "source": "g2p",
+            "meaning": "诊所；实践",
+            "example": "Die Praxis ist ab acht Uhr geöffnet."
+          },
+          {
+            "id": "481",
+            "text": "Preis",
+            "article": "der",
+            "phonetic": "[pʁaɪ̯s]",
+            "source": "g2p",
+            "meaning": "价格；奖品",
+            "example": "Die Preise sind hoch."
+          },
+          {
+            "id": "482",
+            "text": "Problem",
+            "article": "das",
+            "phonetic": "[pʁoˈbleːm]",
+            "source": "g2p",
+            "meaning": "问题",
+            "example": "Mein Problem ist die Sprache."
+          },
+          {
+            "id": "483",
+            "text": "Prospekt",
+            "article": "der",
+            "phonetic": "[pʁoˈspɛkt]",
+            "source": "g2p",
+            "meaning": "广告册，说明书",
+            "example": "Bitte schicken Sie mir einen Prospekt von Ihrem Hotel."
+          },
+          {
+            "id": "484",
+            "text": "Prüfung",
+            "article": "die",
+            "phonetic": "[ˈpʁyːfʊŋ]",
+            "source": "g2p",
+            "meaning": "考试",
+            "example": "Die Prüfung ist am Montag um 8.00 Uhr."
+          },
+          {
+            "id": "485",
+            "text": "pünktlich",
+            "article": "",
+            "phonetic": "[ˈpʏŋktlɪç]",
+            "source": "g2p",
+            "meaning": "准时的",
+            "example": "Der Bus fährt pünktlich um acht Uhr. / Herr Müller ist immer pünktlich."
+          },
+          {
+            "id": "486",
+            "text": "Rad fahren",
+            "article": "",
+            "phonetic": "[ʁaːt ˈfaːʁən]",
+            "source": "g2p",
+            "meaning": "骑自行车",
+            "example": "Das Kind kann schon Rad fahren."
+          },
+          {
+            "id": "487",
+            "text": "rauchen",
+            "article": "",
+            "phonetic": "[ˈʁaʊ̯xn̩]",
+            "source": "g2p",
+            "meaning": "吸烟",
+            "example": "Ich rauche nicht."
+          },
+          {
+            "id": "488",
+            "text": "Raum",
+            "article": "der",
+            "phonetic": "[ʁaʊ̯m]",
+            "source": "g2p",
+            "meaning": "房间；空间",
+            "example": "Der Unterricht ist in Raum 332."
+          },
+          {
+            "id": "489",
+            "text": "Rechnung",
+            "article": "die",
+            "phonetic": "[ˈʁɛçnʊŋ]",
+            "source": "g2p",
+            "meaning": "账单",
+            "example": "Die Rechnung, bitte."
+          },
+          {
+            "id": "490",
+            "text": "rechts",
+            "article": "",
+            "phonetic": "[ʁɛçt͡s]",
+            "source": "g2p",
+            "meaning": "右边；向右",
+            "example": "Die Schillerstraße ist hier rechts."
+          },
+          {
+            "id": "491",
+            "text": "regnen",
+            "article": "",
+            "phonetic": "[ˈʁeːɡnən]",
+            "source": "g2p",
+            "meaning": "下雨",
+            "example": "Heute regnet es."
+          },
+          {
+            "id": "492",
+            "text": "Regen",
+            "article": "der",
+            "phonetic": "[ˈʁeːɡn̩]",
+            "source": "g2p",
+            "meaning": "雨",
+            "example": "Bei diesem Regen gehe ich nicht raus."
+          },
+          {
+            "id": "493",
+            "text": "Reis",
+            "article": "der",
+            "phonetic": "[ʁaɪ̯s]",
+            "source": "g2p",
+            "meaning": "大米，米饭",
+            "example": "Ich esse gern Reis."
+          },
+          {
+            "id": "494",
+            "text": "reisen",
+            "article": "",
+            "phonetic": "[ˈʁaɪ̯zn̩]",
+            "source": "g2p",
+            "meaning": "旅行",
+            "example": "Ich reise gern."
+          },
+          {
+            "id": "495",
+            "text": "Reise",
+            "article": "die",
+            "phonetic": "[ˈʁaɪ̯zə]",
+            "source": "g2p",
+            "meaning": "旅行",
+            "example": "Wir machen eine Reise nach Österreich."
+          },
+          {
+            "id": "496",
+            "text": "Reisebüro",
+            "article": "das",
+            "phonetic": "[ˈʁaɪ̯zəbyˌʁoː]",
+            "source": "g2p",
+            "meaning": "旅行社",
+            "example": "Mein Mann arbeitet im Reisebüro."
+          },
+          {
+            "id": "497",
+            "text": "Reiseführer",
+            "article": "der",
+            "phonetic": "[ˈʁaɪ̯zəˌfyːʁɐ]",
+            "source": "g2p",
+            "meaning": "旅行指南；导游",
+            "example": "Ich kaufe mir einen Reiseführer von Berlin. / Unser Reiseführer heißt Peter."
+          },
+          {
+            "id": "498",
+            "text": "reparieren",
+            "article": "",
+            "phonetic": "[ʁepaˈʁiːʁən]",
+            "source": "g2p",
+            "meaning": "修理",
+            "example": "Er hat das Fahrrad repariert."
+          },
+          {
+            "id": "499",
+            "text": "Reparatur",
+            "article": "die",
+            "phonetic": "[ʁepaʁaˈtuːɐ̯]",
+            "source": "g2p",
+            "meaning": "修理",
+            "example": "Die Reparatur ist sehr teuer."
+          },
+        
+            {
+              "id": "500",
+              "text": "Restaurant",
+              "article": "das",
+              "phonetic": "[ʁɛstoˈʁɑ̃ː]",
+              "source": "g2p",
+              "meaning": "餐厅",
+              "example": "Wir essen heute in einem Restaurant."
+            },
+            {
+              "id": "501",
+              "text": "Rezeption",
+              "article": "die",
+              "phonetic": "[ʁet͡sɛpˈt͡si̯oːn]",
+              "source": "g2p",
+              "meaning": "接待处，前台",
+              "example": "Fragen Sie bitte im Hotel an der Rezeption."
+            },
+            {
+              "id": "502",
+              "text": "richtig",
+              "article": "",
+              "phonetic": "[ˈʁɪçtɪç]",
+              "source": "g2p",
+              "meaning": "正确的；真正的",
+              "example": "Habe ich das richtig verstanden? / Das ist richtig."
+            },
+            {
+              "id": "503",
+              "text": "riechen",
+              "article": "",
+              "phonetic": "[ˈʁiːçn̩]",
+              "source": "g2p",
+              "meaning": "闻起来",
+              "example": "Dieser Wein riecht gut."
+            },
+            {
+              "id": "504",
+              "text": "ruhig",
+              "article": "",
+              "phonetic": "[ˈʁuːɪç]",
+              "source": "g2p",
+              "meaning": "安静的",
+              "example": "Ich möchte ein ruhiges Zimmer."
+            },
+            {
+              "id": "505",
+              "text": "Saft",
+              "article": "der",
+              "phonetic": "[zaft]",
+              "source": "g2p",
+              "meaning": "果汁",
+              "example": "Möchtest du einen Apfelsaft?"
+            },
+            {
+              "id": "506",
+              "text": "sagen",
+              "article": "",
+              "phonetic": "[ˈzaːɡn̩]",
+              "source": "g2p",
+              "meaning": "说",
+              "example": "Sag mal, wie geht es dir denn?"
+            },
+            {
+              "id": "507",
+              "text": "Salat",
+              "article": "der",
+              "phonetic": "[zaˈlaːt]",
+              "source": "g2p",
+              "meaning": "沙拉",
+              "example": "Wie schmeckt dir der Salat?"
+            },
+            {
+              "id": "508",
+              "text": "Salz",
+              "article": "das",
+              "phonetic": "[zalt͡s]",
+              "source": "g2p",
+              "meaning": "盐",
+              "example": "Herr Ober, kann ich bitte Salz haben?"
+            },
+            {
+              "id": "509",
+              "text": "Satz",
+              "article": "der",
+              "phonetic": "[zat͡s]",
+              "source": "g2p",
+              "meaning": "句子",
+              "example": "Dieser Satz ist sehr einfach."
+            },
+            {
+              "id": "510",
+              "text": "S-Bahn",
+              "article": "die",
+              "phonetic": "[ˈɛsˌbaːn]",
+              "source": "g2p",
+              "meaning": "城际快铁（市域铁路）",
+              "example": "Ich nehme lieber die S-Bahn."
+            },
+            {
+              "id": "511",
+              "text": "Schalter",
+              "article": "der",
+              "phonetic": "[ˈʃaltɐ]",
+              "source": "g2p",
+              "meaning": "窗口；开关",
+              "example": "Gehen Sie bitte zum Schalter drei!"
+            },
+            {
+              "id": "512",
+              "text": "scheinen",
+              "article": "",
+              "phonetic": "[ˈʃaɪ̯nən]",
+              "source": "g2p",
+              "meaning": "照耀；似乎",
+              "example": "Die Sonne scheint."
+            },
+            {
+              "id": "513",
+              "text": "schicken",
+              "article": "",
+              "phonetic": "[ˈʃɪkn̩]",
+              "source": "g2p",
+              "meaning": "寄送",
+              "example": "Bitte schicken Sie mir eine E-Mail."
+            },
+            {
+              "id": "514",
+              "text": "Schild",
+              "article": "das",
+              "phonetic": "[ʃɪlt]",
+              "source": "g2p",
+              "meaning": "牌子，标志",
+              "example": "Haben Sie nicht das Schild gesehen?"
+            },
+            {
+              "id": "515",
+              "text": "Schinken",
+              "article": "der",
+              "phonetic": "[ˈʃɪŋkn̩]",
+              "source": "g2p",
+              "meaning": "火腿",
+              "example": "Ich möchte gern ein Schinkenbrot."
+            },
+            {
+              "id": "516",
+              "text": "schlafen",
+              "article": "",
+              "phonetic": "[ˈʃlaːfn̩]",
+              "source": "g2p",
+              "meaning": "睡觉",
+              "example": "Ich schlafe meistens acht Stunden."
+            },
+            {
+              "id": "517",
+              "text": "schlecht",
+              "article": "",
+              "phonetic": "[ʃlɛçt]",
+              "source": "g2p",
+              "meaning": "坏的；不舒服的",
+              "example": "Mir ist schlecht! / Sie sehen schlecht aus. / Wir haben schlechtes Wetter."
+            },
+            {
+              "id": "518",
+              "text": "schließen",
+              "article": "",
+              "phonetic": "[ˈʃliːsn̩]",
+              "source": "g2p",
+              "meaning": "关闭；结束",
+              "example": "Bitte, schließen Sie die Tür."
+            },
+            {
+              "id": "519",
+              "text": "geschlossen",
+              "article": "",
+              "phonetic": "[ɡəˈʃlɔsn̩]",
+              "source": "g2p",
+              "meaning": "关闭的",
+              "example": "Die Bank hat am Samstag geschlossen."
+            },
+            {
+              "id": "520",
+              "text": "Schluss",
+              "article": "der",
+              "phonetic": "[ʃlʊs]",
+              "source": "g2p",
+              "meaning": "结束",
+              "example": "Ich muss jetzt Schluss machen."
+            },
+            {
+              "id": "521",
+              "text": "Schlüssel",
+              "article": "der",
+              "phonetic": "[ˈʃlʏsl̩]",
+              "source": "g2p",
+              "meaning": "钥匙",
+              "example": "Zum Schluss gibt er uns allen die Hand. / Ich gebe Ihnen noch den Zimmerschlüssel."
+            },
+            {
+              "id": "522",
+              "text": "schmecken",
+              "article": "",
+              "phonetic": "[ˈʃmɛkn̩]",
+              "source": "g2p",
+              "meaning": "尝起来",
+              "example": "Schmeckt das gut?"
+            },
+            {
+              "id": "523",
+              "text": "schnell",
+              "article": "",
+              "phonetic": "[ʃnɛl]",
+              "source": "g2p",
+              "meaning": "快的",
+              "example": "Er fährt schnell."
+            },
+            {
+              "id": "524",
+              "text": "schon",
+              "article": "",
+              "phonetic": "[ʃoːn]",
+              "source": "g2p",
+              "meaning": "已经",
+              "example": "Ist das Essen schon fertig?"
+            },
+            {
+              "id": "525",
+              "text": "schön",
+              "article": "",
+              "phonetic": "[ʃøːn]",
+              "source": "g2p",
+              "meaning": "美丽的；好的",
+              "example": "Schönen Urlaub! / Das ist sehr schön."
+            },
+            {
+              "id": "526",
+              "text": "Schrank",
+              "article": "der",
+              "phonetic": "[ʃʁaŋk]",
+              "source": "g2p",
+              "meaning": "柜子",
+              "example": "Die Gläser stehen im Schrank."
+            },
+            {
+              "id": "527",
+              "text": "schreiben",
+              "article": "",
+              "phonetic": "[ˈʃʁaɪ̯bn̩]",
+              "source": "g2p",
+              "meaning": "写",
+              "example": "Er schreibt jeden Tag fünfzig E-Mails."
+            },
+            {
+              "id": "528",
+              "text": "Schuh",
+              "article": "der",
+              "phonetic": "[ʃuː]",
+              "source": "g2p",
+              "meaning": "鞋",
+              "example": "Zieh die Schuhe aus!"
+            },
+            {
+              "id": "529",
+              "text": "Schule",
+              "article": "die",
+              "phonetic": "[ˈʃuːlə]",
+              "source": "g2p",
+              "meaning": "学校",
+              "example": "Meine Tochter geht schon in die Schule. / Die Schule ist gleich hier um die Ecke."
+            },
+            {
+              "id": "530",
+              "text": "Schüler",
+              "article": "der",
+              "phonetic": "[ˈʃyːlɐ]",
+              "source": "g2p",
+              "meaning": "学生（中小学）",
+              "example": "In meinem Kurs sind acht Schülerinnen und fünf Schüler."
+            },
+            {
+              "id": "531",
+              "text": "schwer",
+              "article": "",
+              "phonetic": "[ʃveːɐ̯]",
+              "source": "g2p",
+              "meaning": "重的；困难的",
+              "example": "Ist Ihr Gepäck sehr schwer? / Das ist eine schwere Arbeit."
+            },
+            {
+              "id": "532",
+              "text": "Schwester",
+              "article": "die",
+              "phonetic": "[ˈʃvɛstɐ]",
+              "source": "g2p",
+              "meaning": "姐妹",
+              "example": "Meine Schwester kommt am Dienstag."
+            },
+            {
+              "id": "533",
+              "text": "schwimmen",
+              "article": "",
+              "phonetic": "[ˈʃvɪmən]",
+              "source": "g2p",
+              "meaning": "游泳",
+              "example": "Ich schwimme jeden Tag einen Kilometer."
+            },
+            {
+              "id": "534",
+              "text": "Schwimmbad",
+              "article": "das",
+              "phonetic": "[ˈʃvɪmˌbaːt]",
+              "source": "g2p",
+              "meaning": "游泳池",
+              "example": "Kommst du mit ins Schwimmbad?"
+            },
+            {
+              "id": "535",
+              "text": "See",
+              "article": "der",
+              "phonetic": "[zeː]",
+              "source": "g2p",
+              "meaning": "湖",
+              "example": "Komm, wir fahren zum Starnberger See."
+            },
+            {
+              "id": "536",
+              "text": "sehen",
+              "article": "",
+              "phonetic": "[ˈzeːən]",
+              "source": "g2p",
+              "meaning": "看见",
+              "example": "Ich kann dich nicht sehen. / Ich habe diesen Jungen schon einmal gesehen."
+            },
+            {
+              "id": "537",
+              "text": "Sehenswürdigkeit",
+              "article": "die",
+              "phonetic": "[ˈzeːənsˌvʏʁdɪçkaɪ̯t]",
+              "source": "g2p",
+              "meaning": "名胜古迹",
+              "example": "Welche Sehenswürdigkeiten gibt es in Frankfurt?"
+            },
+            {
+              "id": "538",
+              "text": "sehr",
+              "article": "",
+              "phonetic": "[zeːɐ̯]",
+              "source": "g2p",
+              "meaning": "很，非常",
+              "example": "Danke sehr! / Das ist sehr schwer."
+            },
+            {
+              "id": "539",
+              "text": "sein",
+              "article": "",
+              "phonetic": "[zaɪ̯n]",
+              "source": "g2p",
+              "meaning": "他的；是",
+              "example": "Herr Müller ist in seinem Zimmer. / Mir ist kalt. / Ich bin dreiundzwanzig."
+            },
+            {
+              "id": "540",
+              "text": "an sein",
+              "article": "",
+              "phonetic": "[an zaɪ̯n]",
+              "source": "g2p",
+              "meaning": "开着",
+              "example": "Das Licht ist noch an."
+            },
+            {
+              "id": "541",
+              "text": "auf sein",
+              "article": "",
+              "phonetic": "[aʊ̯f zaɪ̯n]",
+              "source": "g2p",
+              "meaning": "开着（门），醒着",
+              "example": "Das Fenster ist noch auf."
+            },
+            {
+              "id": "542",
+              "text": "weg sein",
+              "article": "",
+              "phonetic": "[vɛk zaɪ̯n]",
+              "source": "g2p",
+              "meaning": "离开了，不见了",
+              "example": "Herr Meier ist schon weg."
+            },
+            {
+              "id": "543",
+              "text": "zu sein",
+              "article": "",
+              "phonetic": "[t͡suː zaɪ̯n]",
+              "source": "g2p",
+              "meaning": "关着",
+              "example": "Die Tür ist zu."
+            },
+            {
+              "id": "544",
+              "text": "seit",
+              "article": "",
+              "phonetic": "[zaɪ̯t]",
+              "source": "g2p",
+              "meaning": "自从",
+              "example": "Ich wohne seit drei Jahren in Köln."
+            },
+            {
+              "id": "545",
+              "text": "selbstständig",
+              "article": "",
+              "phonetic": "[ˈzɛlpstˌʃtɛndɪç]",
+              "source": "g2p",
+              "meaning": "独立的，自主经营的",
+              "example": "Er ist selbstständig."
+            },
+            {
+              "id": "546",
+              "text": "sich",
+              "article": "",
+              "phonetic": "[zɪç]",
+              "source": "g2p",
+              "meaning": "自己（反身代词）",
+              "example": "Sie müssen sich erst anmelden."
+            },
+            {
+              "id": "547",
+              "text": "sie",
+              "article": "",
+              "phonetic": "[ziː]",
+              "source": "g2p",
+              "meaning": "她；他们；您（尊称）",
+              "example": "Wie heißt sie? / Wie heißen Sie, bitte?"
+            },
+            {
+              "id": "548",
+              "text": "sitzen",
+              "article": "",
+              "phonetic": "[ˈzɪt͡sn̩]",
+              "source": "g2p",
+              "meaning": "坐",
+              "example": "Wo sitzen Sie?"
+            },
+            {
+              "id": "549",
+              "text": "so",
+              "article": "",
+              "phonetic": "[zoː]",
+              "source": "g2p",
+              "meaning": "如此；那么；这样",
+              "example": "Sie müssen das so machen! / Fahren Sie bitte nicht so schnell! / Meine Frau ist so groß wie ich. / So, das war’s/wär’s!"
+            },
+            {
+              "id": "550",
+              "text": "Sofa",
+              "article": "das",
+              "phonetic": "[ˈzoːfa]",
+              "source": "g2p",
+              "meaning": "沙发",
+              "example": "Das Sofa ist neu."
+            },
+            {
+              "id": "551",
+              "text": "sofort",
+              "article": "",
+              "phonetic": "[zoˈfɔʁt]",
+              "source": "g2p",
+              "meaning": "立刻",
+              "example": "Bitte antworten Sie sofort."
+            },
+            {
+              "id": "552",
+              "text": "Sohn",
+              "article": "der",
+              "phonetic": "[zoːn]",
+              "source": "g2p",
+              "meaning": "儿子",
+              "example": "Das ist Hans, mein Sohn."
+            },
+            {
+              "id": "553",
+              "text": "sollen",
+              "article": "",
+              "phonetic": "[ˈzɔlən]",
+              "source": "g2p",
+              "meaning": "应该；据说",
+              "example": "Soll ich kommen? / Was soll ich mitbringen?"
+            },
+            {
+              "id": "554",
+              "text": "Sonne",
+              "article": "die",
+              "phonetic": "[ˈzɔnə]",
+              "source": "g2p",
+              "meaning": "太阳",
+              "example": "Die Sonne scheint."
+            },
+            {
+              "id": "555",
+              "text": "spät",
+              "article": "",
+              "phonetic": "[ʃpɛːt]",
+              "source": "g2p",
+              "meaning": "晚的，迟的",
+              "example": "Es ist schon spät, ich muss gehen."
+            },
+            {
+              "id": "556",
+              "text": "später",
+              "article": "",
+              "phonetic": "[ˈʃpɛːtɐ]",
+              "source": "g2p",
+              "meaning": "以后，稍后",
+              "example": "Das können wir später machen."
+            },
+            {
+              "id": "557",
+              "text": "Speisekarte",
+              "article": "die",
+              "phonetic": "[ˈʃpaɪ̯zəˌkaʁtə]",
+              "source": "g2p",
+              "meaning": "菜单",
+              "example": "Bringen Sie mir die Speisekarte, bitte."
+            },
+            {
+              "id": "558",
+              "text": "spielen",
+              "article": "",
+              "phonetic": "[ˈʃpiːlən]",
+              "source": "g2p",
+              "meaning": "玩耍；演奏；扮演",
+              "example": "Die Kinder spielen draußen. / Spielen Sie Karten?"
+            },
+            {
+              "id": "559",
+              "text": "Sport",
+              "article": "der",
+              "phonetic": "[ʃpɔʁt]",
+              "source": "g2p",
+              "meaning": "体育运动",
+              "example": "Ich mache viel Sport."
+            },
+            {
+              "id": "560",
+              "text": "Sprache",
+              "article": "die",
+              "phonetic": "[ˈʃpʁaːxə]",
+              "source": "g2p",
+              "meaning": "语言",
+              "example": "Welche Sprachen sprichst du?"
+            },
+            {
+              "id": "561",
+              "text": "sprechen",
+              "article": "",
+              "phonetic": "[ˈʃpʁɛçn̩]",
+              "source": "g2p",
+              "meaning": "说话，交谈",
+              "example": "Kann ich (mit) Herrn Klein sprechen?"
+            },
+            {
+              "id": "562",
+              "text": "Stadt",
+              "article": "die",
+              "phonetic": "[ʃtat]",
+              "source": "g2p",
+              "meaning": "城市",
+              "example": "Heidelberg ist eine alte Stadt."
+            },
+            {
+              "id": "563",
+              "text": "stehen",
+              "article": "",
+              "phonetic": "[ˈʃteːən]",
+              "source": "g2p",
+              "meaning": "站立；写着；处于（状态）",
+              "example": "Ich glaube es nicht, aber es steht in der Zeitung. / Der Bus steht schon an der Haltestelle."
+            },
+            {
+              "id": "564",
+              "text": "Stelle",
+              "article": "die",
+              "phonetic": "[ˈʃtɛlə]",
+              "source": "g2p",
+              "meaning": "位置；职位",
+              "example": "Ich habe eine neue Stelle."
+            },
+            {
+              "id": "565",
+              "text": "stellen",
+              "article": "",
+              "phonetic": "[ˈʃtɛlən]",
+              "source": "g2p",
+              "meaning": "放置；提出",
+              "example": "Stell die Tasche rechts in die Ecke!"
+            },
+            {
+              "id": "566",
+              "text": "Stock",
+              "article": "der",
+              "phonetic": "[ʃtɔk]",
+              "source": "g2p",
+              "meaning": "楼层；手杖",
+              "example": "Unsere Wohnung liegt im ersten Stock."
+            },
+            {
+              "id": "567",
+              "text": "Straße",
+              "article": "die",
+              "phonetic": "[ˈʃtʁaːsə]",
+              "source": "g2p",
+              "meaning": "街道",
+              "example": "In welcher Straße wohnen Sie?"
+            },
+            {
+              "id": "568",
+              "text": "Straßenbahn",
+              "article": "die",
+              "phonetic": "[ˈʃtʁaːsn̩ˌbaːn]",
+              "source": "g2p",
+              "meaning": "有轨电车",
+              "example": "Wo fährt die Straßenbahn ab?"
+            },
+            {
+              "id": "569",
+              "text": "studieren",
+              "article": "",
+              "phonetic": "[ʃtuˈdiːʁən]",
+              "source": "g2p",
+              "meaning": "（在大学）学习",
+              "example": "Ich studiere in Mainz."
+            },
+            {
+              "id": "570",
+              "text": "Studium",
+              "article": "das",
+              "phonetic": "[ˈʃtuːdi̯ʊm]",
+              "source": "g2p",
+              "meaning": "大学学习，学业",
+              "example": "Das Studium beginnt im Oktober."
+            },
+            {
+              "id": "571",
+              "text": "Student",
+              "article": "der",
+              "phonetic": "[ʃtuˈdɛnt]",
+              "source": "g2p",
+              "meaning": "大学生",
+              "example": "Ich bin Studentin."
+            },
+            {
+              "id": "572",
+              "text": "Stunde",
+              "article": "die",
+              "phonetic": "[ˈʃtʊndə]",
+              "source": "g2p",
+              "meaning": "小时；课时",
+              "example": "Ich bin in einer Stunde zurück."
+            },
+            {
+              "id": "573",
+              "text": "suchen",
+              "article": "",
+              "phonetic": "[ˈzuːxn̩]",
+              "source": "g2p",
+              "meaning": "寻找",
+              "example": "Suchst du etwas?"
+            },
+            {
+              "id": "574",
+              "text": "tanzen",
+              "article": "",
+              "phonetic": "[ˈtant͡sn̩]",
+              "source": "g2p",
+              "meaning": "跳舞",
+              "example": "Tanzen Sie gern?"
+            },
+            {
+              "id": "575",
+              "text": "Tasche",
+              "article": "die",
+              "phonetic": "[ˈtaʃə]",
+              "source": "g2p",
+              "meaning": "包；口袋",
+              "example": "Ich habe die Schlüssel in der Tasche."
+            },
+            {
+              "id": "576",
+              "text": "Taxi",
+              "article": "das",
+              "phonetic": "[ˈtaksi]",
+              "source": "g2p",
+              "meaning": "出租车",
+              "example": "Es gibt heute keinen Bus mehr. Er fährt mit dem Taxi."
+            },
+            {
+              "id": "577",
+              "text": "Tee",
+              "article": "der",
+              "phonetic": "[teː]",
+              "source": "g2p",
+              "meaning": "茶",
+              "example": "Ich trinke morgens immer Tee."
+            },
+            {
+              "id": "578",
+              "text": "Teil",
+              "article": "der/das",
+              "phonetic": "[taɪ̯l]",
+              "source": "g2p",
+              "meaning": "部分",
+              "example": "Lies bitte auch den zweiten Teil."
+            },
+            {
+              "id": "579",
+              "text": "telefonieren",
+              "article": "",
+              "phonetic": "[telefoˈniːʁən]",
+              "source": "g2p",
+              "meaning": "打电话",
+              "example": "Darf ich mal telefonieren?"
+            },
+            {
+              "id": "580",
+              "text": "Telefon",
+              "article": "das",
+              "phonetic": "[ˈteːləfoːn]",
+              "source": "g2p",
+              "meaning": "电话",
+              "example": "Haben Sie Telefon?"
+            },
+            {
+              "id": "581",
+              "text": "Termin",
+              "article": "der",
+              "phonetic": "[tɛʁˈmiːn]",
+              "source": "g2p",
+              "meaning": "约会，预约",
+              "example": "Am besten machen wir sofort einen Termin."
+            },
+            {
+              "id": "582",
+              "text": "Test",
+              "article": "der",
+              "phonetic": "[tɛst]",
+              "source": "g2p",
+              "meaning": "测试",
+              "example": "Der Test war einfach."
+            },
+            {
+              "id": "583",
+              "text": "teuer",
+              "article": "",
+              "phonetic": "[ˈtɔɪ̯ɐ]",
+              "source": "g2p",
+              "meaning": "贵的",
+              "example": "Das ist mir zu teuer."
+            },
+            {
+              "id": "584",
+              "text": "Text",
+              "article": "der",
+              "phonetic": "[tɛkst]",
+              "source": "g2p",
+              "meaning": "文本，课文",
+              "example": "Lesen Sie bitte diesen Text."
+            },
+            {
+              "id": "585",
+              "text": "Thema",
+              "article": "das",
+              "phonetic": "[ˈteːma]",
+              "source": "g2p",
+              "meaning": "主题，话题",
+              "example": "Wir sprechen heute über das Thema „Essen und Trinken“."
+            },
+            {
+              "id": "586",
+              "text": "Ticket",
+              "article": "das",
+              "phonetic": "[ˈtɪkət]",
+              "source": "g2p",
+              "meaning": "票",
+              "example": "Wie viel kostet das Ticket?"
+            },
+            {
+              "id": "587",
+              "text": "Tisch",
+              "article": "der",
+              "phonetic": "[tɪʃ]",
+              "source": "g2p",
+              "meaning": "桌子",
+              "example": "Die Fotos liegen auf dem Tisch."
+            },
+            {
+              "id": "588",
+              "text": "Tochter",
+              "article": "die",
+              "phonetic": "[ˈtɔxtɐ]",
+              "source": "g2p",
+              "meaning": "女儿",
+              "example": "Das ist meine Tochter Katharina."
+            },
+            {
+              "id": "589",
+              "text": "Toilette",
+              "article": "die",
+              "phonetic": "[to̯aˈlɛtə]",
+              "source": "g2p",
+              "meaning": "厕所",
+              "example": "Wo ist die Toilette, bitte?"
+            },
+            {
+              "id": "590",
+              "text": "Tomate",
+              "article": "die",
+              "phonetic": "[toˈmaːtə]",
+              "source": "g2p",
+              "meaning": "番茄",
+              "example": "Die Tomate ist noch grün."
+            },
+            {
+              "id": "591",
+              "text": "tot",
+              "article": "",
+              "phonetic": "[toːt]",
+              "source": "g2p",
+              "meaning": "死的",
+              "example": "Sein Vater ist schon lange tot."
+            },
+            {
+              "id": "592",
+              "text": "treffen",
+              "article": "",
+              "phonetic": "[ˈtʁɛfn̩]",
+              "source": "g2p",
+              "meaning": "遇见；会面",
+              "example": "Ich treffe in der Stadt einen Kollegen. / Wir treffen uns immer freitags."
+            },
+            {
+              "id": "593",
+              "text": "Treppe",
+              "article": "die",
+              "phonetic": "[ˈtʁɛpə]",
+              "source": "g2p",
+              "meaning": "楼梯",
+              "example": "Die Toilette? Die Treppe hoch und dann links."
+            },
+            {
+              "id": "594",
+              "text": "trinken",
+              "article": "",
+              "phonetic": "[ˈtʁɪŋkn̩]",
+              "source": "g2p",
+              "meaning": "喝",
+              "example": "Möchtest du etwas trinken?"
+            },
+            {
+              "id": "595",
+              "text": "tschüss",
+              "article": "",
+              "phonetic": "[t͡ʃʏs]",
+              "source": "g2p",
+              "meaning": "再见（非正式）",
+              "example": "Junge Leute sagen meistens „tschüss!“ und nicht „auf Wiedersehen“."
+            },
+            {
+              "id": "596",
+              "text": "tun",
+              "article": "",
+              "phonetic": "[tuːn]",
+              "source": "g2p",
+              "meaning": "做",
+              "example": "Ich habe noch etwas zu tun. / Was tut Ihr Mann?"
+            },
+            {
+              "id": "597",
+              "text": "über",
+              "article": "",
+              "phonetic": "[ˈyːbɐ]",
+              "source": "g2p",
+              "meaning": "在...上方；关于；超过",
+              "example": "Gehen Sie hier über die Straße. / Er wohnt im zweiten Stock über Familie Meier. / Sind Sie über 18?"
+            },
+            {
+              "id": "598",
+              "text": "übernachten",
+              "article": "",
+              "phonetic": "[yːbɐˈnaxtn̩]",
+              "source": "g2p",
+              "meaning": "过夜",
+              "example": "Du kannst bei mir übernachten."
+            },
+            {
+              "id": "599",
+              "text": "überweisen",
+              "article": "",
+              "phonetic": "[yːbɐˈvaɪ̯zn̩]",
+              "source": "g2p",
+              "meaning": "汇款，转账",
+              "example": "Sie können das Geld auch überweisen."
+            },
+          
+        
+        {
+          "id": "600",
+          "text": "Uhr",
+          "article": "die",
+          "phonetic": "[uːɐ̯]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "钟表；点钟（时间单位）",
+          "example": "Es ist vier Uhr."
+        },
+        {
+          "id": "601",
+          "text": "um",
+          "article": "",
+          "phonetic": "[ʊm]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "在...时间；围绕，大约",
+          "example": "Er kommt um sieben Uhr. / Da kommt er gerade um die Ecke. / Sind Sie über 18?"
+        },
+        {
+          "id": "602",
+          "text": "umziehen",
+          "article": "",
+          "phonetic": "[ˈʊmˌt͡siːən]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "搬家，迁居",
+          "example": "Nächsten Monat ziehen wir um."
+        },
+        {
+          "id": "603",
+          "text": "und",
+          "article": "",
+          "phonetic": "[ʊnt]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "和，与，而且",
+          "example": "Peter und Helmut sind meine Söhne."
+        },
+        {
+          "id": "604",
+          "text": "unser-",
+          "article": "",
+          "phonetic": "[ˈʊnzɐ]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "我们的",
+          "example": "Das ist unsere Lehrerin."
+        },
+        {
+          "id": "605",
+          "text": "unten",
+          "article": "",
+          "phonetic": "[ˈʊntn̩]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "下面，下方",
+          "example": "Er wohnt ganz unten im Haus."
+        },
+        {
+          "id": "606",
+          "text": "unter",
+          "article": "",
+          "phonetic": "[ˈʊntɐ]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "在...下面；低于，少于",
+          "example": "Unter uns wohnt eine Familie mit drei Kindern."
+        },
+        {
+          "id": "607",
+          "text": "Unterricht",
+          "article": "der",
+          "phonetic": "[ˈʊntɐʁɪçt]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "课程，教学",
+          "example": "Wir haben Unterricht von 8.00 bis 12.00 Uhr."
+        },
+        {
+          "id": "608",
+          "text": "unterschreiben",
+          "article": "",
+          "phonetic": "[ˌʊntɐˈʃʁaɪ̯bn̩]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "签名，签字",
+          "example": "Wo muss ich unterschreiben?"
+        },
+        {
+          "id": "609",
+          "text": "Unterschrift",
+          "article": "die",
+          "phonetic": "[ˈʊntɐʃʁɪft]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "签名，签字",
+          "example": "Hier fehlt noch Ihre Unterschrift."
+        },
+        {
+          "id": "610",
+          "text": "Urlaub",
+          "article": "der",
+          "phonetic": "[ˈuːɐ̯laʊ̯p]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "假期",
+          "example": "Ich nehme im September Urlaub."
+        },
+        {
+          "id": "611",
+          "text": "Vater",
+          "article": "der",
+          "phonetic": "[ˈfaːtɐ]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "父亲",
+          "example": "Mein Vater ist Arbeiter."
+        },
+        {
+          "id": "612",
+          "text": "verboten",
+          "article": "",
+          "phonetic": "[fɛɐ̯ˈboːtn̩]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "被禁止的",
+          "example": "Hier ist Rauchen verboten."
+        },
+        {
+          "id": "613",
+          "text": "verdienen",
+          "article": "",
+          "phonetic": "[fɛɐ̯ˈdiːnən]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "赚取，挣钱；应得",
+          "example": "Ich verdiene 1.500 Euro im Monat."
+        },
+        {
+          "id": "614",
+          "text": "Verein",
+          "article": "der",
+          "phonetic": "[fɛɐ̯ˈʔaɪ̯n]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "协会，社团",
+          "example": "Es gibt einen neuen Sportverein in der Stadt."
+        },
+        {
+          "id": "615",
+          "text": "verheiratet",
+          "article": "",
+          "phonetic": "[fɛɐ̯ˈhaɪ̯ʁaːtət]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "已婚的",
+          "example": "Ich bin verheiratet und habe drei Kinder."
+        },
+        {
+          "id": "616",
+          "text": "verkaufen",
+          "article": "",
+          "phonetic": "[fɛɐ̯ˈkaʊ̯fn̩]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "卖，出售",
+          "example": "Er verkauft sein altes Auto."
+        },
+        {
+          "id": "617",
+          "text": "Verkäufer",
+          "article": "der",
+          "phonetic": "[fɛɐ̯ˈkɔɪ̯fɐ]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "售货员，销售员",
+          "example": "Meine Mutter ist Verkäuferin im Kaufhaus."
+        },
+        {
+          "id": "618",
+          "text": "vermieten",
+          "article": "",
+          "phonetic": "[fɛɐ̯ˈmiːtn̩]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "出租",
+          "example": "Die Wohnung ist schon vermietet."
+        },
+        {
+          "id": "619",
+          "text": "Vermieter",
+          "article": "der",
+          "phonetic": "[fɛɐ̯ˈmiːtɐ]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "房东",
+          "example": "Unser Vermieter heißt Huber. Er wohnt auch hier."
+        },
+        {
+          "id": "620",
+          "text": "verstehen",
+          "article": "",
+          "phonetic": "[fɛɐ̯ˈʃteːən]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "理解，明白",
+          "example": "Können Sie mich verstehen?"
+        },
+        {
+          "id": "621",
+          "text": "Verwandte",
+          "article": "der/die",
+          "phonetic": "[fɛɐ̯ˈvantə]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "亲戚",
+          "example": "Peter besucht seine Verwandten in Polen."
+        },
+        {
+          "id": "622",
+          "text": "viel",
+          "article": "",
+          "phonetic": "[fiːl]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "许多，大量",
+          "example": "Hier regnet es viel."
+        },
+        {
+          "id": "623",
+          "text": "vielleicht",
+          "article": "",
+          "phonetic": "[fiˈlaɪ̯çt]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "也许，可能",
+          "example": "Ich komme vielleicht mit dem Bus."
+        },
+        {
+          "id": "624",
+          "text": "von",
+          "article": "",
+          "phonetic": "[fɔn]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "从...来；...的（所属）",
+          "example": "Das Auto von Felix ist kaputt. / Er kommt gerade von Köln/von zu Hause."
+        },
+        {
+          "id": "625",
+          "text": "vor",
+          "article": "",
+          "phonetic": "[foːɐ̯]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "在...之前；在...前面",
+          "example": "Der Termin war vor einer Stunde. / Das Auto steht vor der Tür."
+        },
+        {
+          "id": "626",
+          "text": "Vorname",
+          "article": "der",
+          "phonetic": "[ˈfoːɐ̯naːmə]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "名，名字",
+          "example": "Ich heiße Müller, mein Vorname ist Eva."
+        },
+        {
+          "id": "627",
+          "text": "Vorsicht",
+          "article": "die",
+          "phonetic": "[ˈfoːɐ̯zɪçt]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "小心，注意",
+          "example": "Vorsicht! Da kommt ein Auto."
+        },
+        {
+          "id": "628",
+          "text": "vorstellen",
+          "article": "",
+          "phonetic": "[ˈfoːɐ̯ʃtɛlən]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "介绍",
+          "example": "Wir wollen uns kennenlernen. Können Sie sich bitte vorstellen?"
+        },
+        {
+          "id": "629",
+          "text": "Vorwahl",
+          "article": "die",
+          "phonetic": "[ˈfoːɐ̯vaːl]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "区号",
+          "example": "Wie ist die Vorwahl von München?"
+        },
+        {
+          "id": "630",
+          "text": "wandern",
+          "article": "",
+          "phonetic": "[ˈvandɐn]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "徒步，远足",
+          "example": "Wir wandern um den Chiemsee."
+        },
+        {
+          "id": "631",
+          "text": "wann",
+          "article": "",
+          "phonetic": "[van]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "什么时候",
+          "example": "Wann bist du fertig? / Wann sind Sie geboren?"
+        },
+        {
+          "id": "632",
+          "text": "warten",
+          "article": "",
+          "phonetic": "[ˈvaʁtn̩]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "等待",
+          "example": "Können Sie ein paar Minuten warten? / Auf wen warten Sie?"
+        },
+        {
+          "id": "633",
+          "text": "warum",
+          "article": "",
+          "phonetic": "[vaˈʁʊm]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "为什么",
+          "example": "Warum kommt er nicht?"
+        },
+        {
+          "id": "634",
+          "text": "was",
+          "article": "",
+          "phonetic": "[vas]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "什么",
+          "example": "Was ist das? / Was möchten Sie?"
+        },
+        {
+          "id": "635",
+          "text": "was für ein",
+          "article": "",
+          "phonetic": "[vas fyːɐ̯ ʔaɪ̯n]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "什么样的",
+          "example": "Was für eine Farbe möchten Sie?"
+        },
+        {
+          "id": "636",
+          "text": "waschen",
+          "article": "",
+          "phonetic": "[ˈvaʃn̩]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "洗",
+          "example": "Wo kann ich mir die Hände waschen? / Ich muss morgen waschen."
+        },
+        {
+          "id": "637",
+          "text": "Wasser",
+          "article": "das",
+          "phonetic": "[ˈvasɐ]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "水",
+          "example": "Ein Glas Wasser, bitte."
+        },
+        {
+          "id": "638",
+          "text": "weh tun",
+          "article": "",
+          "phonetic": "[veː tuːn]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "疼痛",
+          "example": "Ich muss zum Arzt. Mein Bein tut weh."
+        },
+        {
+          "id": "639",
+          "text": "weiblich",
+          "article": "",
+          "phonetic": "[ˈvaɪ̯plɪç]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "女性的",
+          "example": "Kreuzen Sie bitte an: 'weiblich' oder 'männlich'."
+        },
+        {
+          "id": "640",
+          "text": "Wein",
+          "article": "der",
+          "phonetic": "[vaɪ̯n]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "葡萄酒",
+          "example": "Nein danke, ich möchte keinen Wein."
+        },
+        {
+          "id": "641",
+          "text": "weit",
+          "article": "",
+          "phonetic": "[vaɪ̯t]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "远的",
+          "example": "Zum Bahnhof ist es nicht weit."
+        },
+        {
+          "id": "642",
+          "text": "weiter",
+          "article": "",
+          "phonetic": "[ˈvaɪ̯tɐ]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "继续；进一步的",
+          "example": "Der Bus fährt nicht weiter."
+        },
+        {
+          "id": "643",
+          "text": "welch-",
+          "article": "",
+          "phonetic": "[vɛlç]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "哪一个，哪些",
+          "example": "Welches Buch möchtest du?"
+        },
+        {
+          "id": "644",
+          "text": "Welt",
+          "article": "die",
+          "phonetic": "[vɛlt]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "世界",
+          "example": "Es gibt viele Probleme auf der Welt."
+        },
+        {
+          "id": "645",
+          "text": "wenig",
+          "article": "",
+          "phonetic": "[ˈveːnɪç]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "少的，一点",
+          "example": "Ich habe leider nur wenig verstanden. / Er verdient wenig."
+        },
+        {
+          "id": "646",
+          "text": "wer",
+          "article": "",
+          "phonetic": "[veːɐ̯]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "谁",
+          "example": "Wer ist das?"
+        },
+        {
+          "id": "647",
+          "text": "werden",
+          "article": "",
+          "phonetic": "[ˈveːɐ̯dn̩]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "将，会；成为，变得",
+          "example": "Mein Sohn will Arzt werden."
+        },
+        {
+          "id": "648",
+          "text": "Wetter",
+          "article": "das",
+          "phonetic": "[ˈvɛtɐ]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "天气",
+          "example": "Wir hatten schlechtes Wetter."
+        },
+        {
+          "id": "649",
+          "text": "wichtig",
+          "article": "",
+          "phonetic": "[ˈvɪçtɪç]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "重要的",
+          "example": "Dieses Formular ist sehr wichtig."
+        },
+        {
+          "id": "650",
+          "text": "wie",
+          "article": "",
+          "phonetic": "[viː]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "怎样；多么；像...一样",
+          "example": "Wie heißt du? / Er schreibt wie ein Kind. / Meine Frau ist so groß wie ich."
+        },
+        {
+          "id": "651",
+          "text": "wiederholen",
+          "article": "",
+          "phonetic": [ˌviːdɐˈhoːlən],
+          "source": "Goethe A1 Wortliste",
+          "meaning": "重复，复习",
+          "example": "Können Sie das bitte wiederholen?"
+        },
+        {
+          "id": "652",
+          "text": "Wiederhören",
+          "article": "das",
+          "phonetic": "[ˈviːdɐˌhøːʁən]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "再见（电话用语）",
+          "example": "Also auf Wiederhören!"
+        },
+        {
+          "id": "653",
+          "text": "Wiedersehen",
+          "article": "das",
+          "phonetic": "[ˈviːdɐˌzeːən]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "再见",
+          "example": "Auf Wiedersehen!"
+        },
+        {
+          "id": "654",
+          "text": "wie viel",
+          "article": "",
+          "phonetic": "[viː fiːl]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "多少",
+          "example": "Wie viel Milch nehmen Sie?"
+        },
+        {
+          "id": "655",
+          "text": "willkommen",
+          "article": "",
+          "phonetic": "[vɪlˈkɔmən]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "欢迎",
+          "example": "Herzlich willkommen!"
+        },
+        {
+          "id": "656",
+          "text": "Wind",
+          "article": "der",
+          "phonetic": "[vɪnt]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "风",
+          "example": "Der Wind kommt aus Osten."
+        },
+        {
+          "id": "657",
+          "text": "wir",
+          "article": "",
+          "phonetic": "[viːɐ̯]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "我们",
+          "example": "Wir lernen Deutsch."
+        },
+        {
+          "id": "658",
+          "text": "wissen",
+          "article": "",
+          "phonetic": "[ˈvɪsn̩]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "知道，了解",
+          "example": "Weißt du, wie er heißt?"
+        },
+        {
+          "id": "659",
+          "text": "wo",
+          "article": "",
+          "phonetic": "[voː]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "在哪里",
+          "example": "Wo waren Sie im Urlaub? / Wo ist die Post? / Wo sind Sie geboren?"
+        },
+        {
+          "id": "660",
+          "text": "woher",
+          "article": "",
+          "phonetic": "[voˈheːɐ̯]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "从哪里来",
+          "example": "Woher kommen Sie?"
+        },
+        {
+          "id": "661",
+          "text": "wohin",
+          "article": "",
+          "phonetic": "[voˈhɪn]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "去哪里",
+          "example": "Wohin fährt dieser Bus? / Wohin wollen Sie am Wochenende?"
+        },
+        {
+          "id": "662",
+          "text": "wohnen",
+          "article": "",
+          "phonetic": "[ˈvoːnən]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "居住",
+          "example": "Ich wohne in München."
+        },
+        {
+          "id": "663",
+          "text": "Wohnung",
+          "article": "die",
+          "phonetic": "[ˈvoːnʊŋ]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "公寓，住房",
+          "example": "Seit wann haben Sie diese Wohnung?"
+        },
+        {
+          "id": "664",
+          "text": "wollen",
+          "article": "",
+          "phonetic": "[ˈvɔlən]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "想要，打算",
+          "example": "Wollen Sie einen Kaffee trinken?"
+        },
+        {
+          "id": "665",
+          "text": "Wort",
+          "article": "das",
+          "phonetic": "[vɔʁt]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "词，单词；话",
+          "example": "Ich kenne das Wort nicht."
+        },
+        {
+          "id": "666",
+          "text": "wunderbar",
+          "article": "",
+          "phonetic": "[ˈvʊndɐbaːɐ̯]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "美妙的，极好的",
+          "example": "Das Essen schmeckt wunderbar."
+        },
+        {
+          "id": "667",
+          "text": "Zahlen",
+          "article": "",
+          "phonetic": "[ˈt͡saːlən]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "付款（动词zahlen的命令式或不定式）",
+          "example": "Zahlen, bitte!"
+        },
+        {
+          "id": "668",
+          "text": "Zeit",
+          "article": "die",
+          "phonetic": "[t͡saɪ̯t]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "时间",
+          "example": "Ich habe heute keine Zeit."
+        },
+        {
+          "id": "669",
+          "text": "zurzeit",
+          "article": "",
+          "phonetic": "[t͡suːɐ̯ˈt͡saɪ̯t]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "目前，眼下",
+          "example": "Zurzeit habe ich sehr viel zu tun."
+        },
+        {
+          "id": "670",
+          "text": "Zeitung",
+          "article": "die",
+          "phonetic": "[ˈt͡saɪ̯tʊŋ]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "报纸",
+          "example": "Ich lese gern Zeitung."
+        },
+        {
+          "id": "671",
+          "text": "Zigarette",
+          "article": "die",
+          "phonetic": "[t͡siɡaˈʁɛtə]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "香烟",
+          "example": "Wie teuer sind die Zigaretten?"
+        },
+        {
+          "id": "672",
+          "text": "Zimmer",
+          "article": "das",
+          "phonetic": "[ˈt͡sɪmɐ]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "房间",
+          "example": "Das Zimmer ist groß. / Öffne im Schlafzimmer das Fenster, bitte! / Die Wohnung hat drei Zimmer."
+        },
+        {
+          "id": "673",
+          "text": "Zoll",
+          "article": "der",
+          "phonetic": "[t͡sɔl]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "海关；关税",
+          "example": "Wir müssen noch durch den Zoll."
+        },
+        {
+          "id": "674",
+          "text": "zu",
+          "article": "",
+          "phonetic": "[t͡suː]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "到，向；太；关闭的",
+          "example": "Der Bus fährt zum Bahnhof. / Ich gehe zu Fuß. / Die Tür ist zu."
+        },
+        {
+          "id": "675",
+          "text": "zufrieden",
+          "article": "",
+          "phonetic": "[t͡suːˈfʁiːdn̩]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "满意的",
+          "example": "Ich bin mit der Wohnung zufrieden."
+        },
+        {
+          "id": "676",
+          "text": "Zug",
+          "article": "der",
+          "phonetic": "[t͡suːk]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "火车",
+          "example": "Ich fahre gern mit dem Zug."
+        },
+        {
+          "id": "677",
+          "text": "zurück",
+          "article": "",
+          "phonetic": "[t͡suːˈʁʏk]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "回，返回",
+          "example": "Einmal Frankfurt und zurück. / Wann kommst du zurück?"
+        },
+        {
+          "id": "678",
+          "text": "zusammen",
+          "article": "",
+          "phonetic": "[t͡suˈzamən]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "一起；总共",
+          "example": "Sollen wir zusammen essen gehen? / Das macht zusammen 2 Euro 80."
+        },
+        {
+          "id": "679",
+          "text": "zwischen",
+          "article": "",
+          "phonetic": "[ˈt͡svɪʃn̩]",
+          "source": "Goethe A1 Wortliste",
+          "meaning": "在...之间",
+          "example": "Heidelberg liegt zwischen Frankfurt und Stuttgart. / Zwischen 8 und 10 Uhr bin ich zu Hause."
+        }
+    
+]
