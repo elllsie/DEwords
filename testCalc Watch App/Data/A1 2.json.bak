@@ -69,7 +69,7 @@
     "phonetic": "[ˈaxtʊŋ]",
     "source": "g2p",
     "meaning": "注意，小心",
-    "example": "Achtung!"
+    "example": "Achtung! Das dürfen Sie nicht tun."
   },
   {
     "id": "9",
@@ -105,7 +105,7 @@
     "phonetic": "[ˈalzo]",
     "source": "g2p",
     "meaning": "那么，因此",
-    "example": "Also, es ist so"
+    "example": "Also, es ist so: …"
   },
   {
     "id": "13",
@@ -159,7 +159,7 @@
     "phonetic": "[ˈandɐ]",
     "source": "g2p",
     "meaning": "其他的，另一个",
-    "example": "Willst du diese Jacke?"
+    "example": "Willst du diese Jacke? – Nein, ich möchte die andere."
   },
   {
     "id": "19",
@@ -276,7 +276,7 @@
     "phonetic": "[ˈanʁuːfbəˌantvɔʁtɐ]",
     "source": "g2p",
     "meaning": "电话答录机",
-    "example": "Wir sind im Moment nicht da."
+    "example": "Wir sind im Moment nicht da. Sprechen Sie bitte auf den Anrufbeantworter."
   },
   {
     "id": "32",
@@ -465,7 +465,7 @@
     "phonetic": "[aʊ̯f zaɪ̯n]",
     "source": "g2p",
     "meaning": "开着（门等）",
-    "example": "Du brauchst den Schlüssel nicht."
+    "example": "Du brauchst den Schlüssel nicht. Die Wohnung ist auf."
   },
   {
     "id": "53",
@@ -663,7 +663,7 @@
     "phonetic": "[aʊ̯toˈmaːtɪʃ]",
     "source": "g2p",
     "meaning": "自动的",
-    "example": "Du musst nichts machen."
+    "example": "Du musst nichts machen. Das geht automatisch."
   },
   {
     "id": "75",
@@ -861,7 +861,7 @@
     "phonetic": "[t͡sʊm ˈbaɪ̯ˌʃpiːl]",
     "source": "g2p",
     "meaning": "例如",
-    "example": "Viele meiner Verwandten, z."
+    "example": "Viele meiner Verwandten, z. B. meine beiden Brüder, arbeiten auch hier."
   },
   {
     "id": "97",
@@ -1005,7 +1005,7 @@
     "phonetic": "[ˈbɪlɪç]",
     "source": "g2p",
     "meaning": "便宜的",
-    "example": "Die Jacke kostet nur 10 Euro!"
+    "example": "Die Jacke kostet nur 10 Euro! Die ist aber billig!"
   },
   {
     "id": "113",
@@ -1311,7 +1311,7 @@
     "phonetic": "[daˈneːbn̩]",
     "source": "g2p",
     "meaning": "在旁边",
-    "example": "Du kennst doch die Post."
+    "example": "Du kennst doch die Post. Daneben ist die Bank."
   },
   {
     "id": "147",
@@ -1338,7 +1338,7 @@
     "phonetic": "[ˈdaŋkə]",
     "source": "g2p",
     "meaning": "谢谢",
-    "example": "Soll ich Ihnen helfen?"
+    "example": "Soll ich Ihnen helfen? - Nein, danke!"
   },
   {
     "id": "150",
@@ -1428,7 +1428,7 @@
     "phonetic": "[ˈdɔktoːɐ̯]",
     "source": "g2p",
     "meaning": "医生；博士",
-    "example": "Meine Tochter ist krank."
+    "example": "Meine Tochter ist krank. Wir gehen zum Doktor."
   },
   {
     "id": "160",
@@ -1527,7 +1527,7 @@
     "phonetic": "[dʊʁst]",
     "source": "g2p",
     "meaning": "口渴",
-    "example": "Hast du etwas zu trinken?"
+    "example": "Hast du etwas zu trinken? Ich habe großen Durst."
   },
   {
     "id": "171",
@@ -1590,7 +1590,7 @@
     "phonetic": "[aɪ̯n]",
     "source": "g2p",
     "meaning": "一个；不定冠词",
-    "example": "Ich nehme ein Bier."
+    "example": "Ich nehme ein Bier. Willst du auch eins?"
   },
   {
     "id": "178",
@@ -1743,7 +1743,7 @@
     "phonetic": "[ɛntˈʃʊldɪɡʊŋ]",
     "source": "g2p",
     "meaning": "道歉；原谅",
-    "example": "Entschuldigung!"
+    "example": "Entschuldigung! – Bitte."
   },
   {
     "id": "195",
@@ -1932,7 +1932,7 @@
     "phonetic": "[ˈfaɪ̯ɐ]",
     "source": "g2p",
     "meaning": "庆祝（前缀）",
-    "example": "z."
+    "example": "z. B. Feierabend, Feiertag"
   },
   {
     "id": "216",
@@ -2031,7 +2031,7 @@
     "phonetic": "[fɪʃ]",
     "source": "g2p",
     "meaning": "鱼",
-    "example": "Ich esse gern Fisch."
+    "example": "Ich esse gern Fisch. Fleisch mag ich nicht."
   },
   {
     "id": "227",
@@ -2058,7 +2058,7 @@
     "phonetic": "[ˈfliːɡn̩]",
     "source": "g2p",
     "meaning": "飞；乘飞机",
-    "example": "Ich fliege nicht gern."
+    "example": "Ich fliege nicht gern. Deshalb fahre ich mit dem Zug."
   },
   {
     "id": "230",
@@ -2121,7 +2121,7 @@
     "phonetic": "[ˈfʁaːɡn̩]",
     "source": "g2p",
     "meaning": "问",
-    "example": "Er möchte Sie etwas fragen."
+    "example": "Er möchte Sie etwas fragen. Wann kommen Sie?"
   },
   {
     "id": "237",
@@ -2166,7 +2166,7 @@
     "phonetic": "[fʁɛmt]",
     "source": "g2p",
     "meaning": "陌生的，外国的",
-    "example": "Das weiß ich nicht"
+    "example": "Das weiß ich nicht; ich bin fremd hier."
   },
   {
     "id": "242",
@@ -2715,7 +2715,7 @@
     "phonetic": "[haˈloː]",
     "source": "g2p",
     "meaning": "你好（问候语）",
-    "example": "Hallo Inge!"
+    "example": "Hallo Inge! Wie geht’s?"
   },
   {
     "id": "303",
@@ -2787,7 +2787,7 @@
     "phonetic": "[ˈhaɪ̯maːt]",
     "source": "g2p",
     "meaning": "家乡，故乡",
-    "example": "Ich komme aus der Schweiz."
+    "example": "Ich komme aus der Schweiz. Das ist meine Heimat."
   },
   {
     "id": "311",
@@ -2877,7 +2877,7 @@
     "phonetic": "[ˈhɪlfə]",
     "source": "g2p",
     "meaning": "帮助",
-    "example": "Hilfe!"
+    "example": "Hilfe! Bitte helfen Sie mir!"
   },
   {
     "id": "321",
@@ -2931,7 +2931,7 @@
     "phonetic": "[ˈhøːʁən]",
     "source": "g2p",
     "meaning": "听",
-    "example": "Hör mal!"
+    "example": "Hör mal! Was ist das?"
   },
   {
     "id": "327",
@@ -2958,7 +2958,7 @@
     "phonetic": "[ˈhʊŋɐ]",
     "source": "g2p",
     "meaning": "饥饿",
-    "example": "Ich habe Hunger!"
+    "example": "Ich habe Hunger! Wann ist das Essen fertig?"
   },
   {
     "id": "330",
@@ -3030,7 +3030,7 @@
     "phonetic": "[jaː]",
     "source": "g2p",
     "meaning": "是；对",
-    "example": "Sind Sie Herr Watanabe?"
+    "example": "Sind Sie Herr Watanabe? – Ja."
   },
   {
     "id": "338",
@@ -3039,7 +3039,7 @@
     "phonetic": "[ˈjakə]",
     "source": "g2p",
     "meaning": "夹克",
-    "example": "Zieh dir eine Jacke an."
+    "example": "Zieh dir eine Jacke an. Es ist kalt."
   },
   {
     "id": "339",
@@ -3084,7 +3084,7 @@
     "phonetic": "[jʊŋ]",
     "source": "g2p",
     "meaning": "年轻的",
-    "example": "Claudia ist 21."
+    "example": "Claudia ist 21. – Was? Noch so jung?"
   },
   {
     "id": "344",
@@ -3093,7 +3093,7 @@
     "phonetic": "[ˈjʊŋə]",
     "source": "g2p",
     "meaning": "男孩",
-    "example": "Ich habe zwei Kinder."
+    "example": "Ich habe zwei Kinder. Einen Jungen und ein Mädchen."
   },
   {
     "id": "345",
@@ -3111,7 +3111,7 @@
     "phonetic": "[kaˈpʊt]",
     "source": "g2p",
     "meaning": "坏的，破碎的",
-    "example": "Das Glas war teuer."
+    "example": "Das Glas war teuer. Es geht sehr leicht kaputt."
   },
   {
     "id": "347",
@@ -3165,7 +3165,7 @@
     "phonetic": "[ˈkɛnən]",
     "source": "g2p",
     "meaning": "认识，了解",
-    "example": "Kennen Sie diese Frau?"
+    "example": "Kennen Sie diese Frau? – Nein, leider nicht."
   },
   {
     "id": "353",
@@ -3174,7 +3174,7 @@
     "phonetic": "[ˈkɛnənˌlɛʁnən]",
     "source": "g2p",
     "meaning": "结识，认识",
-    "example": "Wir sind neu hier."
+    "example": "Wir sind neu hier. Wir möchten Sie kennenlernen."
   },
   {
     "id": "354",
@@ -3219,7 +3219,7 @@
     "phonetic": "[klaːɐ̯]",
     "source": "g2p",
     "meaning": "清楚的；当然",
-    "example": "Kommst du mit?"
+    "example": "Kommst du mit? – Klar!"
   },
   {
     "id": "359",
@@ -3237,7 +3237,7 @@
     "phonetic": "[ˈklaɪ̯dʊŋ]",
     "source": "g2p",
     "meaning": "衣服",
-    "example": "Wo finde ich Kleidung?"
+    "example": "Wo finde ich Kleidung? – Jacken im ersten, Jeans im zweiten Stock."
   },
   {
     "id": "361",
@@ -3282,7 +3282,7 @@
     "phonetic": "[ˈkɔmən]",
     "source": "g2p",
     "meaning": "来",
-    "example": "Woher kommen Sie?"
+    "example": "Woher kommen Sie? – Aus Frankreich."
   },
   {
     "id": "366",
@@ -3318,7 +3318,7 @@
     "phonetic": "[ˈkɔstn̩]",
     "source": "g2p",
     "meaning": "花费；品尝",
-    "example": "Wie viel kostet das?"
+    "example": "Wie viel kostet das? – 10 Euro."
   },
   {
     "id": "370",
@@ -3372,7 +3372,7 @@
     "phonetic": "[ˈkyːlˌʃʁaŋk]",
     "source": "g2p",
     "meaning": "冰箱",
-    "example": "Haben wir noch Milch?"
+    "example": "Haben wir noch Milch? – Ja, im Kühlschrank."
   },
   {
     "id": "376",
@@ -3381,7 +3381,7 @@
     "phonetic": "[kʊltuˈʁɛl]",
     "source": "g2p",
     "meaning": "文化的",
-    "example": "Ich bin kulturell interessiert."
+    "example": "Ich bin kulturell interessiert. Ich gehe oft ins Museum."
   },
   {
     "id": "377",
@@ -3399,7 +3399,7 @@
     "phonetic": "[ˈkʊndə]",
     "source": "g2p",
     "meaning": "顾客",
-    "example": "Einen Moment, bitte."
+    "example": "Einen Moment, bitte. Ich habe eine Kundin."
   },
   {
     "id": "379",
@@ -3489,7 +3489,7 @@
     "phonetic": "[laʊ̯t]",
     "source": "g2p",
     "meaning": "大声的；根据",
-    "example": "Nicht so laut!"
+    "example": "Nicht so laut! Das Baby schläft."
   },
   {
     "id": "389",
@@ -3516,7 +3516,7 @@
     "phonetic": "[ˈleːdɪç]",
     "source": "g2p",
     "meaning": "单身的",
-    "example": "Sind Sie verheiratet?"
+    "example": "Sind Sie verheiratet? – Nein. Ledig."
   },
   {
     "id": "392",
@@ -3552,7 +3552,7 @@
     "phonetic": "[ˈlaɪ̯dɐ]",
     "source": "g2p",
     "meaning": "遗憾地，可惜",
-    "example": "Leider kann ich nicht kommen."
+    "example": "Leider kann ich nicht kommen. Ich muss zum Arzt."
   },
   {
     "id": "396",
@@ -3561,7 +3561,7 @@
     "phonetic": "[ˈlaɪ̯zə]",
     "source": "g2p",
     "meaning": "安静的；小声的",
-    "example": "Seid leise."
+    "example": "Seid leise. Die anderen schlafen schon."
   },
   {
     "id": "397",
@@ -3705,7 +3705,7 @@
     "phonetic": "[ˈlʊstɪç]",
     "source": "g2p",
     "meaning": "有趣的，滑稽的",
-    "example": "Frau Mertens ist lustig."
+    "example": "Frau Mertens ist lustig. Sie lacht immer."
   },
   {
     "id": "413",
@@ -3723,7 +3723,7 @@
     "phonetic": "[ˈmɛːtçən]",
     "source": "g2p",
     "meaning": "女孩",
-    "example": "Familie Kurz bekommt ein Baby."
+    "example": "Familie Kurz bekommt ein Baby. – Junge oder Mädchen?"
   },
   {
     "id": "415",
@@ -3849,7 +3849,7 @@
     "phonetic": "[ˈmɪtˌbʁɪŋən]",
     "source": "g2p",
     "meaning": "带来",
-    "example": "Ich gehe einkaufen."
+    "example": "Ich gehe einkaufen. Soll ich dir was mitbringen?"
   },
   {
     "id": "429",
@@ -3858,7 +3858,7 @@
     "phonetic": "[ˈmɪtˌkɔmən]",
     "source": "g2p",
     "meaning": "一起来",
-    "example": "Ich gehe ins Kino."
+    "example": "Ich gehe ins Kino. Kommst du mit?"
   },
   {
     "id": "430",
@@ -3948,7 +3948,7 @@
     "phonetic": "[ˈmyːdə]",
     "source": "g2p",
     "meaning": "疲倦的",
-    "example": "Ich bin müde."
+    "example": "Ich bin müde. Ich gehe schlafen."
   },
   {
     "id": "439",
@@ -4011,7 +4011,7 @@
     "phonetic": "[ˈneːmən]",
     "source": "g2p",
     "meaning": "拿；取；乘坐",
-    "example": "Heute gibt es Hähnchen."
+    "example": "Heute gibt es Hähnchen. Das nehme ich."
   },
   {
     "id": "446",
@@ -4020,7 +4020,7 @@
     "phonetic": "[naɪ̯n]",
     "source": "g2p",
     "meaning": "不",
-    "example": "Fährst du auch nach München?"
+    "example": "Fährst du auch nach München? – Nein, ich habe keine Zeit."
   },
   {
     "id": "447",
@@ -4074,7 +4074,7 @@
     "phonetic": "[nɔʁˈmaːl]",
     "source": "g2p",
     "meaning": "正常的",
-    "example": "75 kg."
+    "example": "75 kg. Sein Gewicht ist normal."
   },
   {
     "id": "453",
@@ -5190,7 +5190,7 @@
     "phonetic": "[ˈtaksi]",
     "source": "g2p",
     "meaning": "出租车",
-    "example": "Es gibt heute keinen Bus mehr."
+    "example": "Es gibt heute keinen Bus mehr. Er fährt mit dem Taxi."
   },
   {
     "id": "577",
@@ -5343,7 +5343,7 @@
     "phonetic": "[ˈtʁɛpə]",
     "source": "g2p",
     "meaning": "楼梯",
-    "example": "Die Toilette?"
+    "example": "Die Toilette? Die Treppe hoch und dann links."
   },
   {
     "id": "594",
@@ -5577,7 +5577,7 @@
     "phonetic": "[fɛɐ̯ˈmiːtɐ]",
     "source": "Goethe A1 Wortliste",
     "meaning": "房东",
-    "example": "Unser Vermieter heißt Huber."
+    "example": "Unser Vermieter heißt Huber. Er wohnt auch hier."
   },
   {
     "id": "620",
@@ -5649,7 +5649,7 @@
     "phonetic": "[ˈfoːɐ̯zɪçt]",
     "source": "Goethe A1 Wortliste",
     "meaning": "小心，注意",
-    "example": "Vorsicht!"
+    "example": "Vorsicht! Da kommt ein Auto."
   },
   {
     "id": "628",
@@ -5658,7 +5658,7 @@
     "phonetic": "[ˈfoːɐ̯ʃtɛlən]",
     "source": "Goethe A1 Wortliste",
     "meaning": "介绍",
-    "example": "Wir wollen uns kennenlernen."
+    "example": "Wir wollen uns kennenlernen. Können Sie sich bitte vorstellen?"
   },
   {
     "id": "629",
@@ -5748,7 +5748,7 @@
     "phonetic": "[veː tuːn]",
     "source": "Goethe A1 Wortliste",
     "meaning": "疼痛",
-    "example": "Ich muss zum Arzt."
+    "example": "Ich muss zum Arzt. Mein Bein tut weh."
   },
   {
     "id": "639",
