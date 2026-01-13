@@ -11,6 +11,8 @@ import SwiftUI
 struct GermanWordWatchApp: App {
     
     init() {
+        UserDefaults.standard.removeObject(forKey: "learningLanguage")
+
         _ = SpeechHelper.shared
     }
     

@@ -3,346 +3,306 @@ import WatchKit
 
 struct WordPracticeView: View {
 
-    let words: [Word]
+    @StateObject var scheduler: WordScheduler
     let title: String
 
-    // MARK: - 数据
+    // UI 状态
+    @State private var showHint = true
+    @State private var showFamiliarFeedback = false
+    @State private var showUnfamiliarFeedback = false
 
-    @State private var currentIndex: Int = 0
-
-    // 用“步数”作为时间轴，避免熟悉词跳到词表末尾后永不再出现
-    @State private var globalStep: Int = 0
-
-    // MARK: - Digital Crown
+    @State private var isExampleExpanded = false
+    @State private var showExampleTranslation = false
 
     @State private var crownValue: Double = 0
     @State private var lastStep: Int = 0
     @FocusState private var isCrownFocused: Bool
 
-    // MARK: - 发音防连点
-
-    @State private var lastSpeakTime: Date = .distantPast
-    private let speakCooldown: TimeInterval = 0.3
-
-    // MARK: - 熟悉逻辑（Phase 1）
-
-    @State private var familiarWordIDs: Set<String> = []
-    @State private var showFamiliarHint: Bool = true
-    @State private var showFamiliarFeedback: Bool = false
-    
-    @State private var wordProgress: [String: WordProgress] = [:]
-    
-    //测试用
-    @State private var debugMode = true
-    
-    //展开例句
-    @State private var isExampleExpanded: Bool = false
-    
-    @State private var crownAccumulator: Double = 0
-
-
-
-
-    // MARK: - 当前词
-
-    private var currentWord: Word? {
-        guard words.indices.contains(currentIndex) else { return nil }
-        return words[currentIndex]
-    }
-
-    // MARK: - 切换
-
-    private func nextWord() {
-        guard !words.isEmpty else { return }
-        isExampleExpanded = false
-        let baseStep = globalStep
-
-        // 循环扫描一圈：找“到期”或“未记录”的词
-        for offset in 1...words.count {
-            let candidateIndex = (currentIndex + offset) % words.count
-            let candidateStep = baseStep + offset
-
-            let word = words[candidateIndex]
-            let progress = wordProgress[word.text]
-
-            if progress == nil || candidateStep >= (progress?.nextAvailableStep ?? 0) {
-                currentIndex = candidateIndex
-                globalStep = candidateStep
-                return
-            }
-        }
-
-        // 兜底：极端情况下避免卡死
-        currentIndex = (currentIndex + 1) % words.count
-        globalStep = baseStep + 1
-    }
-
-
-    private func previousWord() {
-        guard !words.isEmpty else { return }
-        currentIndex = (currentIndex - 1 + words.count) % words.count
-        // globalStep 不回退（保持时间轴单调递增，避免间隔逻辑倒退）
-    }
-
-    // MARK: - 标记熟悉（核心）
-
-    private func markFamiliar() {
-        guard let word = currentWord else { return }
-
-        // 1️⃣ 取出或创建进度
-        var progress = wordProgress[word.text] ?? WordProgress(
-            familiarCount: 0,
-            nextAvailableStep: globalStep + 1
-        )
-
-        // 2️⃣ 熟悉次数 +1
-        progress.familiarCount += 1
-
-        // 3️⃣ 用 SpacingEngine 计算“下次可出现 step”
-        let nextStep = SpacingEngine.nextIndex(
-            totalWords: words.count,
-            currentIndex: globalStep,
-            familiarCount: progress.familiarCount
-        )
-
-        progress.nextAvailableStep = nextStep
-
-        // 4️⃣ 写回状态
-        wordProgress[word.text] = progress
-
-        // 5️⃣ 触觉反馈
-        WKInterfaceDevice.current().play(.success)
-
-        // 6️⃣ ✓ 动画（停留在当前词）
-        withAnimation(.easeOut(duration: 0.2)) {
-            showFamiliarFeedback = true
-        }
-
-        showFamiliarHint = false
-
-        // 7️⃣ 延迟切词，确保“这是 A 被标记”
-        DispatchQueue.main.asyncAfter(deadline: .now() + 0.45) {
-            showFamiliarFeedback = false
-            nextWord()
-        }
-    }
-
-
-    // MARK: - View
+    @AppStorage("learningLanguage") private var learningLanguage: String = "zh"
 
     var body: some View {
         ZStack {
-
-            // 主内容
             VStack {
-                if let word = currentWord {
+                if let word = scheduler.currentWord {
                     VStack(spacing: 6) {
 
                         Text(word.text)
                             .font(.title2)
                             .bold()
                             .multilineTextAlignment(.center)
+                            .lineLimit(2)
+                            .minimumScaleFactor(0.7)
 
-                        // 音标点击发音
                         Text(word.phonetic)
                             .font(.footnote)
                             .foregroundColor(.green)
                             .onTapGesture {
-                                let now = Date()
-                                guard now.timeIntervalSince(lastSpeakTime) > speakCooldown else { return }
-                                lastSpeakTime = now
                                 SpeechHelper.shared.speak(word.text)
                             }
 
-                        Text(word.meaning)
+                        Text(word.displayMeaning)
                             .font(.footnote)
                             .foregroundColor(.secondary)
 
-                        ViewThatFits(in: .vertical) {
+                        VStack(spacing: 4) {
                             Text(word.example)
                                 .font(.footnote)
                                 .multilineTextAlignment(.center)
-                                .fixedSize(horizontal: false, vertical: true)
+                                .lineLimit(isExampleExpanded ? nil : 2)
+                                .truncationMode(.tail)
+                                .contentShape(Rectangle())
+                                .onTapGesture {
+                                    showExampleTemporarily()
+                                }
+                                .onTapGesture(count: 2) {
+                                    withAnimation {
+                                        isExampleExpanded.toggle()
+                                    }
+                                }
 
-                            // 能完整显示 → 不需要展开
-                              Text(word.example)
-                                  .font(.footnote)
-                                  .multilineTextAlignment(.center)
-                                  .fixedSize(horizontal: false, vertical: true)
-
-                              // 放不下 → 用可展开版本
-                              Text(word.example)
-                                  .font(.footnote)
-                                  .multilineTextAlignment(.center)
-                                  .lineLimit(isExampleExpanded ? nil : 2)
-                                  .truncationMode(.tail)
-                                  .fixedSize(horizontal: false, vertical: true)
-                                  .onTapGesture {
-                                      withAnimation {
-                                          isExampleExpanded.toggle()
-                                      }
-                                  }
-
-
-                            EmptyView()
+                            if showExampleTranslation,
+                               let translation = exampleTranslation(for: word) {
+                                Text(translation)
+                                    .font(.caption2)
+                                    .foregroundColor(.secondary)
+                                    .multilineTextAlignment(.center)
+                            }
                         }
-                        .padding(.top, 4)
+
                     }
-                    .padding()
-                } else {
-                    Text("滑动或旋转表冠")
-                        .foregroundColor(.gray)
                 }
             }
 
-            // ✓ 熟悉反馈
             if showFamiliarFeedback {
-                Image(systemName: "checkmark")
-                    .font(.largeTitle)
-                    .foregroundColor(.green)
-                    .transition(.scale.combined(with: .opacity))
+                feedbackView(text: familiarText, color: .green)
             }
-            
-            // //测试用
-            // if debugMode, let word = currentWord {
-            //     let progress = wordProgress[word.text]
 
-            //     Text("""
-            //     熟悉次数: \(progress?.familiarCount ?? 0)
-            //     下次Step: \(progress?.nextAvailableStep ?? -1)
-            //     当前Index: \(currentIndex)
-            //     当前Step: \(globalStep)
-            //     """)
-            //     .font(.caption2)
-            //     .foregroundColor(.gray)
-            // }
-
-            // 首次提示
-            if showFamiliarHint {
-                VStack {
-                    Text("左滑标记为熟悉")
-                        .font(.footnote)
-                        .padding(6)
-                        .background(.black.opacity(0.7))
-                        .cornerRadius(8)
-                        .transition(.opacity)
-                    Spacer()
-                }
-                .padding(.top, 6)
+            if showUnfamiliarFeedback {
+                feedbackView(text: unfamiliarText, color: .yellow)
             }
-        }
 
+            if showHint {
+                hintView
+            }
+
+        }.contentShape(Rectangle())
         .navigationTitle(title)
-
-        // MARK: - 手势（优先级非常重要）
-
-        .gesture(
-            DragGesture(minimumDistance: 20)
-                .onEnded { value in
-
-                    let h = value.translation.width
-                    let v = value.translation.height
-
-                    // 左滑：熟悉（强判定，防误触）
-                    if h < -20 && abs(h) > abs(v) * 1.1 {
-                        markFamiliar()
-                        return
-                    }
-
-                    // 上下滑：切词
-                    if v < -20 {
-                        nextWord()
-                    } else if v > 20 {
-                        previousWord()
-                    }
-                }
-        )
-
-        // MARK: - Digital Crown
-
+//        .gesture(gesture)
+        .highPriorityGesture(gesture)
         .focusable(true)
         .focused($isCrownFocused)
-        .digitalCrownRotation(
-            $crownValue,
-            from: -1000,
-            through: 1000,
-            by: 1.0,
-            sensitivity: .medium,
-            isContinuous: true,
-            isHapticFeedbackEnabled: true
-        )
+        .digitalCrownRotation($crownValue, from: -1000, through: 1000, by: 1)
         .onChange(of: crownValue) { _, newValue in
             let step = Int(newValue)
-
             if step > lastStep {
-                nextWord()
+                scheduler.next()
             } else if step < lastStep {
-                previousWord()
+                scheduler.previous()
             }
-
             lastStep = step
         }
-
-
-        // MARK: - 生命周期
-
         .onAppear {
             isCrownFocused = true
-
-            // 提示只出现一次
-            DispatchQueue.main.asyncAfter(deadline: .now() + 3) {
+            DispatchQueue.main.asyncAfter(deadline: .now() + 4) {
                 withAnimation {
-                    showFamiliarHint = false
+                    showHint = false
                 }
             }
         }
     }
 }
 
-enum WordList: String, CaseIterable, Identifiable {
-    case `default` = "words"
-    case goetheA1 = "A1"
-    case goetheA2 = "A2"
+private extension WordPracticeView {
 
-    var id: String { rawValue }
+    var familiarText: String {
+        learningLanguage == "en" ? "Familiar" : "熟悉"
+    }
 
-    var title: String {
-        switch self {
-        case .default:
-            return "默认"
-        case .goetheA1:
-            return "歌德A1"
-        case .goetheA2:
-            return "歌德A2"
+    var unfamiliarText: String {
+        learningLanguage == "en" ? "Review later" : "再看一下"
+    }
+
+    var hintView: some View {
+        VStack {
+            Text(learningLanguage == "en"
+                 ? "← Familiar   Review →\n↑ ↓ Rotate Crown\nSwitch words\n"
+                 : "← 熟悉   不熟 →\n↑ ↓ 旋转表冠\n切换单词\n")
+                .font(.footnote)
+                .padding(8)
+                .background(.black.opacity(0.7))
+                .cornerRadius(8)
+            Spacer()
+        }
+        .padding(.top, 6)
+    }
+    
+    func exampleTranslation(for word: Word) -> String? {
+        switch learningLanguage {
+        case "zh":
+            return word.exampleZh
+        case "en":
+            return word.exampleEn
+        default:
+            return nil
+        }
+    }
+    
+    
+    func showExampleTemporarily() {
+        guard !showExampleTranslation else { return }
+
+        withAnimation(.easeIn(duration: 0.15)) {
+            showExampleTranslation = true
+        }
+
+        DispatchQueue.main.asyncAfter(deadline: .now() + 1.8) {
+            withAnimation(.easeOut(duration: 0.2)) {
+                showExampleTranslation = false
+            }
         }
     }
 
-    var resourceName: String { rawValue }
-}
 
-struct ContentView: View {
-    @AppStorage("selectedWordList") private var selectedWordListRaw: String = WordList.default.rawValue
-
-    private var selectedWordList: WordList {
-        WordList(rawValue: selectedWordListRaw) ?? .default
+    func feedbackView(text: String, color: Color) -> some View {
+        Text(text)
+            .font(.footnote)
+            .padding(6)
+            .background(color.opacity(0.8))
+            .cornerRadius(6)
     }
 
-    var body: some View {
-        NavigationStack {
-            List {
-                ForEach(WordList.allCases) { list in
-                    NavigationLink(value: list) {
-                        Text(list.title)
+    var gesture: some Gesture {
+        DragGesture(minimumDistance: 20)
+            .onEnded { value in
+                let h = value.translation.width
+                let v = value.translation.height
+
+                // ← 熟悉
+                if h < -15 && abs(h) > abs(v) * 0.6 {
+                    handleFamiliar()
+                    return
+                }
+
+                if h > 15 && abs(h) > abs(v) * 0.6 {
+                    handleUnfamiliar()
+                    return
+                }
+
+
+                // ↑ 下一个
+                if v < -20 {
+                    scheduler.next()
+                    return
+                }
+
+                // ↓ 上一个
+                if v > 20 {
+                    scheduler.previous()
+                    return
+                }
+            }
+    }
+
+
+    func flashFamiliar() {
+        showFamiliarFeedback = true
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.4) {
+            showFamiliarFeedback = false
+        }
+        WKInterfaceDevice.current().play(.click)
+    }
+    
+    func handleFamiliar() {
+        scheduler.markFamiliar()
+        flashFamiliar()
+//
+//        DispatchQueue.main.asyncAfter(deadline: .now() + 0.45) {
+//            scheduler.commitNext()
+//        }
+    }
+
+    func handleUnfamiliar() {
+        scheduler.markUnfamiliar()
+        flashUnfamiliar()
+
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.45) {
+            scheduler.next()
+        }
+    }
+
+
+    func flashUnfamiliar() {
+        showUnfamiliarFeedback = true
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.4) {
+            showUnfamiliarFeedback = false
+        }
+        WKInterfaceDevice.current().play(.click)
+
+    }
+}
+
+    enum WordList: String, CaseIterable, Identifiable {
+        case `default` = "words"
+        case goetheA1 = "A1"
+        case goetheA2 = "A2"
+        
+        var id: String { rawValue }
+        
+        var title: String {
+            switch self {
+            case .default:
+                return "默认"
+            case .goetheA1:
+                return "歌德A1"
+            case .goetheA2:
+                return "歌德A2"
+            }
+        }
+        
+        var resourceName: String { rawValue }
+    }
+    
+    struct ContentView: View {
+        
+        @AppStorage("learningLanguage") private var languageRaw: String?
+        
+        var body: some View {
+            if languageRaw == nil{
+                LanguageSelectView()
+            } else {
+                MainView()
+            }
+        }
+    }
+    
+    struct MainView: View {
+        @AppStorage("selectedWordList") private var selectedWordListRaw: String = WordList.default.rawValue
+        
+        private var selectedWordList: WordList {
+            WordList(rawValue: selectedWordListRaw) ?? .default
+        }
+        
+        var body: some View {
+            NavigationStack {
+                List {
+                    ForEach(WordList.allCases) { list in
+                        NavigationLink(value: list) {
+                            Text(list.title)
+                        }
                     }
                 }
-            }
-            .navigationTitle("选择词表")
-            .navigationDestination(for: WordList.self) { list in
-                WordPracticeView(
-                    words: WordRepository.loadWords(resourceName: list.resourceName),
-                    title: list.title
-                )
+                .navigationTitle("选择词表")
+                .navigationDestination(for: WordList.self) { list in
+                    let words = WordRepository.loadWords(resourceName: list.resourceName)
+                    let scheduler = WordScheduler(words: words)
+
+                    WordPracticeView(
+                        scheduler: scheduler,
+                        title: list.title
+                    )
+                }
+
             }
         }
     }
-}
+

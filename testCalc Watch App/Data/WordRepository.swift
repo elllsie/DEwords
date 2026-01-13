@@ -1,6 +1,8 @@
 import Foundation
 
 struct WordRepository {
+    
+    
 
     private static func decodeWords(from data: Data) -> [Word]? {
         try? JSONDecoder().decode([Word].self, from: data)

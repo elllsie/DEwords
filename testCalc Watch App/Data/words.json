@@ -1,688 +1,914 @@
-
 [
   {
     "id": "1",
     "text": "eins",
     "article": "",
     "phonetic": "[aɪ̯ns]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "一",
-    "example": "Ich bin eins."
+    "meaningZh": "一",
+    "meaningEn": "one",
+    "example": "Ich bin eins.",
+    "exampleZh": "我就是其中之一。",
+    "exampleEn": "I am one."
   },
   {
     "id": "2",
     "text": "zwei",
     "article": "",
     "phonetic": "[tsvaɪ̯]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "二",
-    "example": "Wir sind zwei Personen."
+    "meaningZh": "二",
+    "meaningEn": "two",
+    "example": "Wir sind zwei Personen.",
+    "exampleZh": "我们是两个人。",
+    "exampleEn": "We are two people."
   },
   {
     "id": "3",
     "text": "drei",
     "article": "",
     "phonetic": "[dʁaɪ̯]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "三",
-    "example": "Ich habe drei Äpfel."
+    "meaningZh": "三",
+    "meaningEn": "three",
+    "example": "Ich habe drei Äpfel.",
+    "exampleZh": "我有三个苹果。",
+    "exampleEn": "I have three apples."
   },
   {
     "id": "4",
     "text": "vier",
     "article": "",
     "phonetic": "[fiːɐ̯]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "四",
-    "example": "Es ist vier Uhr."
+    "meaningZh": "四",
+    "meaningEn": "Four",
+    "example": "Es ist vier Uhr.",
+    "exampleZh": "已经四点了。",
+    "exampleEn": "It's four o'clock."
   },
   {
     "id": "5",
     "text": "fünf",
     "article": "",
     "phonetic": "[fʏnf]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "五",
-    "example": "Das Kind ist fünf Jahre alt."
+    "meaningZh": "五",
+    "meaningEn": "five",
+    "example": "Das Kind ist fünf Jahre alt.",
+    "exampleZh": "孩子五岁了。",
+    "exampleEn": "The child is five years old."
   },
   {
     "id": "6",
     "text": "sechs",
     "article": "",
     "phonetic": "[zɛks]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "六",
-    "example": "Die Schule beginnt um sechs."
+    "meaningZh": "六",
+    "meaningEn": "six",
+    "example": "Die Schule beginnt um sechs.",
+    "exampleZh": "学校六点开学。",
+    "exampleEn": "School starts at six."
   },
   {
     "id": "7",
     "text": "sieben",
     "article": "",
     "phonetic": "[ˈziːbn̩]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "七",
-    "example": "Ich arbeite sieben Tage."
+    "meaningZh": "七",
+    "meaningEn": "seven",
+    "example": "Ich arbeite sieben Tage.",
+    "exampleZh": "我工作7天。",
+    "exampleEn": "I work seven days."
   },
   {
     "id": "8",
     "text": "acht",
     "article": "",
     "phonetic": "[axt]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "八",
-    "example": "Sie hat acht Bücher."
+    "meaningZh": "八",
+    "meaningEn": "eight",
+    "example": "Sie hat acht Bücher.",
+    "exampleZh": "她有八本书。",
+    "exampleEn": "She has eight books."
   },
   {
     "id": "9",
     "text": "neun",
     "article": "",
     "phonetic": "[nɔɪ̯n]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "九",
-    "example": "Kapitel neun ist schwer."
+    "meaningZh": "九",
+    "meaningEn": "Nine",
+    "example": "Kapitel neun ist schwer.",
+    "exampleZh": "第九章很难。",
+    "exampleEn": "Chapter nine is difficult."
   },
   {
     "id": "10",
     "text": "zehn",
     "article": "",
     "phonetic": "[tseːn]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "十",
-    "example": "Es kostet zehn Euro."
+    "meaningZh": "十",
+    "meaningEn": "ten",
+    "example": "Es kostet zehn Euro.",
+    "exampleZh": "花费十欧元。",
+    "exampleEn": "It costs ten euros."
   },
   {
     "id": "11",
     "text": "elf",
     "article": "",
     "phonetic": "[ɛlf]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "十一",
-    "example": "Das Meeting ist um elf."
+    "meaningZh": "十一",
+    "meaningEn": "eleven",
+    "example": "Das Meeting ist um elf.",
+    "exampleZh": "会议时间是十一点。",
+    "exampleEn": "The meeting is at eleven."
   },
   {
     "id": "12",
     "text": "zwölf",
     "article": "",
     "phonetic": "[tsvœlf]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "十二",
-    "example": "Es ist zwölf Uhr Mittag."
+    "meaningZh": "十二",
+    "meaningEn": "twelve",
+    "example": "Es ist zwölf Uhr Mittag.",
+    "exampleZh": "现在是中午十二点。",
+    "exampleEn": "It's twelve o'clock noon."
   },
   {
     "id": "13",
     "text": "dreizehn",
     "article": "",
     "phonetic": "[ˈdʁaɪ̯tseːn]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "十三",
-    "example": "Mein Geburtstag ist am dreizehnten."
+    "meaningZh": "十三",
+    "meaningEn": "Thirteen",
+    "example": "Mein Geburtstag ist am dreizehnten.",
+    "exampleZh": "我的生日是十三号。",
+    "exampleEn": "My birthday is on the thirteenth."
   },
   {
     "id": "14",
     "text": "vierzehn",
     "article": "",
-    "phonetic": "[ˈfiːɐ̯tseːn]",
-    "source": "Goethe A1 Wortliste",
+    "phonetic": "[ˈfirtseːn]",
     "meaning": "十四",
-    "example": "Sie ist vierzehn Jahre alt."
+    "meaningZh": "十四",
+    "meaningEn": "fourteen",
+    "example": "Sie ist vierzehn Jahre alt.",
+    "exampleZh": "她今年十四岁。",
+    "exampleEn": "She is fourteen years old."
   },
   {
     "id": "15",
     "text": "fünfzehn",
     "article": "",
     "phonetic": "[ˈfʏnftseːn]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "十五",
-    "example": "Fünfzehn Minuten noch."
+    "meaningZh": "十五",
+    "meaningEn": "fifteen",
+    "example": "Fünfzehn Minuten noch.",
+    "exampleZh": "还剩十五分钟。",
+    "exampleEn": "Fifteen minutes left."
   },
   {
     "id": "16",
     "text": "sechzehn",
     "article": "",
     "phonetic": "[ˈzɛçtseːn]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "十六",
-    "example": "Er ist sechzehn."
+    "meaningZh": "十六",
+    "meaningEn": "sixteen",
+    "example": "Er ist sechzehn.",
+    "exampleZh": "他十六岁了。",
+    "exampleEn": "He is sixteen."
   },
   {
     "id": "17",
     "text": "siebzehn",
     "article": "",
     "phonetic": "[ˈziːptseːn]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "十七",
-    "example": "Zimmer siebzehn, bitte."
+    "meaningZh": "十七",
+    "meaningEn": "seventeen",
+    "example": "Zimmer siebzehn, bitte.",
+    "exampleZh": "请十七号房间。",
+    "exampleEn": "Room seventeen, please."
   },
   {
     "id": "18",
     "text": "achtzehn",
     "article": "",
     "phonetic": "[ˈaxttseːn]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "十八",
-    "example": "Ich wohne in Haus achtzehn."
+    "meaningZh": "十八",
+    "meaningEn": "eighteen",
+    "example": "Ich wohne in Haus achtzehn.",
+    "exampleZh": "我住在十八号楼。",
+    "exampleEn": "I live in house eighteen."
   },
   {
     "id": "19",
     "text": "neunzehn",
     "article": "",
     "phonetic": "[ˈnɔɪ̯ntseːn]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "十九",
-    "example": "Das Jahr neunzehnhundert."
+    "meaningZh": "十九",
+    "meaningEn": "nineteen",
+    "example": "Das Jahr neunzehnhundert.",
+    "exampleZh": "公元一千九百年。",
+    "exampleEn": "The year nineteen hundred."
   },
   {
     "id": "20",
     "text": "zwanzig",
     "article": "",
     "phonetic": "[ˈtsvantsɪç]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "二十",
-    "example": "Er ist zwanzig Jahre alt."
+    "meaningZh": "二十",
+    "meaningEn": "twenty",
+    "example": "Er ist zwanzig Jahre alt.",
+    "exampleZh": "他今年二十岁了。",
+    "exampleEn": "He is twenty years old."
   },
   {
     "id": "21",
     "text": "einundzwanzig",
     "article": "",
     "phonetic": "[ˈaɪ̯nʔʊntˈtsvantsɪç]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "二十一",
-    "example": "Seite einundzwanzig."
+    "meaningZh": "二十一",
+    "meaningEn": "twenty-one",
+    "example": "Seite einundzwanzig.",
+    "exampleZh": "第二十一页。",
+    "exampleEn": "Page twenty-one."
   },
   {
     "id": "22",
     "text": "dreißig",
     "article": "",
     "phonetic": "[ˈdʁaɪ̯sɪç]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "三十",
-    "example": "Es sind dreißig Grad."
+    "meaningZh": "三十",
+    "meaningEn": "thirty",
+    "example": "Es sind dreißig Grad.",
+    "exampleZh": "三十度了。",
+    "exampleEn": "It's thirty degrees."
   },
   {
     "id": "23",
     "text": "vierzig",
     "article": "",
-    "phonetic": "[ˈfiːɐ̯tsɪç]",
-    "source": "Goethe A1 Wortliste",
+    "phonetic": "[ˈfirtsɪç]",
     "meaning": "四十",
-    "example": "Sie ist vierzig geworden."
+    "meaningZh": "四十",
+    "meaningEn": "forty",
+    "example": "Sie ist vierzig geworden.",
+    "exampleZh": "她四十岁了。",
+    "exampleEn": "She turned forty."
   },
   {
     "id": "24",
     "text": "fünfzig",
     "article": "",
     "phonetic": "[ˈfʏnftsɪç]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "五十",
-    "example": "Fünfzig Euro, bitte."
+    "meaningZh": "五十",
+    "meaningEn": "Fifty",
+    "example": "Fünfzig Euro, bitte.",
+    "exampleZh": "请付五十欧元。",
+    "exampleEn": "Fifty euros, please."
   },
   {
     "id": "25",
     "text": "sechzig",
     "article": "",
     "phonetic": "[ˈzɛçtsɪç]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "六十",
-    "example": "Er ist sechzig Jahre alt."
+    "meaningZh": "六十",
+    "meaningEn": "sixty",
+    "example": "Er ist sechzig Jahre alt.",
+    "exampleZh": "他今年六十岁了。",
+    "exampleEn": "He is sixty years old."
   },
   {
     "id": "26",
     "text": "siebzig",
     "article": "",
     "phonetic": "[ˈziːptsɪç]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "七十",
-    "example": "Das Buch hat siebzig Seiten."
+    "meaningZh": "七十",
+    "meaningEn": "seventy",
+    "example": "Das Buch hat siebzig Seiten.",
+    "exampleZh": "这本书有七十页。",
+    "exampleEn": "The book has seventy pages."
   },
   {
     "id": "27",
     "text": "achtzig",
     "article": "",
     "phonetic": "[ˈaxttsɪç]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "八十",
-    "example": "Achtzig Kilometer pro Stunde."
+    "meaningZh": "八十",
+    "meaningEn": "eighty",
+    "example": "Achtzig Kilometer pro Stunde.",
+    "exampleZh": "每小时八十公里。",
+    "exampleEn": "Eighty kilometers per hour."
   },
   {
     "id": "28",
     "text": "neunzig",
     "article": "",
     "phonetic": "[ˈnɔɪ̯ntsɪç]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "九十",
-    "example": "Neunzig Prozent sind da."
+    "meaningZh": "九十",
+    "meaningEn": "ninety",
+    "example": "Neunzig Prozent sind da.",
+    "exampleZh": "百分之九十都在那里。",
+    "exampleEn": "Ninety percent are there."
   },
   {
     "id": "29",
     "text": "hundert",
     "article": "",
     "phonetic": "[ˈhʊndɐt]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "一百",
-    "example": "Es kostet hundert Euro."
+    "meaningZh": "一百",
+    "meaningEn": "one hundred",
+    "example": "Es kostet hundert Euro.",
+    "exampleZh": "花费一百欧元。",
+    "exampleEn": "It costs a hundred euros."
   },
   {
     "id": "30",
     "text": "tausend",
     "article": "",
     "phonetic": "[ˈtaʊ̯zn̩t]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "一千",
-    "example": "Ich habe tausend Fragen."
+    "meaningZh": "一千",
+    "meaningEn": "one thousand",
+    "example": "Ich habe tausend Fragen.",
+    "exampleZh": "我有一千个问题。",
+    "exampleEn": "I have a thousand questions."
   },
   {
     "id": "31",
     "text": "erste",
     "article": "der/die/das",
     "phonetic": "[ˈeːɐ̯stə]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "第一",
-    "example": "Heute ist der erste Mai."
+    "meaningZh": "第一",
+    "meaningEn": "First",
+    "example": "Heute ist der erste Mai.",
+    "exampleZh": "今天是五月一日。",
+    "exampleEn": "Today is the first of May."
   },
   {
     "id": "32",
     "text": "zweite",
     "article": "der/die/das",
     "phonetic": "[ˈtsvaɪ̯tə]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "第二",
-    "example": "Mein zweiter Sohn."
+    "meaningZh": "第二",
+    "meaningEn": "second",
+    "example": "Mein zweiter Sohn.",
+    "exampleZh": "我的二儿子。",
+    "exampleEn": "My second son."
   },
   {
     "id": "33",
     "text": "dritte",
     "article": "der/die/das",
     "phonetic": "[ˈdʁɪtə]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "第三",
-    "example": "Das dritte Haus links."
+    "meaningZh": "第三",
+    "meaningEn": "third",
+    "example": "Das dritte Haus links.",
+    "exampleZh": "左边第三个房子。",
+    "exampleEn": "The third house on the left."
   },
   {
     "id": "34",
     "text": "Sekunde",
     "article": "die",
     "phonetic": "[zeˈkʊndə]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "秒",
-    "example": "Eine Sekunde, bitte."
+    "meaningZh": "秒",
+    "meaningEn": "Second",
+    "example": "Eine Sekunde, bitte.",
+    "exampleZh": "请等一下。",
+    "exampleEn": "One second, please."
   },
   {
     "id": "35",
     "text": "Minute",
     "article": "die",
     "phonetic": "[miˈnuːtə]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "分钟",
-    "example": "Fünf Minuten zu spät."
+    "meaningZh": "分钟",
+    "meaningEn": "minute",
+    "example": "Fünf Minuten zu spät.",
+    "exampleZh": "迟到了五分钟。",
+    "exampleEn": "Five minutes late."
   },
   {
     "id": "36",
     "text": "Stunde",
     "article": "die",
     "phonetic": "[ˈʃtʊndə]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "小时",
-    "example": "Eine Stunde warten."
+    "meaningZh": "小时",
+    "meaningEn": "Hour",
+    "example": "Eine Stunde warten.",
+    "exampleZh": "等一个小时。",
+    "exampleEn": "Wait an hour."
   },
   {
     "id": "37",
     "text": "Tag",
     "article": "der",
     "phonetic": "[taːk]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "天",
-    "example": "Ein schöner Tag."
+    "meaningZh": "天",
+    "meaningEn": "sky",
+    "example": "Ein schöner Tag.",
+    "exampleZh": "美好的一天。",
+    "exampleEn": "A beautiful day."
   },
   {
     "id": "38",
     "text": "Woche",
     "article": "die",
     "phonetic": "[ˈvɔxə]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "周",
-    "example": "Nächste Woche."
+    "meaningZh": "周",
+    "meaningEn": "week",
+    "example": "Nächste Woche.",
+    "exampleZh": "下周。",
+    "exampleEn": "Next week."
   },
   {
     "id": "39",
     "text": "Jahr",
     "article": "das",
     "phonetic": "[jaːɐ̯]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "年",
-    "example": "Ein neues Jahr."
+    "meaningZh": "年",
+    "meaningEn": "Year",
+    "example": "Ein neues Jahr.",
+    "exampleZh": "新的一年。",
+    "exampleEn": "A new year."
   },
   {
     "id": "40",
     "text": "Sonntag",
     "article": "der",
     "phonetic": "[ˈzɔntaːk]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "星期日",
-    "example": "Am Sonntag ist frei."
+    "meaningZh": "星期日",
+    "meaningEn": "Sunday",
+    "example": "Am Sonntag ist frei.",
+    "exampleZh": "周日免费。",
+    "exampleEn": "Sunday is free."
   },
   {
     "id": "41",
     "text": "Montag",
     "article": "der",
     "phonetic": "[ˈmoːntaːk]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "星期一",
-    "example": "Der Montag ist schwer."
+    "meaningZh": "星期一",
+    "meaningEn": "Monday",
+    "example": "Der Montag ist schwer.",
+    "exampleZh": "周一很困难。",
+    "exampleEn": "Monday is difficult."
   },
   {
     "id": "42",
     "text": "Dienstag",
     "article": "der",
     "phonetic": "[ˈdiːnstaːk]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "星期二",
-    "example": "Dienstag habe ich Zeit."
+    "meaningZh": "星期二",
+    "meaningEn": "Tuesday",
+    "example": "Dienstag habe ich Zeit.",
+    "exampleZh": "我星期二有时间。",
+    "exampleEn": "I have time on Tuesday."
   },
   {
     "id": "43",
     "text": "Mittwoch",
     "article": "der",
     "phonetic": "[ˈmɪtvɔx]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "星期三",
-    "example": "Mittwoch ist Markttag."
+    "meaningZh": "星期三",
+    "meaningEn": "Wednesday",
+    "example": "Mittwoch ist Markttag.",
+    "exampleZh": "星期三是集市日。",
+    "exampleEn": "Wednesday is market day."
   },
   {
     "id": "44",
     "text": "Donnerstag",
     "article": "der",
     "phonetic": "[ˈdɔnɐstaːk]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "星期四",
-    "example": "Donnerstag ist mein Kurs."
+    "meaningZh": "星期四",
+    "meaningEn": "Thursday",
+    "example": "Donnerstag ist mein Kurs.",
+    "exampleZh": "星期四是我的课程。",
+    "exampleEn": "Thursday is my course."
   },
   {
     "id": "45",
     "text": "Freitag",
     "article": "der",
     "phonetic": "[ˈfʁaɪ̯taːk]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "星期五",
-    "example": "Am Freitag abend."
+    "meaningZh": "星期五",
+    "meaningEn": "Friday",
+    "example": "Am Freitag abend.",
+    "exampleZh": "星期五晚上。",
+    "exampleEn": "On Friday evening."
   },
   {
     "id": "46",
     "text": "Samstag",
     "article": "der",
     "phonetic": "[ˈzamstaːk]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "星期六",
-    "example": "Samstag ist Wochenende."
+    "meaningZh": "星期六",
+    "meaningEn": "Saturday",
+    "example": "Samstag ist Wochenende.",
+    "exampleZh": "星期六是周末。",
+    "exampleEn": "Saturday is the weekend."
   },
   {
     "id": "47",
     "text": "Januar",
     "article": "der",
     "phonetic": "[ˈjanuaːɐ̯]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "一月",
-    "example": "Im Januar ist es kalt."
+    "meaningZh": "一月",
+    "meaningEn": "January",
+    "example": "Im Januar ist es kalt.",
+    "exampleZh": "一月份天气很冷。",
+    "exampleEn": "It is cold in January."
   },
   {
     "id": "48",
     "text": "Februar",
     "article": "der",
     "phonetic": "[ˈfeːbʁuaːɐ̯]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "二月",
-    "example": "Februar hat 28 Tage."
+    "meaningZh": "二月",
+    "meaningEn": "February",
+    "example": "Februar hat 28 Tage.",
+    "exampleZh": "二月有28天。",
+    "exampleEn": "February has 28 days."
   },
   {
     "id": "49",
     "text": "März",
     "article": "der",
     "phonetic": "[mɛʁt͡s]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "三月",
-    "example": "Der März beginnt bald."
+    "meaningZh": "三月",
+    "meaningEn": "March",
+    "example": "Der März beginnt bald.",
+    "exampleZh": "三月很快就要开始了。",
+    "exampleEn": "March is starting soon."
   },
   {
     "id": "50",
     "text": "April",
     "article": "der",
     "phonetic": "[aˈpʁɪl]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "四月",
-    "example": "April, April!"
+    "meaningZh": "四月",
+    "meaningEn": "April",
+    "example": "April, April!",
+    "exampleZh": "四月，四月！",
+    "exampleEn": "April, April!"
   },
   {
     "id": "51",
     "text": "Mai",
     "article": "der",
     "phonetic": "[maɪ̯]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "五月",
-    "example": "Im Mai blühen die Blumen."
+    "meaningZh": "五月",
+    "meaningEn": "May",
+    "example": "Im Mai blühen die Blumen.",
+    "exampleZh": "五月鲜花盛开。",
+    "exampleEn": "The flowers bloom in May."
   },
   {
     "id": "52",
     "text": "Juni",
     "article": "der",
     "phonetic": "[ˈjuːni]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "六月",
-    "example": "Juni ist ein Sommermonat."
+    "meaningZh": "六月",
+    "meaningEn": "June",
+    "example": "Juni ist ein Sommermonat.",
+    "exampleZh": "六月是夏季的一个月。",
+    "exampleEn": "June is a summer month."
   },
   {
     "id": "53",
     "text": "Juli",
     "article": "der",
     "phonetic": "[ˈjuːli]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "七月",
-    "example": "Im Juli ist es heiß."
+    "meaningZh": "七月",
+    "meaningEn": "July",
+    "example": "Im Juli ist es heiß.",
+    "exampleZh": "七月的天气很热。",
+    "exampleEn": "It's hot in July."
   },
   {
     "id": "54",
     "text": "August",
     "article": "der",
     "phonetic": "[aʊ̯ˈɡʊst]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "八月",
-    "example": "Urlaub im August."
+    "meaningZh": "八月",
+    "meaningEn": "August",
+    "example": "Urlaub im August.",
+    "exampleZh": "八月放假。",
+    "exampleEn": "Vacation in August."
   },
   {
     "id": "55",
     "text": "September",
     "article": "der",
     "phonetic": "[zɛpˈtɛmbɐ]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "九月",
-    "example": "Die Schule beginnt im September."
+    "meaningZh": "九月",
+    "meaningEn": "September",
+    "example": "Die Schule beginnt im September.",
+    "exampleZh": "九月开学。",
+    "exampleEn": "School starts in September."
   },
   {
     "id": "56",
     "text": "Oktober",
     "article": "der",
     "phonetic": "[ɔkˈtoːbɐ]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "十月",
-    "example": "Oktoberfest im Oktober."
+    "meaningZh": "十月",
+    "meaningEn": "October",
+    "example": "Oktoberfest im Oktober.",
+    "exampleZh": "十月的啤酒节。",
+    "exampleEn": "Oktoberfest in October."
   },
   {
     "id": "57",
     "text": "November",
     "article": "der",
     "phonetic": "[noˈvɛmbɐ]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "十一月",
-    "example": "Im November wird es kalt."
+    "meaningZh": "十一月",
+    "meaningEn": "November",
+    "example": "Im November wird es kalt.",
+    "exampleZh": "十一月天气变冷。",
+    "exampleEn": "It gets cold in November."
   },
   {
     "id": "58",
     "text": "Dezember",
     "article": "der",
     "phonetic": "[deˈt͡sɛmbɐ]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "十二月",
-    "example": "Weihnachten ist im Dezember."
+    "meaningZh": "十二月",
+    "meaningEn": "December",
+    "example": "Weihnachten ist im Dezember.",
+    "exampleZh": "圣诞节是在十二月。",
+    "exampleEn": "Christmas is in December."
   },
   {
     "id": "59",
     "text": "Frühling",
     "article": "der",
     "phonetic": "[ˈfʁyːlɪŋ]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "春天",
-    "example": "Im Frühling wird es warm."
+    "meaningZh": "春天",
+    "meaningEn": "spring",
+    "example": "Im Frühling wird es warm.",
+    "exampleZh": "春天天气变得温暖。",
+    "exampleEn": "It gets warm in spring."
   },
   {
     "id": "60",
     "text": "Sommer",
     "article": "der",
     "phonetic": "[ˈzɔmɐ]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "夏天",
-    "example": "Im Sommer sind Ferien."
+    "meaningZh": "夏天",
+    "meaningEn": "summer",
+    "example": "Im Sommer sind Ferien.",
+    "exampleZh": "夏天有假期。",
+    "exampleEn": "There are holidays in summer."
   },
   {
     "id": "61",
     "text": "Herbst",
     "article": "der",
     "phonetic": "[hɛʁpst]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "秋天",
-    "example": "Die Blätter fallen im Herbst."
+    "meaningZh": "秋天",
+    "meaningEn": "autumn",
+    "example": "Die Blätter fallen im Herbst.",
+    "exampleZh": "叶子在秋天落下。",
+    "exampleEn": "The leaves fall in autumn."
   },
   {
     "id": "62",
     "text": "Winter",
     "article": "der",
     "phonetic": "[ˈvɪntɐ]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "冬天",
-    "example": "Im Winter schneit es."
+    "meaningZh": "冬天",
+    "meaningEn": "winter",
+    "example": "Im Winter schneit es.",
+    "exampleZh": "冬天会下雪。",
+    "exampleEn": "It snows in winter."
   },
   {
     "id": "63",
     "text": "Euro",
     "article": "der",
     "phonetic": "[ˈɔʏʁo]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "欧元",
-    "example": "Das kostet zehn Euro."
+    "meaningZh": "欧元",
+    "meaningEn": "EUR",
+    "example": "Das kostet zehn Euro.",
+    "exampleZh": "那要花十欧元。",
+    "exampleEn": "That costs ten euros."
   },
   {
     "id": "64",
     "text": "Cent",
     "article": "der",
     "phonetic": "[sɛnt]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "欧分",
-    "example": "Fünfundneunzig Cent, bitte."
+    "meaningZh": "欧分",
+    "meaningEn": "euro cent",
+    "example": "Fünfundneunzig Cent, bitte.",
+    "exampleZh": "请给九十五美分。",
+    "exampleEn": "Ninety-five cents, please."
   },
   {
     "id": "65",
     "text": "schwarz",
     "article": "",
     "phonetic": "[ʃvaʁt͡s]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "黑色",
-    "example": "Mein Auto ist schwarz."
+    "meaningZh": "黑色",
+    "meaningEn": "black",
+    "example": "Mein Auto ist schwarz.",
+    "exampleZh": "我的车是黑色的。",
+    "exampleEn": "My car is black."
   },
   {
     "id": "66",
     "text": "weiß",
     "article": "",
     "phonetic": "[vaɪ̯s]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "白色",
-    "example": "Die Wand ist weiß."
+    "meaningZh": "白色",
+    "meaningEn": "White",
+    "example": "Die Wand ist weiß.",
+    "exampleZh": "墙壁是白色的。",
+    "exampleEn": "The wall is white."
   },
   {
     "id": "67",
     "text": "rot",
     "article": "",
     "phonetic": "[ʁoːt]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "红色",
-    "example": "Die Rose ist rot."
+    "meaningZh": "红色",
+    "meaningEn": "red",
+    "example": "Die Rose ist rot.",
+    "exampleZh": "玫瑰是红色的。",
+    "exampleEn": "The rose is red."
   },
   {
     "id": "68",
     "text": "blau",
     "article": "",
     "phonetic": "[blaʊ̯]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "蓝色",
-    "example": "Der Himmel ist blau."
+    "meaningZh": "蓝色",
+    "meaningEn": "blue",
+    "example": "Der Himmel ist blau.",
+    "exampleZh": "天空是蓝色的。",
+    "exampleEn": "The sky is blue."
   },
   {
     "id": "69",
     "text": "grün",
     "article": "",
     "phonetic": "[ɡʁyːn]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "绿色",
-    "example": "Das Gras ist grün."
+    "meaningZh": "绿色",
+    "meaningEn": "green",
+    "example": "Das Gras ist grün.",
+    "exampleZh": "草是绿的。",
+    "exampleEn": "The grass is green."
   },
   {
     "id": "70",
     "text": "gelb",
     "article": "",
     "phonetic": "[ɡɛlp]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "黄色",
-    "example": "Die Sonne ist gelb."
+    "meaningZh": "黄色",
+    "meaningEn": "yellow",
+    "example": "Die Sonne ist gelb.",
+    "exampleZh": "太阳是黄色的。",
+    "exampleEn": "The sun is yellow."
   },
   {
     "id": "71",
     "text": "braun",
     "article": "",
     "phonetic": "[bʁaʊ̯n]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "棕色",
-    "example": "Seine Haare sind braun."
+    "meaningZh": "棕色",
+    "meaningEn": "brown",
+    "example": "Seine Haare sind braun.",
+    "exampleZh": "他的头发是棕色的。",
+    "exampleEn": "His hair is brown."
   },
   {
     "id": "72",
     "text": "grau",
     "article": "",
     "phonetic": "[ɡʁaʊ̯]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "灰色",
-    "example": "An einem grauen Tag."
+    "meaningZh": "灰色",
+    "meaningEn": "grey",
+    "example": "An einem grauen Tag.",
+    "exampleZh": "在一个灰色的日子里。",
+    "exampleEn": "On a gray day."
   },
   {
     "id": "73",
     "text": "Norden",
     "article": "der",
     "phonetic": "[ˈnɔʁdn̩]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "北",
-    "example": "Der Wind kommt aus dem Norden."
+    "meaningZh": "北",
+    "meaningEn": "north",
+    "example": "Der Wind kommt aus dem Norden.",
+    "exampleZh": "风从北方吹来。",
+    "exampleEn": "The wind comes from the north."
   },
   {
     "id": "74",
     "text": "Süden",
     "article": "der",
     "phonetic": "[ˈzyːdn̩]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "南",
-    "example": "Im Süden ist es wärmer."
+    "meaningZh": "南",
+    "meaningEn": "South",
+    "example": "Im Süden ist es wärmer.",
+    "exampleZh": "南方比较温暖。",
+    "exampleEn": "It is warmer in the south."
   },
   {
     "id": "75",
     "text": "Westen",
     "article": "der",
     "phonetic": "[ˈvɛstn̩]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "西",
-    "example": "Die Sonne geht im Westen unter."
+    "meaningZh": "西",
+    "meaningEn": "West",
+    "example": "Die Sonne geht im Westen unter.",
+    "exampleZh": "太阳从西边落下。",
+    "exampleEn": "The sun sets in the west."
   },
   {
     "id": "76",
     "text": "Osten",
     "article": "der",
     "phonetic": "[ˈɔstn̩]",
-    "source": "Goethe A1 Wortliste",
     "meaning": "东",
-    "example": "Die Sonne geht im Osten auf."
+    "meaningZh": "东",
+    "meaningEn": "East",
+    "example": "Die Sonne geht im Osten auf.",
+    "exampleZh": "太阳从东方升起。",
+    "exampleEn": "The sun rises in the east."
   }
 ]
-

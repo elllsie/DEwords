@@ -121,7 +121,7 @@
     "id": "14",
     "text": "vierzehn",
     "article": "",
-    "phonetic": "[ˈfiːɐ̯tseːn]",
+    "phonetic": "[ˈfirtseːn]",
     "source": "Goethe A1 Wortliste",
     "meaning": "十四",
     "example": "Sie ist vierzehn Jahre alt."
@@ -202,7 +202,7 @@
     "id": "23",
     "text": "vierzig",
     "article": "",
-    "phonetic": "[ˈfiːɐ̯tsɪç]",
+    "phonetic": "[ˈfirtsɪç]",
     "source": "Goethe A1 Wortliste",
     "meaning": "四十",
     "example": "Sie ist vierzig geworden."
@@ -685,4 +685,6 @@
     "example": "Die Sonne geht im Osten auf."
   }
 ]
+
+
 
