@@ -27,6 +27,20 @@ struct WordPracticeView: View {
                     .id(word.id) // ⭐️ 必须
                     .transition(wordTransition)
             }
+            
+            // ② 熟悉 / 不熟 反馈（必须在 ZStack 里）
+            if showFamiliarFeedback {
+                feedbackView(text: familiarText, color: .green)
+            }
+
+            if showUnfamiliarFeedback {
+                feedbackView(text: unfamiliarText, color: .yellow)
+            }
+
+            // ③ 新手提示
+            if showHint {
+                hintView
+            }
         }
         .animation(.easeOut(duration: 0.16), value: scheduler.currentWord?.id)
 
@@ -96,7 +110,8 @@ struct WordPracticeView: View {
 //                hintView
 //            }
 //
-//        }.contentShape(Rectangle())
+//        }
+        .contentShape(Rectangle())
         .navigationTitle(title)
 //        .gesture(gesture)
         .highPriorityGesture(gesture)
