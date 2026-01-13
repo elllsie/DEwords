@@ -22,72 +22,81 @@ struct WordPracticeView: View {
 
     var body: some View {
         ZStack {
-            VStack {
-                if let word = scheduler.currentWord {
-                    VStack(spacing: 6) {
-
-                        Text(word.text)
-                            .font(.title2)
-                            .bold()
-                            .multilineTextAlignment(.center)
-                            .lineLimit(2)
-                            .minimumScaleFactor(0.7)
-
-                        Text(word.phonetic)
-                            .font(.footnote)
-                            .foregroundColor(.green)
-                            .onTapGesture {
-                                SpeechHelper.shared.speak(word.text)
-                            }
-
-                        Text(word.displayMeaning)
-                            .font(.footnote)
-                            .foregroundColor(.secondary)
-
-                        VStack(spacing: 4) {
-                            Text(word.example)
-                                .font(.footnote)
-                                .multilineTextAlignment(.center)
-                                .lineLimit(isExampleExpanded ? nil : 2)
-                                .truncationMode(.tail)
-                                .contentShape(Rectangle())
-                                .onTapGesture {
-                                    showExampleTemporarily()
-                                }
-                                .onTapGesture(count: 2) {
-                                    withAnimation {
-                                        isExampleExpanded.toggle()
-                                    }
-                                }
-
-                            if showExampleTranslation,
-                               let translation = exampleTranslation(for: word) {
-                                Text(translation)
-                                    .font(.caption2)
-                                    .foregroundColor(.secondary)
-                                    .multilineTextAlignment(.center)
-                                    .lineLimit(nil)
-                                    .fixedSize(horizontal: false, vertical: true)
-                            }
-                        }
-
-                    }
-                }
+            if let word = scheduler.currentWord {
+                wordView(word)
+                    .id(word.id) // ⭐️ 必须
+                    .transition(wordTransition)
             }
+        }
+        .animation(.easeOut(duration: 0.16), value: scheduler.currentWord?.id)
 
-            if showFamiliarFeedback {
-                feedbackView(text: familiarText, color: .green)
-            }
-
-            if showUnfamiliarFeedback {
-                feedbackView(text: unfamiliarText, color: .yellow)
-            }
-
-            if showHint {
-                hintView
-            }
-
-        }.contentShape(Rectangle())
+//        ZStack {
+//            VStack {
+//                if let word = scheduler.currentWord {
+//                    VStack(spacing: 6) {
+//
+//                        Text(word.text)
+//                            .font(.title2)
+//                            .bold()
+//                            .multilineTextAlignment(.center)
+//                            .lineLimit(2)
+//                            .minimumScaleFactor(0.7)
+//
+//                        Text(word.phonetic)
+//                            .font(.footnote)
+//                            .foregroundColor(.green)
+//                            .onTapGesture {
+//                                SpeechHelper.shared.speak(word.text)
+//                            }
+//
+//                        Text(word.displayMeaning)
+//                            .font(.footnote)
+//                            .foregroundColor(.secondary)
+//
+//                        VStack(spacing: 4) {
+//                            Text(word.example)
+//                                .font(.footnote)
+//                                .multilineTextAlignment(.center)
+//                                .lineLimit(isExampleExpanded ? nil : 2)
+//                                .truncationMode(.tail)
+//                                .contentShape(Rectangle())
+//                                .onTapGesture {
+//                                    showExampleTemporarily()
+//                                }
+//                                .onTapGesture(count: 2) {
+//                                    withAnimation {
+//                                        isExampleExpanded.toggle()
+//                                    }
+//                                }
+//
+//                            if showExampleTranslation,
+//                               let translation = exampleTranslation(for: word) {
+//                                Text(translation)
+//                                    .font(.caption2)
+//                                    .foregroundColor(.secondary)
+//                                    .multilineTextAlignment(.center)
+//                                    .lineLimit(nil)
+//                                    .fixedSize(horizontal: false, vertical: true)
+//                            }
+//                        }
+//
+//                    }
+//                }
+//            }
+//
+//            if showFamiliarFeedback {
+//                feedbackView(text: familiarText, color: .green)
+//            }
+//
+//            if showUnfamiliarFeedback {
+//                feedbackView(text: unfamiliarText, color: .yellow)
+//            }
+//
+//            if showHint {
+//                hintView
+//            }
+//
+//        }.contentShape(Rectangle())
         .navigationTitle(title)
 //        .gesture(gesture)
         .highPriorityGesture(gesture)
@@ -132,7 +141,67 @@ struct WordPracticeView: View {
     }
 }
 
+
 private extension WordPracticeView {
+    @ViewBuilder
+    func wordView(_ word: Word) -> some View {
+        VStack(spacing: 6) {
+
+            Text(word.text)
+                .font(.title2)
+                .bold()
+                .multilineTextAlignment(.center)
+                .lineLimit(2)
+                .minimumScaleFactor(0.7)
+
+            Text(word.phonetic)
+                .font(.footnote)
+                .foregroundColor(.green)
+                .onTapGesture {
+                    SpeechHelper.shared.speak(word.text)
+                }
+
+            Text(word.displayMeaning)
+                .font(.footnote)
+                .foregroundColor(.secondary)
+
+            VStack(spacing: 4) {
+                Text(word.example)
+                    .font(.footnote)
+                    .multilineTextAlignment(.center)
+                    .lineLimit(isExampleExpanded ? nil : 2)
+                    .truncationMode(.tail)
+                    .onTapGesture {
+                        showExampleTemporarily()
+                    }
+
+                if showExampleTranslation,
+                   let translation = exampleTranslation(for: word) {
+                    Text(translation)
+                        .font(.caption2)
+                        .foregroundColor(.secondary)
+                        .multilineTextAlignment(.center)
+                        .fixedSize(horizontal: false, vertical: true)
+                }
+            }
+        }
+    }
+    
+    var wordTransition: AnyTransition {
+        switch scheduler.moveDirection {
+        case .forward:
+            return .asymmetric(
+                insertion: .move(edge: .bottom).combined(with: .opacity),
+                removal: .move(edge: .top).combined(with: .opacity)
+            )
+        case .backward:
+            return .asymmetric(
+                insertion: .move(edge: .top).combined(with: .opacity),
+                removal: .move(edge: .bottom).combined(with: .opacity)
+            )
+        }
+    }
+
 
     var familiarText: String {
         learningLanguage == "en" ? "Familiar" : "熟悉"

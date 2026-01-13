@@ -1,6 +1,11 @@
 import Foundation
 import Combine
 
+enum MoveDirection {
+    case forward
+    case backward
+}
+
 final class WordScheduler: ObservableObject {
 
     // MARK: - 输入
@@ -8,6 +13,9 @@ final class WordScheduler: ObservableObject {
 
     // MARK: - 对外状态
     @Published private(set) var currentWord: Word?
+    
+    @Published var moveDirection: MoveDirection = .forward
+
 
     // MARK: - 内部状态
     private var currentIndex: Int = 0
@@ -21,24 +29,46 @@ final class WordScheduler: ObservableObject {
         self.currentWord = words.first
     }
 
-    // MARK: - 下一个
+//    // MARK: - 下一个
+//    func next() {
+//        guard !allWords.isEmpty else { return }
+//
+//        // ① 优先处理“不熟复习队列”
+//        if !reviewQueue.isEmpty {
+//            currentWord = reviewQueue.removeFirst()
+//            return
+//        }
+//
+//        // ② 正常顺序往下走
+//        currentIndex = (currentIndex + 1) % allWords.count
+//        currentWord = allWords[currentIndex]
+//    }
+//
+//    // MARK: - 上一个（仅用于手动回看）
+//    func previous() {
+//        guard !allWords.isEmpty else { return }
+//
+//        currentIndex = max(currentIndex - 1, 0)
+//        currentWord = allWords[currentIndex]
+//    }
+    
+    
+    // MARK: - 导航
     func next() {
-        guard !allWords.isEmpty else { return }
+        moveDirection = .forward
 
-        // ① 优先处理“不熟复习队列”
-        if !reviewQueue.isEmpty {
-            currentWord = reviewQueue.removeFirst()
+        if let review = reviewQueue.first {
+            reviewQueue.removeFirst()
+            currentWord = review
             return
         }
 
-        // ② 正常顺序往下走
-        currentIndex = (currentIndex + 1) % allWords.count
+        currentIndex = min(currentIndex + 1, allWords.count - 1)
         currentWord = allWords[currentIndex]
     }
 
-    // MARK: - 上一个（仅用于手动回看）
     func previous() {
-        guard !allWords.isEmpty else { return }
+        moveDirection = .backward
 
         currentIndex = max(currentIndex - 1, 0)
         currentWord = allWords[currentIndex]
