@@ -114,7 +114,7 @@ struct WordPracticeView: View {
         .contentShape(Rectangle())
         .navigationTitle(title)
 //        .gesture(gesture)
-        .highPriorityGesture(gesture)
+        .simultaneousGesture(gesture)
         .focusable(true)
         .focused($isCrownFocused)
 //        .digitalCrownRotation(
@@ -181,14 +181,37 @@ private extension WordPracticeView {
                 .foregroundColor(.secondary)
 
             VStack(spacing: 4) {
+//                Text(word.example)
+//                    .font(.footnote)
+//                    .multilineTextAlignment(.center)
+//                    .lineLimit(isExampleExpanded ? nil : 2)
+//                    .truncationMode(.tail)
+//                    .onTapGesture {
+//                        showExampleTemporarily()
+//                    }
                 Text(word.example)
                     .font(.footnote)
                     .multilineTextAlignment(.center)
                     .lineLimit(isExampleExpanded ? nil : 2)
                     .truncationMode(.tail)
+                    .contentShape(Rectangle())
+
+                    // ✅ 单击
                     .onTapGesture {
                         showExampleTemporarily()
                     }
+
+                    // ✅ 双击（必须显式 TapGesture）
+                    .highPriorityGesture(
+                        TapGesture(count: 2)
+                            .onEnded {
+                                withAnimation(.easeOut(duration: 0.2)) {
+                                    isExampleExpanded.toggle()
+                                }
+                                WKInterfaceDevice.current().play(.click)
+                            }
+                    )
+
 
                 if showExampleTranslation,
                    let translation = exampleTranslation(for: word) {
