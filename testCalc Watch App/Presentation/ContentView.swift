@@ -179,26 +179,53 @@ private extension WordPracticeView {
                 let h = value.translation.width
                 let v = value.translation.height
 
-                // ← 熟悉
-                if h < -15 && abs(h) > abs(v) * 0.6 {
+//                // ← 熟悉
+//                if h < -15 && abs(h) > abs(v) * 0.6 {
+//                    handleFamiliar()
+//                    return
+//                }
+//
+//                if h > 15 && abs(h) > abs(v) * 0.6 {
+//                    handleUnfamiliar()
+//                    return
+//                }
+//
+//
+//                // ↑ 下一个
+//                if v < -20 {
+//                    scheduler.next()
+//                    return
+//                }
+//
+//                // ↓ 上一个
+//                if v > 20 {
+//                    scheduler.previous()
+//                    return
+//                }
+                
+                
+                
+                
+                // ← 熟悉（横向必须“非常横”）
+                if h < -25 && abs(h) > abs(v) * 1.8 {
                     handleFamiliar()
                     return
                 }
 
-                if h > 15 && abs(h) > abs(v) * 0.6 {
+                // → 不熟
+                if h > 25 && abs(h) > abs(v) * 1.8 {
                     handleUnfamiliar()
                     return
                 }
 
-
                 // ↑ 下一个
-                if v < -20 {
+                if v < -30 {
                     scheduler.next()
                     return
                 }
 
                 // ↓ 上一个
-                if v > 20 {
+                if v > 30 {
                     scheduler.previous()
                     return
                 }
