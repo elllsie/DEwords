@@ -67,23 +67,16 @@ struct WordPracticeView: View {
             }
         )
 
-        
 
-
-//        .onChange(of: crownValue) { _, newValue in
-//            let step = Int(newValue)
-//            if step > lastStep {
-//                scheduler.next()
-//            } else if step < lastStep {
-//                scheduler.previous()
-//            }
-//            lastStep = step
+//        .onChange(of: scheduler.currentWord?.id) { _ in
+//            isExampleExpanded = false
+//            showExampleTranslation = false
 //        }
-        
-        .onChange(of: scheduler.currentWord?.id) { _ in
+        .onChange(of: scheduler.currentWord?.id) { _, _ in
             isExampleExpanded = false
             showExampleTranslation = false
         }
+
 
         .onAppear {
             isCrownFocused = true
@@ -333,15 +326,14 @@ private extension WordPracticeView {
         case goetheA2 = "A2"
         
         var id: String { rawValue }
-        
-        var title: String {
+        func title(language: String) -> String {
             switch self {
             case .default:
-                return "默认"
+                return language == "en" ? "Basics" : "基础"
             case .goetheA1:
-                return "歌德A1"
+                return language == "en" ? "Goethe A1" : "歌德 A1"
             case .goetheA2:
-                return "歌德A2"
+                return language == "en" ? "Goethe A2" : "歌德 A2"
             }
         }
         
@@ -362,6 +354,8 @@ private extension WordPracticeView {
     }
     
     struct MainView: View {
+        @AppStorage("learningLanguage") private var learningLanguage: String = "zh"
+
         @AppStorage("selectedWordList") private var selectedWordListRaw: String = WordList.default.rawValue
         
         private var selectedWordList: WordList {
@@ -373,18 +367,20 @@ private extension WordPracticeView {
                 List {
                     ForEach(WordList.allCases) { list in
                         NavigationLink(value: list) {
-                            Text(list.title)
+                            Text(list.title(language: learningLanguage))
                         }
                     }
                 }
-                .navigationTitle("选择词表")
+                .navigationTitle(
+                    learningLanguage == "en" ? "Select Word List" : "选择词表"
+                )
                 .navigationDestination(for: WordList.self) { list in
                     let words = WordRepository.loadWords(resourceName: list.resourceName)
                     let scheduler = WordScheduler(words: words)
 
                     WordPracticeView(
                         scheduler: scheduler,
-                        title: list.title
+                        title: list.title(language: learningLanguage)
                     )
                 }
 
