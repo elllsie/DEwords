@@ -43,74 +43,6 @@ struct WordPracticeView: View {
             }
         }
         .animation(.easeOut(duration: 0.16), value: scheduler.currentWord?.id)
-
-//        ZStack {
-//            VStack {
-//                if let word = scheduler.currentWord {
-//                    VStack(spacing: 6) {
-//
-//                        Text(word.text)
-//                            .font(.title2)
-//                            .bold()
-//                            .multilineTextAlignment(.center)
-//                            .lineLimit(2)
-//                            .minimumScaleFactor(0.7)
-//
-//                        Text(word.phonetic)
-//                            .font(.footnote)
-//                            .foregroundColor(.green)
-//                            .onTapGesture {
-//                                SpeechHelper.shared.speak(word.text)
-//                            }
-//
-//                        Text(word.displayMeaning)
-//                            .font(.footnote)
-//                            .foregroundColor(.secondary)
-//
-//                        VStack(spacing: 4) {
-//                            Text(word.example)
-//                                .font(.footnote)
-//                                .multilineTextAlignment(.center)
-//                                .lineLimit(isExampleExpanded ? nil : 2)
-//                                .truncationMode(.tail)
-//                                .contentShape(Rectangle())
-//                                .onTapGesture {
-//                                    showExampleTemporarily()
-//                                }
-//                                .onTapGesture(count: 2) {
-//                                    withAnimation {
-//                                        isExampleExpanded.toggle()
-//                                    }
-//                                }
-//
-//                            if showExampleTranslation,
-//                               let translation = exampleTranslation(for: word) {
-//                                Text(translation)
-//                                    .font(.caption2)
-//                                    .foregroundColor(.secondary)
-//                                    .multilineTextAlignment(.center)
-//                                    .lineLimit(nil)
-//                                    .fixedSize(horizontal: false, vertical: true)
-//                            }
-//                        }
-//
-//                    }
-//                }
-//            }
-//
-//            if showFamiliarFeedback {
-//                feedbackView(text: familiarText, color: .green)
-//            }
-//
-//            if showUnfamiliarFeedback {
-//                feedbackView(text: unfamiliarText, color: .yellow)
-//            }
-//
-//            if showHint {
-//                hintView
-//            }
-//
-//        }
         .contentShape(Rectangle())
         .navigationTitle(title)
 //        .gesture(gesture)
@@ -125,15 +57,17 @@ struct WordPracticeView: View {
 //        )
         .crownStepper(
             crownValue: $crownValue,
-            threshold: 5, // 累计7个单位触发一次
-            by: 1,        // 每齿增量
+            threshold: isExampleExpanded ? 999 : 5,
+            by: 1,
             onStepForward: {
-                scheduler.next() // 切换下一个单词
+                scheduler.next()
             },
             onStepBackward: {
-                scheduler.previous() // 切换上一个单词
+                scheduler.previous()
             }
         )
+
+        
 
 
 //        .onChange(of: crownValue) { _, newValue in
@@ -145,6 +79,12 @@ struct WordPracticeView: View {
 //            }
 //            lastStep = step
 //        }
+        
+        .onChange(of: scheduler.currentWord?.id) { _ in
+            isExampleExpanded = false
+            showExampleTranslation = false
+        }
+
         .onAppear {
             isCrownFocused = true
             DispatchQueue.main.asyncAfter(deadline: .now() + 4) {
@@ -200,17 +140,23 @@ private extension WordPracticeView {
                     .onTapGesture {
                         showExampleTemporarily()
                     }
+                    .onLongPressGesture(minimumDuration: 0.4) {
+                        withAnimation(.easeOut(duration: 0.2)) {
+                            isExampleExpanded.toggle()
+                        }
+                        WKInterfaceDevice.current().play(.click)
+                    }
 
-                    // ✅ 双击（必须显式 TapGesture）
-                    .highPriorityGesture(
-                        TapGesture(count: 2)
-                            .onEnded {
-                                withAnimation(.easeOut(duration: 0.2)) {
-                                    isExampleExpanded.toggle()
-                                }
-                                WKInterfaceDevice.current().play(.click)
-                            }
-                    )
+//                    // ✅ 双击（必须显式 TapGesture）
+//                    .highPriorityGesture(
+//                        TapGesture(count: 2)
+//                            .onEnded {
+//                                withAnimation(.easeOut(duration: 0.2)) {
+//                                    isExampleExpanded.toggle()
+//                                }
+//                                WKInterfaceDevice.current().play(.click)
+//                            }
+//                    )
 
 
                 if showExampleTranslation,
@@ -220,9 +166,17 @@ private extension WordPracticeView {
                         .foregroundColor(.secondary)
                         .multilineTextAlignment(.center)
                         .fixedSize(horizontal: false, vertical: true)
+//                        .transition(
+//                            .move(edge: .top)
+//                            .combined(with: .opacity)
+//                        )
+                 }
                 }
-            }
+            
+//            .animation(.easeOut(duration: 0.18), value: showExampleTranslation)
+            .frame(maxHeight: 90) // ⭐️ 非常关键：限制滚动区域高度
         }
+
     }
     
     var wordTransition: AnyTransition {
@@ -304,33 +258,7 @@ private extension WordPracticeView {
                 let h = value.translation.width
                 let v = value.translation.height
 
-//                // ← 熟悉
-//                if h < -15 && abs(h) > abs(v) * 0.6 {
-//                    handleFamiliar()
-//                    return
-//                }
-//
-//                if h > 15 && abs(h) > abs(v) * 0.6 {
-//                    handleUnfamiliar()
-//                    return
-//                }
-//
-//
-//                // ↑ 下一个
-//                if v < -20 {
-//                    scheduler.next()
-//                    return
-//                }
-//
-//                // ↓ 上一个
-//                if v > 20 {
-//                    scheduler.previous()
-//                    return
-//                }
-                
-                
-                
-                
+                          
                 // ← 熟悉（横向必须“非常横”）
                 if h < -25 && abs(h) > abs(v) * 1.8 {
                     handleFamiliar()
