@@ -93,7 +93,23 @@ struct WordPracticeView: View {
         .highPriorityGesture(gesture)
         .focusable(true)
         .focused($isCrownFocused)
-        .digitalCrownRotation($crownValue, from: -1000, through: 1000, by: 1)
+//        .digitalCrownRotation(
+//            $crownValue,
+//            from: -500,
+//            through: 500,
+//            by: 5
+//        )
+        .crownStepper(
+            crownValue: $crownValue,
+            threshold: 6, // 每卡塔一次触发
+            onStepForward: {
+                scheduler.next()
+            },
+            onStepBackward: {
+                scheduler.previous()
+            }
+        )
+
         .onChange(of: crownValue) { _, newValue in
             let step = Int(newValue)
             if step > lastStep {

@@ -1,0 +1,3383 @@
+IPA检查结果摘要
+========================================
+
+
+CHECK (9个):
+------------------------------
+  ankreuzen | 相似度: 0.82
+      中文: 打勾，标记
+      自定义: [ˈanˌkʁɔɪ̯ʦn̩]
+      Wiktionary: ˈanˌkʁɔɪ̯t͡sn̩
+
+  anmelden | 相似度: 0.88
+      中文: 登记，注册
+      自定义: [ˈanˌmeːldn̩]
+      Wiktionary: ˈanˌmɛldn̩
+
+  Anmeldung (die) | 相似度: 0.88
+      中文: 登记，注册
+      自定义: [ˈanˌmeːldʊŋ]
+      Wiktionary: ˈanˌmɛldʊŋ
+
+  Appetit (der) | 相似度: 0.83
+      中文: 胃口，食欲
+      自定义: [ˈapəˌtiːt]
+      Wiktionary: apeˈtiːt
+
+  aussehen | 相似度: 0.89
+      中文: 看起来
+      自定义: [ˈaʊ̯sˌzeːən]
+      Wiktionary: ˈaʊ̯sˌz̥eːən
+
+  daneben | 相似度: 0.86
+      中文: 在旁边
+      自定义: [daˈneːbn̩]
+      Wiktionary: daˈneːbm̩
+
+  Familienstand (der) | 相似度: 0.93
+      中文: 婚姻状况
+      自定义: [faˈmiːli̯ənˌʃtant]
+      Wiktionary: faˈmiːliənʃtant
+
+  Halbpension (die) | 相似度: 0.83
+      中文: 半食宿（含早餐和一顿主餐）
+      自定义: [ˈhalpˌpɑ̃zi̯oːn]
+      Wiktionary: ˈhalppaŋˌzi̯oːn
+
+  telefonieren | 相似度: 0.91
+      中文: 打电话
+      自定义: [telefoˈniːʁən]
+      Wiktionary: teləfoˈniːʁən
+
+
+ERROR (7个):
+------------------------------
+  Arzt (der) | 相似度: 0.8
+      中文: 医生
+      自定义: [aʁt͡st]
+      Wiktionary: aːɐ̯t͡st
+
+  E-Mail (die) | 相似度: 0.67
+      中文: 电子邮件
+      自定义: [ˈiːmeːl]
+      Wiktionary: ˈiːmeɪ̯l
+
+  Jugendliche (der/die) | 相似度: 0.8
+      中文: 青少年
+      自定义: [ˈjuːɡəntˌlɪçə]
+      Wiktionary: ˈjuːɡn̩tlɪçə
+
+  Obst (das) | 相似度: 0.8
+      中文: 水果（总称）
+      自定义: [oːp͡st]
+      Wiktionary: oːpst
+
+  Party (die) | 相似度: 0.8
+      中文: 聚会，派对
+      自定义: [ˈpaʁti]
+      Wiktionary: ˈpaːɐ̯ti
+
+  Toilette (die) | 相似度: 0.75
+      中文: 厕所
+      自定义: [to̯aˈlɛtə]
+      Wiktionary: toˈlɛtə
+
+  zurzeit | 相似度: 0.8
+      中文: 目前，眼下
+      自定义: [t͡suːɐ̯ˈt͡saɪ̯t]
+      Wiktionary: t͡sʊʁˈt͡saɪ̯t
+
+
+NO_WIKI_IPA (16个):
+------------------------------
+  ander
+      中文: 其他的，另一个
+
+  best-
+      中文: 最好的
+
+  dein-
+      中文: 你的
+
+  der, die, das
+      中文: 定冠词（这个/那个）
+
+  dies-
+      中文: 这个
+
+  Feier-
+      中文: 庆祝（前缀）
+
+  gern(e)
+      中文: 乐意地，喜欢
+
+  jed-
+      中文: 每个
+
+  lieb-
+      中文: 亲爱的（用于称呼）
+
+  meist-
+      中文: 大多数的
+
+  nächst-
+      中文: 下一个的
+
+  weg sein
+      中文: 离开了，不见了
+
+  zu sein
+      中文: 关着
+
+  unser-
+      中文: 我们的
+
+  was für ein
+      中文: 什么样的
+
+  welch-
+      中文: 哪一个，哪些
+
+
+OK (648个):
+------------------------------
+  ab | 相似度: 1.0
+      中文: 从…起，自…开始
+      自定义: [ap]
+      Wiktionary: ap
+
+  aber | 相似度: 1.0
+      中文: 但是，然而
+      自定义: [ˈaːbɐ]
+      Wiktionary: ˈaːbɐ
+
+  abfahren | 相似度: 1.0
+      中文: 出发，驶离
+      自定义: [ˈapˌfaːʁən]
+      Wiktionary: ˈapˌfaːʁən
+
+  Abfahrt (die) | 相似度: 1.0
+      中文: 出发，发车
+      自定义: [ˈapˌfaːɐ̯t]
+      Wiktionary: ˈapˌfaːɐ̯t
+
+  abgeben | 相似度: 1.0
+      中文: 交出，交付
+      自定义: [ˈapˌɡeːbn̩]
+      Wiktionary: ˈapˌɡeːbn̩
+
+  abholen | 相似度: 1.0
+      中文: 接取，取走；接（某人）
+      自定义: [ˈapˌhoːlən]
+      Wiktionary: ˈapˌhoːlən
+
+  Absender (der) | 相似度: 1.0
+      中文: 寄件人
+      自定义: [ˈapˌzɛndɐ]
+      Wiktionary: ˈapˌzɛndɐ
+
+  Achtung (die) | 相似度: 1.0
+      中文: 注意，小心
+      自定义: [ˈaxtʊŋ]
+      Wiktionary: ˈaxtʊŋ
+
+  Adresse (die) | 相似度: 1.0
+      中文: 地址
+      自定义: [aˈdʁɛsə]
+      Wiktionary: aˈdʁɛsə
+
+  all | 相似度: 1.0
+      中文: 所有，一切
+      自定义: [al]
+      Wiktionary: al
+
+  allein | 相似度: 1.0
+      中文: 单独，独自
+      自定义: [aˈlaɪ̯n]
+      Wiktionary: aˈlaɪ̯n
+
+  also | 相似度: 1.0
+      中文: 那么，因此
+      自定义: [ˈalzo]
+      Wiktionary: ˈalzo
+
+  alt | 相似度: 1.0
+      中文: 老的；旧的；年老的
+      自定义: [alt]
+      Wiktionary: alt
+
+  Alter (das) | 相似度: 1.0
+      中文: 年龄
+      自定义: [ˈaltɐ]
+      Wiktionary: ˈaltɐ
+
+  an | 相似度: 1.0
+      中文: 在...旁边；在...（时间）
+      自定义: [an]
+      Wiktionary: an
+
+  anbieten | 相似度: 1.0
+      中文: 提供
+      自定义: [ˈanˌbiːtn̩]
+      Wiktionary: ˈanˌbiːtn̩
+
+  Angebot (das) | 相似度: 1.0
+      中文: 供应；报价
+      自定义: [ˈanɡəˌboːt]
+      Wiktionary: ˈanɡəˌboːt
+
+  anfangen | 相似度: 1.0
+      中文: 开始
+      自定义: [ˈanˌfaŋən]
+      Wiktionary: ˈanˌfaŋən
+
+  Anfang (der) | 相似度: 1.0
+      中文: 开始，开端
+      自定义: [ˈanˌfaŋ]
+      Wiktionary: ˈanˌfaŋ
+
+  anklicken | 相似度: 1.0
+      中文: 点击（鼠标）
+      自定义: [ˈanˌklɪkn̩]
+      Wiktionary: ˈanˌklɪkn̩
+
+  ankommen | 相似度: 1.0
+      中文: 到达
+      自定义: [ˈanˌkɔmən]
+      Wiktionary: ˈanˌkɔmən
+
+  Ankunft (die) | 相似度: 1.0
+      中文: 到达，抵达
+      自定义: [ˈanˌkʊnft]
+      Wiktionary: ˈankʊnft
+
+  anmachen | 相似度: 1.0
+      中文: 打开（电器、灯等）
+      自定义: [ˈanˌmaxn̩]
+      Wiktionary: ˈanˌmaxn̩
+
+  Anrede (die) | 相似度: 1.0
+      中文: 称呼
+      自定义: [ˈanˌʁeːdə]
+      Wiktionary: ˈanˌʁeːdə
+
+  anrufen | 相似度: 1.0
+      中文: 打电话
+      自定义: [ˈanˌʁuːfn̩]
+      Wiktionary: ˈanˌʁuːfn̩
+
+  Anruf (der) | 相似度: 1.0
+      中文: 电话通话
+      自定义: [ˈanˌʁuːf]
+      Wiktionary: ˈanˌʁuːf
+
+  Anrufbeantworter (der) | 相似度: 1.0
+      中文: 电话答录机
+      自定义: [ˈanʁuːfbəˌantvɔʁtɐ]
+      Wiktionary: ˈanʁuːfbəˌʔantvɔʁtɐ
+
+  Ansage (die) | 相似度: 1.0
+      中文: 广播通知，播报
+      自定义: [ˈanˌzaːɡə]
+      Wiktionary: ˈanzaːɡə
+
+  Anschluss (der) | 相似度: 1.0
+      中文: 连接；转乘
+      自定义: [ˈanˌʃlʊs]
+      Wiktionary: ˈanʃlʊs
+
+  an sein | 相似度: 1.0
+      中文: 开着（指电器）
+      自定义: [an zaɪ̯n]
+      Wiktionary: ˈan zaɪ̯n
+
+  antworten | 相似度: 1.0
+      中文: 回答
+      自定义: [ˈantˌvɔʁtn̩]
+      Wiktionary: ˈantˌvɔʁtn̩
+
+  Antwort (die) | 相似度: 1.0
+      中文: 答案，回答
+      自定义: [ˈantvɔʁt]
+      Wiktionary: ˈantvɔʁt
+
+  Anzeige (die) | 相似度: 1.0
+      中文: 广告；显示
+      自定义: [ˈanˌt͡saɪ̯ɡə]
+      Wiktionary: ˈanˌt͡saɪ̯ɡə
+
+  anziehen | 相似度: 1.0
+      中文: 穿衣服
+      自定义: [ˈanˌt͡siːən]
+      Wiktionary: ˈanˌt͡siːən
+
+  Apartment (das) | 相似度: 1.0
+      中文: 公寓
+      自定义: [aˈpaʁtmənt]
+      Wiktionary: aˈpaʁtmənt
+
+  Apfel (der) | 相似度: 1.0
+      中文: 苹果
+      自定义: [ˈap͡fl̩]
+      Wiktionary: ˈap͡fl̩
+
+  arbeiten | 相似度: 1.0
+      中文: 工作
+      自定义: [ˈaʁbaɪ̯tn̩]
+      Wiktionary: ˈaʁbaɪ̯tn̩
+
+  Arbeit (die) | 相似度: 1.0
+      中文: 工作
+      自定义: [ˈaʁbaɪ̯t]
+      Wiktionary: ˈaʁbaɪ̯t
+
+  arbeitslos | 相似度: 1.0
+      中文: 失业的
+      自定义: [ˈaʁbaɪ̯t͡sˌloːs]
+      Wiktionary: ˈaʁbaɪ̯t͡sloːs
+
+  Arbeitsplatz (der) | 相似度: 1.0
+      中文: 工作岗位，工作地点
+      自定义: [ˈaʁbaɪ̯t͡sˌplat͡s]
+      Wiktionary: ˈaʁbaɪ̯t͡sˌplat͡s
+
+  Arm (der) | 相似度: 1.0
+      中文: 手臂
+      自定义: [aʁm]
+      Wiktionary: aʁm
+
+  auch | 相似度: 1.0
+      中文: 也
+      自定义: [aʊ̯x]
+      Wiktionary: aʊ̯x
+
+  auf | 相似度: 1.0
+      中文: 在...上；到...上
+      自定义: [aʊ̯f]
+      Wiktionary: aʊ̯f
+
+  Aufgabe (die) | 相似度: 1.0
+      中文: 任务，作业
+      自定义: [ˈaʊ̯fˌɡaːbə]
+      Wiktionary: ˈaʊ̯fˌɡaːbə
+
+  aufhören | 相似度: 1.0
+      中文: 停止，结束
+      自定义: [ˈaʊ̯fˌhøːʁən]
+      Wiktionary: ˈaʊ̯fˌhøːʁən
+
+  auf sein | 相似度: 1.0
+      中文: 开着（门等）
+      自定义: [aʊ̯f zaɪ̯n]
+      Wiktionary: ˈaʊ̯f zaɪ̯n
+
+  aufstehen | 相似度: 1.0
+      中文: 起床；站起来
+      自定义: [ˈaʊ̯fˌʃteːən]
+      Wiktionary: ˈaʊ̯fˌʃteːən
+
+  Aufzug (der) | 相似度: 1.0
+      中文: 电梯
+      自定义: [ˈaʊ̯fˌt͡suːk]
+      Wiktionary: ˈaʊ̯fˌt͡suːk
+
+  Auge (das) | 相似度: 1.0
+      中文: 眼睛
+      自定义: [ˈaʊ̯ɡə]
+      Wiktionary: ˈaʊ̯ɡə
+
+  aus | 相似度: 1.0
+      中文: 从...来；由...制成
+      自定义: [aʊ̯s]
+      Wiktionary: aʊ̯s
+
+  Ausflug (der) | 相似度: 1.0
+      中文: 郊游，短途旅行
+      自定义: [ˈaʊ̯sˌfluːk]
+      Wiktionary: ˈaʊ̯sˌfluːk
+
+  ausfüllen | 相似度: 1.0
+      中文: 填写
+      自定义: [ˈaʊ̯sˌfʏlən]
+      Wiktionary: ˈaʊ̯sˌfʏlən
+
+  Ausgang (der) | 相似度: 1.0
+      中文: 出口
+      自定义: [ˈaʊ̯sˌɡaŋ]
+      Wiktionary: ˈaʊ̯sˌɡaŋ
+
+  Auskunft (die) | 相似度: 1.0
+      中文: 信息，问讯处
+      自定义: [ˈaʊ̯sˌkʊnft]
+      Wiktionary: ˈaʊ̯sˌkʊnft
+
+  Ausland (das) | 相似度: 1.0
+      中文: 外国
+      自定义: [ˈaʊ̯sˌlant]
+      Wiktionary: ˈaʊ̯slant
+
+  Ausländer (der) | 相似度: 1.0
+      中文: 外国人
+      自定义: [ˈaʊ̯sˌlɛndɐ]
+      Wiktionary: ˈaʊ̯sˌlɛndɐ
+
+  ausländisch | 相似度: 1.0
+      中文: 外国的
+      自定义: [ˈaʊ̯sˌlɛndɪʃ]
+      Wiktionary: ˈaʊ̯slɛndɪʃ
+
+  ausmachen | 相似度: 1.0
+      中文: 关掉（电器）
+      自定义: [ˈaʊ̯sˌmaxn̩]
+      Wiktionary: ˈaʊ̯sˌmaxn̩
+
+  Aussage (die) | 相似度: 1.0
+      中文: 陈述，说法
+      自定义: [ˈaʊ̯sˌzaːɡə]
+      Wiktionary: ˈaʊ̯sˌzaːɡə
+
+  aus sein | 相似度: 1.0
+      中文: 结束；关着
+      自定义: [aʊ̯s zaɪ̯n]
+      Wiktionary: ˈaʊ̯s zaɪ̯n
+
+  aussteigen | 相似度: 1.0
+      中文: 下车，下船
+      自定义: [ˈaʊ̯sˌʃtaɪ̯ɡn̩]
+      Wiktionary: ˈaʊ̯sˌʃtaɪ̯ɡn̩
+
+  Ausweis (der) | 相似度: 1.0
+      中文: 证件
+      自定义: [ˈaʊ̯sˌvaɪ̯s]
+      Wiktionary: ˈaʊ̯sˌvaɪ̯s
+
+  ausziehen | 相似度: 1.0
+      中文: 脱衣服；搬家
+      自定义: [ˈaʊ̯sˌt͡siːən]
+      Wiktionary: ˈaʊ̯sˌt͡siːən
+
+  Auto (das) | 相似度: 1.0
+      中文: 汽车
+      自定义: [ˈaʊ̯to]
+      Wiktionary: ˈaʊ̯to
+
+  Autobahn (die) | 相似度: 1.0
+      中文: 高速公路
+      自定义: [ˈaʊ̯toˌbaːn]
+      Wiktionary: ˈaʊ̯toˌbaːn
+
+  Automat (der) | 相似度: 1.0
+      中文: 自动售货机；自动装置
+      自定义: [aʊ̯toˈmaːt]
+      Wiktionary: aʊ̯toˈmaːt
+
+  automatisch | 相似度: 1.0
+      中文: 自动的
+      自定义: [aʊ̯toˈmaːtɪʃ]
+      Wiktionary: ˌaʊ̯toˈmaːtɪʃ
+
+  Baby (das) | 相似度: 1.0
+      中文: 婴儿
+      自定义: [ˈbeːbi]
+      Wiktionary: ˈbeːbi
+
+  Bäckerei (die) | 相似度: 1.0
+      中文: 面包店
+      自定义: [bɛkəˈʁaɪ̯]
+      Wiktionary: ˌbɛkəˈʁaɪ̯
+
+  Bad (das) | 相似度: 1.0
+      中文: 浴室；沐浴
+      自定义: [baːt]
+      Wiktionary: baːt
+
+  baden | 相似度: 1.0
+      中文: 洗澡，沐浴
+      自定义: [ˈbaːdn̩]
+      Wiktionary: ˈbaːdn̩
+
+  Bahn (die) | 相似度: 1.0
+      中文: 火车；轨道
+      自定义: [baːn]
+      Wiktionary: baːn
+
+  Bahnhof (der) | 相似度: 1.0
+      中文: 火车站
+      自定义: [ˈbaːnˌhoːf]
+      Wiktionary: ˈbaːnˌhoːf
+
+  Bahnsteig (der) | 相似度: 1.0
+      中文: 站台
+      自定义: [ˈbaːnˌʃtaɪ̯k]
+      Wiktionary: ˈbaːnˌʃtaɪ̯k
+
+  bald | 相似度: 1.0
+      中文: 很快，不久
+      自定义: [balt]
+      Wiktionary: balt
+
+  Balkon (der) | 相似度: 1.0
+      中文: 阳台
+      自定义: [balˈkɔ̃ː]
+      Wiktionary: balˈkɔ̃ː
+
+  Banane (die) | 相似度: 1.0
+      中文: 香蕉
+      自定义: [baˈnaːnə]
+      Wiktionary: baˈnaːnə
+
+  Bank (die) | 相似度: 1.0
+      中文: 银行；长凳
+      自定义: [baŋk]
+      Wiktionary: baŋk
+
+  bar | 相似度: 1.0
+      中文: 现金的
+      自定义: [baːɐ̯]
+      Wiktionary: baːɐ̯
+
+  Bauch (der) | 相似度: 1.0
+      中文: 肚子，腹部
+      自定义: [baʊ̯x]
+      Wiktionary: baʊ̯x
+
+  Baum (der) | 相似度: 1.0
+      中文: 树
+      自定义: [baʊ̯m]
+      Wiktionary: baʊ̯m
+
+  Beamte (der/die) | 相似度: 1.0
+      中文: 公务员，官员
+      自定义: [bəˈʔamtə]
+      Wiktionary: bəˈʔamtə
+
+  bedeuten | 相似度: 1.0
+      中文: 意思是，意味着
+      自定义: [bəˈdɔɪ̯tn̩]
+      Wiktionary: bəˈdɔɪ̯tn̩
+
+  beginnen | 相似度: 1.0
+      中文: 开始
+      自定义: [bəˈɡɪnən]
+      Wiktionary: bəˈɡɪnən
+
+  bei | 相似度: 1.0
+      中文: 在...处；在...家；在...时
+      自定义: [baɪ̯]
+      Wiktionary: baɪ̯
+
+  beide | 相似度: 1.0
+      中文: 两个，双方
+      自定义: [ˈbaɪ̯də]
+      Wiktionary: ˈbaɪ̯də
+
+  Bein (das) | 相似度: 1.0
+      中文: 腿
+      自定义: [baɪ̯n]
+      Wiktionary: baɪ̯n
+
+  Beispiel (das) | 相似度: 1.0
+      中文: 例子
+      自定义: [ˈbaɪ̯ˌʃpiːl]
+      Wiktionary: ˈbaɪ̯ˌʃpiːl
+
+  zum Beispiel | 相似度: 1.0
+      中文: 例如
+      自定义: [t͡sʊm ˈbaɪ̯ˌʃpiːl]
+      Wiktionary: t͡sʊm ˈbaɪ̯ˌʃpiːl
+
+  bekannt | 相似度: 1.0
+      中文: 知名的，熟悉的
+      自定义: [bəˈkant]
+      Wiktionary: bəˈkant
+
+  Bekannte (der/die) | 相似度: 1.0
+      中文: 熟人，认识的人
+      自定义: [bəˈkantə]
+      Wiktionary: bəˈkantə
+
+  bekommen | 相似度: 1.0
+      中文: 得到，收到
+      自定义: [bəˈkɔmən]
+      Wiktionary: bəˈkɔmən
+
+  benutzen | 相似度: 1.0
+      中文: 使用
+      自定义: [bəˈnʊt͡sn̩]
+      Wiktionary: bəˈnʊt͡sn̩
+
+  Beruf (der) | 相似度: 1.0
+      中文: 职业
+      自定义: [bəˈʁuːf]
+      Wiktionary: bəˈʁuːf
+
+  besetzt | 相似度: 1.0
+      中文: 占用的；繁忙的
+      自定义: [bəˈzɛt͡st]
+      Wiktionary: bəˈzɛt͡st
+
+  besichtigen | 相似度: 1.0
+      中文: 参观
+      自定义: [bəˈzɪçtɪɡn̩]
+      Wiktionary: bəˈzɪçtɪɡn̩
+
+  besser | 相似度: 1.0
+      中文: 更好
+      自定义: [ˈbɛsɐ]
+      Wiktionary: ˈbɛsɐ
+
+  bestellen | 相似度: 1.0
+      中文: 点餐；订购
+      自定义: [bəˈʃtɛlən]
+      Wiktionary: bəˈʃtɛlən
+
+  besuchen | 相似度: 1.0
+      中文: 拜访；参观
+      自定义: [bəˈzuːxn̩]
+      Wiktionary: bəˈzuːxn̩
+
+  Bett (das) | 相似度: 1.0
+      中文: 床
+      自定义: [bɛt]
+      Wiktionary: bɛt
+
+  bezahlen | 相似度: 1.0
+      中文: 支付
+      自定义: [bəˈt͡saːlən]
+      Wiktionary: bəˈt͡saːlən
+
+  Bier (das) | 相似度: 1.0
+      中文: 啤酒
+      自定义: [biːɐ̯]
+      Wiktionary: biːɐ̯
+
+  Bild (das) | 相似度: 1.0
+      中文: 图片；照片
+      自定义: [bɪlt]
+      Wiktionary: bɪlt
+
+  billig | 相似度: 1.0
+      中文: 便宜的
+      自定义: [ˈbɪlɪç]
+      Wiktionary: ˈbɪlɪç
+
+  Birne (die) | 相似度: 1.0
+      中文: 梨
+      自定义: [ˈbɪʁnə]
+      Wiktionary: ˈbɪʁnə
+
+  bis | 相似度: 1.0
+      中文: 直到
+      自定义: [bɪs]
+      Wiktionary: bɪs
+
+  bisschen | 相似度: 1.0
+      中文: 一点，一些
+      自定义: [ˈbɪsçən]
+      Wiktionary: ˈbɪsçən
+
+  bitte | 相似度: 1.0
+      中文: 请；不客气
+      自定义: [ˈbɪtə]
+      Wiktionary: ˈbɪtə
+
+  Bitte (die) | 相似度: 1.0
+      中文: 请求
+      自定义: [ˈbɪtə]
+      Wiktionary: ˈbɪtə
+
+  bitten | 相似度: 1.0
+      中文: 请求
+      自定义: [ˈbɪtn̩]
+      Wiktionary: ˈbɪtn̩
+
+  bitter | 相似度: 1.0
+      中文: 苦的
+      自定义: [ˈbɪtɐ]
+      Wiktionary: ˈbɪtɐ
+
+  bleiben | 相似度: 1.0
+      中文: 停留；保持
+      自定义: [ˈblaɪ̯bn̩]
+      Wiktionary: ˈblaɪ̯bn̩
+
+  Bleistift (der) | 相似度: 1.0
+      中文: 铅笔
+      自定义: [ˈblaɪ̯ˌʃtɪft]
+      Wiktionary: ˈblaɪ̯ˌʃtɪft
+
+  Blick (der) | 相似度: 1.0
+      中文: 目光；视野
+      自定义: [blɪk]
+      Wiktionary: blɪk
+
+  Blume (die) | 相似度: 1.0
+      中文: 花
+      自定义: [ˈbluːmə]
+      Wiktionary: ˈbluːmə
+
+  Bogen (der) | 相似度: 1.0
+      中文: 表格；纸张
+      自定义: [ˈboːɡn̩]
+      Wiktionary: ˈboːɡn̩
+
+  böse | 相似度: 1.0
+      中文: 生气的
+      自定义: [ˈbøːzə]
+      Wiktionary: ˈbøːzə
+
+  brauchen | 相似度: 1.0
+      中文: 需要
+      自定义: [ˈbʁaʊ̯xn̩]
+      Wiktionary: ˈbʁaʊ̯xn̩
+
+  breit | 相似度: 1.0
+      中文: 宽的
+      自定义: [bʁaɪ̯t]
+      Wiktionary: bʁaɪ̯t
+
+  Brief (der) | 相似度: 1.0
+      中文: 信
+      自定义: [bʁiːf]
+      Wiktionary: bʁiːf
+
+  Briefmarke (die) | 相似度: 1.0
+      中文: 邮票
+      自定义: [ˈbʁiːfˌmaʁkə]
+      Wiktionary: ˈbʁiːfˌmaʁkə
+
+  bringen | 相似度: 1.0
+      中文: 带来；送
+      自定义: [ˈbʁɪŋən]
+      Wiktionary: ˈbʁɪŋən
+
+  Brot (das) | 相似度: 1.0
+      中文: 面包
+      自定义: [bʁoːt]
+      Wiktionary: bʁoːt
+
+  Brötchen (das) | 相似度: 1.0
+      中文: 小面包
+      自定义: [ˈbʁøːtçən]
+      Wiktionary: ˈbʁøːtçən
+
+  Bruder (der) | 相似度: 1.0
+      中文: 兄弟
+      自定义: [ˈbʁuːdɐ]
+      Wiktionary: ˈbʁuːdɐ
+
+  Buch (das) | 相似度: 1.0
+      中文: 书
+      自定义: [buːx]
+      Wiktionary: buːx
+
+  Buchstabe (der) | 相似度: 1.0
+      中文: 字母
+      自定义: [ˈbuːxˌʃtaːbə]
+      Wiktionary: ˈbuːxˌʃtaːbə
+
+  buchstabieren | 相似度: 1.0
+      中文: 拼写
+      自定义: [buːxʃtaˈbiːʁən]
+      Wiktionary: ˌbuːxʃtaˈbiːʁən
+
+  Bus (der) | 相似度: 1.0
+      中文: 公共汽车
+      自定义: [bʊs]
+      Wiktionary: bʊs
+
+  Butter (die) | 相似度: 1.0
+      中文: 黄油
+      自定义: [ˈbʊtɐ]
+      Wiktionary: ˈbʊtɐ
+
+  Café (das) | 相似度: 1.0
+      中文: 咖啡馆
+      自定义: [kaˈfeː]
+      Wiktionary: kaˈfeː
+
+  CD (die) | 相似度: 1.0
+      中文: CD光盘
+      自定义: [t͡seːˈdeː]
+      Wiktionary: t͡seːˈdeː
+
+  Chef (der) | 相似度: 1.0
+      中文: 上司，老板
+      自定义: [ʃɛf]
+      Wiktionary: ʃɛf
+
+  circa | 相似度: 1.0
+      中文: 大约
+      自定义: [ˈt͡sɪʁka]
+      Wiktionary: ˈt͡sɪʁka
+
+  Computer (der) | 相似度: 1.0
+      中文: 计算机，电脑
+      自定义: [kɔmˈpjuːtɐ]
+      Wiktionary: kɔmˈpjuːtɐ
+
+  da | 相似度: 1.0
+      中文: 那里；那时；因为
+      自定义: [daː]
+      Wiktionary: daː
+
+  Dame (die) | 相似度: 1.0
+      中文: 女士；夫人
+      自定义: [ˈdaːmə]
+      Wiktionary: ˈdaːmə
+
+  danken | 相似度: 1.0
+      中文: 感谢
+      自定义: [ˈdaŋkn̩]
+      Wiktionary: ˈdaŋkn̩
+
+  Dank (der) | 相似度: 1.0
+      中文: 感谢
+      自定义: [daŋk]
+      Wiktionary: daŋk
+
+  danke | 相似度: 1.0
+      中文: 谢谢
+      自定义: [ˈdaŋkə]
+      Wiktionary: ˈdaŋkə
+
+  dann | 相似度: 1.0
+      中文: 然后，那么
+      自定义: [dan]
+      Wiktionary: dan
+
+  Datum (das) | 相似度: 1.0
+      中文: 日期
+      自定义: [ˈdaːtʊm]
+      Wiktionary: ˈdaːtʊm
+
+  dauern | 相似度: 1.0
+      中文: 持续
+      自定义: [ˈdaʊ̯ɐn]
+      Wiktionary: ˈdaʊ̯ɐn
+
+  dich | 相似度: 1.0
+      中文: 你（宾格）
+      自定义: [dɪç]
+      Wiktionary: dɪç
+
+  dir | 相似度: 1.0
+      中文: 你（与格）
+      自定义: [diːɐ̯]
+      Wiktionary: diːɐ̯
+
+  Disco (die) | 相似度: 1.0
+      中文: 迪斯科舞厅
+      自定义: [ˈdɪsko]
+      Wiktionary: ˈdɪsko
+
+  Doktor (der) | 相似度: 1.0
+      中文: 医生；博士
+      自定义: [ˈdɔktoːɐ̯]
+      Wiktionary: ˈdɔktoːɐ̯
+
+  Doppelzimmer (das) | 相似度: 1.0
+      中文: 双人间
+      自定义: [ˈdɔpl̩ˌt͡sɪmɐ]
+      Wiktionary: ˈdɔpl̩ˌt͡sɪmɐ
+
+  Dorf (das) | 相似度: 1.0
+      中文: 村庄
+      自定义: [dɔʁf]
+      Wiktionary: dɔʁf
+
+  dort | 相似度: 1.0
+      中文: 那里
+      自定义: [dɔʁt]
+      Wiktionary: dɔʁt
+
+  draußen | 相似度: 1.0
+      中文: 在外面
+      自定义: [ˈdʁaʊ̯sn̩]
+      Wiktionary: ˈdʁaʊ̯sn̩
+
+  drucken | 相似度: 1.0
+      中文: 打印
+      自定义: [ˈdʁʊkn̩]
+      Wiktionary: ˈdʁʊkn̩
+
+  Drucker (der) | 相似度: 1.0
+      中文: 打印机
+      自定义: [ˈdʁʊkɐ]
+      Wiktionary: ˈdʁʊkɐ
+
+  drücken | 相似度: 1.0
+      中文: 按，压
+      自定义: [ˈdʁʏkn̩]
+      Wiktionary: ˈdʁʏkn̩
+
+  durch | 相似度: 1.0
+      中文: 穿过，通过
+      自定义: [dʊʁç]
+      Wiktionary: dʊʁç
+
+  Durchsage (die) | 相似度: 1.0
+      中文: 广播通知
+      自定义: [ˈdʊʁçˌzaːɡə]
+      Wiktionary: ˈdʊʁçˌzaːɡə
+
+  dürfen | 相似度: 1.0
+      中文: 可以，允许
+      自定义: [ˈdʏʁfn̩]
+      Wiktionary: ˈdʏʁfn̩
+
+  Durst (der) | 相似度: 1.0
+      中文: 口渴
+      自定义: [dʊʁst]
+      Wiktionary: dʊʁst
+
+  duschen | 相似度: 1.0
+      中文: 淋浴
+      自定义: [ˈduːʃn̩]
+      Wiktionary: ˈduːʃn̩
+
+  Dusche (die) | 相似度: 1.0
+      中文: 淋浴；淋浴间
+      自定义: [ˈduːʃə]
+      Wiktionary: ˈduːʃə
+
+  Ecke (die) | 相似度: 1.0
+      中文: 角落；拐角
+      自定义: [ˈɛkə]
+      Wiktionary: ˈɛkə
+
+  Ehefrau (die) | 相似度: 1.0
+      中文: 妻子
+      自定义: [ˈeːəˌfʁaʊ̯]
+      Wiktionary: ˈeːəˌfʁaʊ̯
+
+  Ei (das) | 相似度: 1.0
+      中文: 蛋，鸡蛋
+      自定义: [aɪ̯]
+      Wiktionary: aɪ̯
+
+  eilig | 相似度: 1.0
+      中文: 紧急的，匆忙的
+      自定义: [ˈaɪ̯lɪç]
+      Wiktionary: ˈaɪ̯lɪç
+
+  ein- | 相似度: 1.0
+      中文: 一个；不定冠词
+      自定义: [aɪ̯n]
+      Wiktionary: ˈaɪ̯n-
+
+  einfach | 相似度: 1.0
+      中文: 简单的；单程的
+      自定义: [ˈaɪ̯nˌfax]
+      Wiktionary: ˈaɪ̯nfax
+
+  Eingang (der) | 相似度: 1.0
+      中文: 入口
+      自定义: [ˈaɪ̯nˌɡaŋ]
+      Wiktionary: ˈaɪ̯nˌɡaŋ
+
+  einkaufen | 相似度: 1.0
+      中文: 购物
+      自定义: [ˈaɪ̯nˌkaʊ̯fn̩]
+      Wiktionary: ˈaɪ̯nˌkaʊ̯fn̩
+
+  einladen | 相似度: 1.0
+      中文: 邀请
+      自定义: [ˈaɪ̯nˌlaːdn̩]
+      Wiktionary: ˈaɪ̯nˌlaːdn̩
+
+  Einladung (die) | 相似度: 1.0
+      中文: 邀请
+      自定义: [ˈaɪ̯nˌlaːdʊŋ]
+      Wiktionary: ˈaɪ̯nˌlaːdʊŋ
+
+  einmal | 相似度: 1.0
+      中文: 一次
+      自定义: [ˈaɪ̯nˌmaːl]
+      Wiktionary: ˈaɪ̯nmaːl
+
+  einsteigen | 相似度: 1.0
+      中文: 上车，登上
+      自定义: [ˈaɪ̯nˌʃtaɪ̯ɡn̩]
+      Wiktionary: ˈaɪ̯nˌʃtaɪ̯ɡn̩
+
+  Eintritt (der) | 相似度: 1.0
+      中文: 入场；入场费
+      自定义: [ˈaɪ̯nˌtʁɪt]
+      Wiktionary: ˈaɪ̯nˌtʁɪt
+
+  Einzelzimmer (das) | 相似度: 1.0
+      中文: 单人间
+      自定义: [ˈaɪ̯nt͡sl̩ˌt͡sɪmɐ]
+      Wiktionary: ˈaɪ̯nt͡sl̩ˌt͡sɪmɐ
+
+  Eltern (pl. (die)) | 相似度: 1.0
+      中文: 父母
+      自定义: [ˈɛltɐn]
+      Wiktionary: ˈɛltɐn
+
+  Empfänger (der) | 相似度: 1.0
+      中文: 收件人
+      自定义: [ɛmˈp͡fɛŋɐ]
+      Wiktionary: ɛmˈp͡fɛŋɐ
+
+  empfehlen | 相似度: 1.0
+      中文: 推荐
+      自定义: [ɛmˈp͡feːlən]
+      Wiktionary: ɛmˈp͡feːlən
+
+  enden | 相似度: 1.0
+      中文: 结束
+      自定义: [ˈɛndn̩]
+      Wiktionary: ˈɛndn̩
+
+  Ende (das) | 相似度: 1.0
+      中文: 结束，末尾
+      自定义: [ˈɛndə]
+      Wiktionary: ˈɛndə
+
+  entschuldigen | 相似度: 1.0
+      中文: 原谅；道歉
+      自定义: [ɛntˈʃʊldɪɡn̩]
+      Wiktionary: ɛntˈʃʊldɪɡn̩
+
+  Entschuldigung (die) | 相似度: 1.0
+      中文: 道歉；原谅
+      自定义: [ɛntˈʃʊldɪɡʊŋ]
+      Wiktionary: ɛntˈʃʊldɪɡʊŋ
+
+  er | 相似度: 1.0
+      中文: 他
+      自定义: [eːɐ̯]
+      Wiktionary: eːɐ̯
+
+  Ergebnis (das) | 相似度: 1.0
+      中文: 结果
+      自定义: [ɛɐ̯ˈɡeːpnɪs]
+      Wiktionary: ɛɐ̯ˈɡeːpnɪs
+
+  erklären | 相似度: 1.0
+      中文: 解释
+      自定义: [ɛɐ̯ˈklɛːʁən]
+      Wiktionary: ɛɐ̯ˈklɛːʁən
+
+  erlauben | 相似度: 1.0
+      中文: 允许
+      自定义: [ɛɐ̯ˈlaʊ̯bn̩]
+      Wiktionary: ɛɐ̯ˈlaʊ̯bn̩
+
+  Erwachsene (der/die) | 相似度: 1.0
+      中文: 成年人
+      自定义: [ɛɐ̯ˈvaksənə]
+      Wiktionary: ɛɐ̯ˈvaksənə
+
+  erzählen | 相似度: 1.0
+      中文: 讲述，叙述
+      自定义: [ɛɐ̯ˈt͡sɛːlən]
+      Wiktionary: ɛɐ̯ˈt͡sɛːlən
+
+  es | 相似度: 1.0
+      中文: 它
+      自定义: [ɛs]
+      Wiktionary: ɛs
+
+  essen | 相似度: 1.0
+      中文: 吃
+      自定义: [ˈɛsn̩]
+      Wiktionary: ˈɛsn̩
+
+  Essen (das) | 相似度: 1.0
+      中文: 食物；用餐
+      自定义: [ˈɛsn̩]
+      Wiktionary: ˈɛsn̩
+
+  euer | 相似度: 1.0
+      中文: 你们的
+      自定义: [ˈɔɪ̯ɐ]
+      Wiktionary: ˈɔɪ̯ɐ
+
+  fahren | 相似度: 1.0
+      中文: 驾驶；乘坐（交通工具）
+      自定义: [ˈfaːʁən]
+      Wiktionary: ˈfaːʁən
+
+  Fahrer (der) | 相似度: 1.0
+      中文: 司机
+      自定义: [ˈfaːʁɐ]
+      Wiktionary: ˈfaːʁɐ
+
+  Fahrkarte (die) | 相似度: 1.0
+      中文: 车票
+      自定义: [ˈfaːɐ̯ˌkaʁtə]
+      Wiktionary: ˈfaːɐ̯ˌkaʁtə
+
+  Fahrrad (das) | 相似度: 1.0
+      中文: 自行车
+      自定义: [ˈfaːɐ̯ˌʁaːt]
+      Wiktionary: ˈfaːɐ̯ˌʁaːt
+
+  falsch | 相似度: 1.0
+      中文: 错误的
+      自定义: [falʃ]
+      Wiktionary: falʃ
+
+  Familie (die) | 相似度: 1.0
+      中文: 家庭
+      自定义: [faˈmiːli̯ə]
+      Wiktionary: faˈmiːli̯ə
+
+  Familienname (der) | 相似度: 1.0
+      中文: 姓氏
+      自定义: [faˈmiːli̯ənˌnaːmə]
+      Wiktionary: faˈmiːli̯ənˌnaːmə
+
+  Farbe (die) | 相似度: 1.0
+      中文: 颜色
+      自定义: [ˈfaʁbə]
+      Wiktionary: ˈfaʁbə
+
+  Fax (das) | 相似度: 1.0
+      中文: 传真
+      自定义: [faks]
+      Wiktionary: faks
+
+  feiern | 相似度: 1.0
+      中文: 庆祝
+      自定义: [ˈfaɪ̯ɐn]
+      Wiktionary: ˈfaɪ̯ɐn
+
+  fehlen | 相似度: 1.0
+      中文: 缺席；缺少
+      自定义: [ˈfeːlən]
+      Wiktionary: ˈfeːlən
+
+  Fehler (der) | 相似度: 1.0
+      中文: 错误
+      自定义: [ˈfeːlɐ]
+      Wiktionary: ˈfeːlɐ
+
+  fernsehen | 相似度: 1.0
+      中文: 看电视
+      自定义: [ˈfɛʁnˌzeːən]
+      Wiktionary: ˈfɛʁnˌzeːən
+
+  fertig | 相似度: 1.0
+      中文: 准备好的；完成了的
+      自定义: [ˈfɛʁtɪç]
+      Wiktionary: ˈfɛʁtɪç
+
+  Feuer (das) | 相似度: 1.0
+      中文: 火
+      自定义: [ˈfɔɪ̯ɐ]
+      Wiktionary: ˈfɔɪ̯ɐ
+
+  Fieber (das) | 相似度: 1.0
+      中文: 发烧
+      自定义: [ˈfiːbɐ]
+      Wiktionary: ˈfiːbɐ
+
+  Film (der) | 相似度: 1.0
+      中文: 电影
+      自定义: [fɪlm]
+      Wiktionary: fɪlm
+
+  finden | 相似度: 1.0
+      中文: 找到；认为
+      自定义: [ˈfɪndn̩]
+      Wiktionary: ˈfɪndn̩
+
+  Firma (die) | 相似度: 1.0
+      中文: 公司
+      自定义: [ˈfɪʁma]
+      Wiktionary: ˈfɪʁma
+
+  Fisch (der) | 相似度: 1.0
+      中文: 鱼
+      自定义: [fɪʃ]
+      Wiktionary: fɪʃ
+
+  Flasche (die) | 相似度: 1.0
+      中文: 瓶子
+      自定义: [ˈflaʃə]
+      Wiktionary: ˈflaʃə
+
+  Fleisch (das) | 相似度: 1.0
+      中文: 肉
+      自定义: [flaɪ̯ʃ]
+      Wiktionary: flaɪ̯ʃ
+
+  fliegen | 相似度: 1.0
+      中文: 飞；乘飞机
+      自定义: [ˈfliːɡn̩]
+      Wiktionary: ˈfliːɡn̩
+
+  abfliegen | 相似度: 1.0
+      中文: 起飞，飞离
+      自定义: [ˈapˌfliːɡn̩]
+      Wiktionary: ˈapˌfliːɡn̩
+
+  Abflug (der) | 相似度: 1.0
+      中文: 起飞
+      自定义: [ˈapˌfluːk]
+      Wiktionary: ˈapˌfluːk
+
+  Flughafen (der) | 相似度: 1.0
+      中文: 机场
+      自定义: [ˈfluːkˌhaːfn̩]
+      Wiktionary: ˈfluːkˌhaːfn̩
+
+  Flugzeug (das) | 相似度: 1.0
+      中文: 飞机
+      自定义: [ˈfluːkˌt͡sɔɪ̯k]
+      Wiktionary: ˈfluːkˌt͡sɔɪ̯k
+
+  Formular (das) | 相似度: 1.0
+      中文: 表格
+      自定义: [fɔʁmuˈlaːɐ̯]
+      Wiktionary: fɔʁmuˈlaːɐ̯
+
+  Foto (das) | 相似度: 1.0
+      中文: 照片
+      自定义: [ˈfoːto]
+      Wiktionary: ˈfoːto
+
+  fragen | 相似度: 1.0
+      中文: 问
+      自定义: [ˈfʁaːɡn̩]
+      Wiktionary: ˈfʁaːɡn̩
+
+  Frage (die) | 相似度: 1.0
+      中文: 问题
+      自定义: [ˈfʁaːɡə]
+      Wiktionary: ˈfʁaːɡə
+
+  Frau (die) | 相似度: 1.0
+      中文: 女士；妻子
+      自定义: [fʁaʊ̯]
+      Wiktionary: fʁaʊ̯
+
+  frei | 相似度: 1.0
+      中文: 自由的；空闲的
+      自定义: [fʁaɪ̯]
+      Wiktionary: fʁaɪ̯
+
+  Freizeit (die) | 相似度: 1.0
+      中文: 业余时间
+      自定义: [ˈfʁaɪ̯ˌt͡saɪ̯t]
+      Wiktionary: ˈfʁaɪ̯ˌt͡saɪ̯t
+
+  fremd | 相似度: 1.0
+      中文: 陌生的，外国的
+      自定义: [fʁɛmt]
+      Wiktionary: fʁɛmt
+
+  freuen | 相似度: 1.0
+      中文: 感到高兴
+      自定义: [ˈfʁɔɪ̯ən]
+      Wiktionary: ˈfʁɔɪ̯ən
+
+  Freund (der) | 相似度: 1.0
+      中文: 朋友；男朋友
+      自定义: [fʁɔɪ̯nt]
+      Wiktionary: fʁɔɪ̯nt
+
+  früher | 相似度: 1.0
+      中文: 以前，从前
+      自定义: [ˈfʁyːɐ]
+      Wiktionary: ˈfʁyːɐ
+
+  frühstücken | 相似度: 1.0
+      中文: 吃早餐
+      自定义: [ˈfʁyːˌʃtʏkn̩]
+      Wiktionary: ˈfʁyːˌʃtʏkn̩
+
+  Frühstück (das) | 相似度: 1.0
+      中文: 早餐
+      自定义: [ˈfʁyːˌʃtʏk]
+      Wiktionary: ˈfʁyːˌʃtʏk
+
+  Führung (die) | 相似度: 1.0
+      中文: 导游；带领
+      自定义: [ˈfyːʁʊŋ]
+      Wiktionary: ˈfyːʁʊŋ
+
+  für | 相似度: 1.0
+      中文: 为了；对于；给
+      自定义: [fyːɐ̯]
+      Wiktionary: fyːɐ̯
+
+  Fuß (der) | 相似度: 1.0
+      中文: 脚
+      自定义: [fuːs]
+      Wiktionary: fuːs
+
+  Fußball (der) | 相似度: 1.0
+      中文: 足球
+      自定义: [ˈfuːsˌbal]
+      Wiktionary: ˈfuːsˌbal
+
+  Garten (der) | 相似度: 1.0
+      中文: 花园
+      自定义: [ˈɡaʁtn̩]
+      Wiktionary: ˈɡaʁtn̩
+
+  Gast (der) | 相似度: 1.0
+      中文: 客人
+      自定义: [ɡast]
+      Wiktionary: ɡast
+
+  geben | 相似度: 1.0
+      中文: 给
+      自定义: [ˈɡeːbn̩]
+      Wiktionary: ˈɡeːbn̩
+
+  geboren | 相似度: 1.0
+      中文: 出生
+      自定义: [ɡəˈboːʁən]
+      Wiktionary: ɡəˈboːʁən
+
+  Geburtsjahr (das) | 相似度: 1.0
+      中文: 出生年份
+      自定义: [ɡəˈbuːɐ̯t͡sˌjaːɐ̯]
+      Wiktionary: ɡəˈbuːɐ̯t͡sˌjaːɐ̯
+
+  Geburtsort (der) | 相似度: 1.0
+      中文: 出生地
+      自定义: [ɡəˈbuːɐ̯t͡sˌʔɔʁt]
+      Wiktionary: ɡəˈbuːɐ̯t͡sˌʔɔʁt
+
+  Geburtstag (der) | 相似度: 1.0
+      中文: 生日
+      自定义: [ɡəˈbuːɐ̯t͡sˌtaːk]
+      Wiktionary: ɡəˈbuːɐ̯t͡sˌtaːk
+
+  gefallen | 相似度: 1.0
+      中文: 使喜欢
+      自定义: [ɡəˈfalən]
+      Wiktionary: ɡəˈfalən
+
+  gegen | 相似度: 1.0
+      中文: 反对；朝着；大约
+      自定义: [ˈɡeːɡn̩]
+      Wiktionary: ˈɡeːɡn̩
+
+  gehen | 相似度: 1.0
+      中文: 走；进行；可以
+      自定义: [ˈɡeːən]
+      Wiktionary: ˈɡeːən
+
+  gehören | 相似度: 1.0
+      中文: 属于
+      自定义: [ɡəˈhøːʁən]
+      Wiktionary: ɡəˈhøːʁən
+
+  Geld (das) | 相似度: 1.0
+      中文: 钱
+      自定义: [ɡɛlt]
+      Wiktionary: ɡɛlt
+
+  Gemüse (das) | 相似度: 1.0
+      中文: 蔬菜
+      自定义: [ɡəˈmyːzə]
+      Wiktionary: ɡəˈmyːzə
+
+  Gepäck (das) | 相似度: 1.0
+      中文: 行李
+      自定义: [ɡəˈpɛk]
+      Wiktionary: ɡəˈpɛk
+
+  gerade | 相似度: 1.0
+      中文: 正好，刚刚
+      自定义: [ɡəˈʁaːdə]
+      Wiktionary: ɡəˈʁaːdə
+
+  geradeaus | 相似度: 1.0
+      中文: 笔直向前
+      自定义: [ɡəˈʁaːdəˌʔaʊ̯s]
+      Wiktionary: ɡəʁaːdəˈʔaʊ̯s
+
+  Geschäft (das) | 相似度: 1.0
+      中文: 商店；生意
+      自定义: [ɡəˈʃɛft]
+      Wiktionary: ɡəˈʃɛft
+
+  Geschenk (das) | 相似度: 1.0
+      中文: 礼物
+      自定义: [ɡəˈʃɛŋk]
+      Wiktionary: ɡəˈʃɛŋk
+
+  Geschwister (pl. (die)) | 相似度: 1.0
+      中文: 兄弟姐妹
+      自定义: [ɡəˈʃvɪstɐ]
+      Wiktionary: ɡəˈʃvɪstɐ
+
+  Gespräch (das) | 相似度: 1.0
+      中文: 谈话，对话
+      自定义: [ɡəˈʃpʁɛːç]
+      Wiktionary: ɡəˈʃpʁɛːç
+
+  gestern | 相似度: 1.0
+      中文: 昨天
+      自定义: [ˈɡɛstɐn]
+      Wiktionary: ˈɡɛstɐn
+
+  gestorben | 相似度: 1.0
+      中文: 去世的
+      自定义: [ɡəˈʃtɔʁbn̩]
+      Wiktionary: ɡəˈʃtɔʁbn̩
+
+  Getränk (das) | 相似度: 1.0
+      中文: 饮料
+      自定义: [ɡəˈtʁɛŋk]
+      Wiktionary: ɡəˈtʁɛŋk
+
+  Gewicht (das) | 相似度: 1.0
+      中文: 重量
+      自定义: [ɡəˈvɪçt]
+      Wiktionary: ɡəˈvɪçt
+
+  gewinnen | 相似度: 1.0
+      中文: 赢得
+      自定义: [ɡəˈvɪnən]
+      Wiktionary: ɡəˈvɪnən
+
+  Glas (das) | 相似度: 1.0
+      中文: 玻璃杯；玻璃
+      自定义: [ɡlaːs]
+      Wiktionary: ɡlaːs
+
+  glauben | 相似度: 1.0
+      中文: 相信；认为
+      自定义: [ˈɡlaʊ̯bn̩]
+      Wiktionary: ˈɡlaʊ̯bn̩
+
+  gleich | 相似度: 1.0
+      中文: 相同的；马上；无所谓
+      自定义: [ɡlaɪ̯ç]
+      Wiktionary: ɡlaɪ̯ç
+
+  Gleis (das) | 相似度: 1.0
+      中文: 轨道，站台
+      自定义: [ɡlaɪ̯s]
+      Wiktionary: ɡlaɪ̯s
+
+  Glück (das) | 相似度: 1.0
+      中文: 幸运，幸福
+      自定义: [ɡlʏk]
+      Wiktionary: ɡlʏk
+
+  glücklich | 相似度: 1.0
+      中文: 幸福的，幸运的
+      自定义: [ˈɡlʏklɪç]
+      Wiktionary: ˈɡlʏklɪç
+
+  Glückwunsch (der) | 相似度: 1.0
+      中文: 祝贺
+      自定义: [ˈɡlʏkˌvʊnʃ]
+      Wiktionary: ˈɡlʏkˌvʊnʃ
+
+  Grad (der) | 相似度: 1.0
+      中文: 度（温度）
+      自定义: [ɡʁaːt]
+      Wiktionary: ɡʁaːt
+
+  gratulieren | 相似度: 1.0
+      中文: 祝贺
+      自定义: [ɡʁatuˈliːʁən]
+      Wiktionary: ɡʁatuˈliːʁən
+
+  grillen | 相似度: 1.0
+      中文: 烧烤
+      自定义: [ˈɡʁɪlən]
+      Wiktionary: ˈɡʁɪlən
+
+  groß | 相似度: 1.0
+      中文: 大的；高的
+      自定义: [ɡʁoːs]
+      Wiktionary: ɡʁoːs
+
+  Größe (die) | 相似度: 1.0
+      中文: 尺寸；大小
+      自定义: [ˈɡʁøːsə]
+      Wiktionary: ˈɡʁøːsə
+
+  Großeltern (pl. (die)) | 相似度: 1.0
+      中文: 祖父母，外祖父母
+      自定义: [ˈɡʁoːsˌʔɛltɐn]
+      Wiktionary: ˈɡʁoːsˌʔɛltɐn
+
+  Großmutter (die) | 相似度: 1.0
+      中文: 祖母，外祖母
+      自定义: [ˈɡʁoːsˌmʊtɐ]
+      Wiktionary: ˈɡʁoːsˌmʊtɐ
+
+  Großvater (der) | 相似度: 1.0
+      中文: 祖父，外祖父
+      自定义: [ˈɡʁoːsˌfaːtɐ]
+      Wiktionary: ˈɡʁoːsˌfaːtɐ
+
+  Gruppe (die) | 相似度: 1.0
+      中文: 组，群
+      自定义: [ˈɡʁʊpə]
+      Wiktionary: ˈɡʁʊpə
+
+  Gruß (der) | 相似度: 1.0
+      中文: 问候
+      自定义: [ɡʁuːs]
+      Wiktionary: ɡʁuːs
+
+  gültig | 相似度: 1.0
+      中文: 有效的
+      自定义: [ˈɡʏltɪç]
+      Wiktionary: ˈɡʏltɪç
+
+  günstig | 相似度: 1.0
+      中文: 有利的；便宜的
+      自定义: [ˈɡʏnstɪç]
+      Wiktionary: ˈɡʏnstɪç
+
+  gut | 相似度: 1.0
+      中文: 好的
+      自定义: [ɡuːt]
+      Wiktionary: ɡuːt
+
+  Haar (das) | 相似度: 1.0
+      中文: 头发
+      自定义: [haːɐ̯]
+      Wiktionary: haːɐ̯
+
+  haben | 相似度: 1.0
+      中文: 有
+      自定义: [ˈhaːbn̩]
+      Wiktionary: ˈhaːbn̩
+
+  Hähnchen (das) | 相似度: 1.0
+      中文: 小鸡；鸡肉
+      自定义: [ˈhɛːnçən]
+      Wiktionary: ˈhɛːnçən
+
+  Halle (die) | 相似度: 1.0
+      中文: 大厅，馆
+      自定义: [ˈhalə]
+      Wiktionary: ˈhalə
+
+  hallo | 相似度: 1.0
+      中文: 你好（问候语）
+      自定义: [haˈloː]
+      Wiktionary: ˈhalo
+
+  halten | 相似度: 1.0
+      中文: 停；持；认为
+      自定义: [ˈhaltn̩]
+      Wiktionary: ˈhaltn̩
+
+  Haltestelle (die) | 相似度: 1.0
+      中文: 车站，站点
+      自定义: [ˈhaltəˌʃtɛlə]
+      Wiktionary: ˈhaltəˌʃtɛlə
+
+  Hand (die) | 相似度: 1.0
+      中文: 手
+      自定义: [hant]
+      Wiktionary: hant
+
+  Handy (das) | 相似度: 1.0
+      中文: 手机
+      自定义: [ˈhɛndi]
+      Wiktionary: ˈhɛndi
+
+  Haus (das) | 相似度: 1.0
+      中文: 房子；家
+      自定义: [haʊ̯s]
+      Wiktionary: haʊ̯s
+
+  Hausaufgabe (die) | 相似度: 1.0
+      中文: 家庭作业
+      自定义: [ˈhaʊ̯sˌʔaʊ̯fɡaːbə]
+      Wiktionary: ˈhaʊ̯sʔaʊ̯fˌɡaːbə
+
+  Hausfrau (die) | 相似度: 1.0
+      中文: 家庭主妇
+      自定义: [ˈhaʊ̯sˌfʁaʊ̯]
+      Wiktionary: ˈhaʊ̯sˌfʁaʊ̯
+
+  Heimat (die) | 相似度: 1.0
+      中文: 家乡，故乡
+      自定义: [ˈhaɪ̯maːt]
+      Wiktionary: ˈhaɪ̯maːt
+
+  heiraten | 相似度: 1.0
+      中文: 结婚
+      自定义: [ˈhaɪ̯ʁaːtn̩]
+      Wiktionary: ˈhaɪ̯ʁaːtn̩
+
+  heißen | 相似度: 1.0
+      中文: 名叫；意思是
+      自定义: [ˈhaɪ̯sn̩]
+      Wiktionary: ˈhaɪ̯sn̩
+
+  helfen | 相似度: 1.0
+      中文: 帮助
+      自定义: [ˈhɛlfn̩]
+      Wiktionary: ˈhɛlfn̩
+
+  hell | 相似度: 1.0
+      中文: 明亮的
+      自定义: [hɛl]
+      Wiktionary: hɛl
+
+  Herd (der) | 相似度: 1.0
+      中文: 灶台，炉灶
+      自定义: [heːɐ̯t]
+      Wiktionary: heːɐ̯t
+
+  Herr (der) | 相似度: 1.0
+      中文: 先生；男士
+      自定义: [hɛʁ]
+      Wiktionary: hɛʁ
+
+  herzlich | 相似度: 1.0
+      中文: 衷心的，诚挚的
+      自定义: [ˈhɛʁt͡slɪç]
+      Wiktionary: ˈhɛʁt͡slɪç
+
+  heute | 相似度: 1.0
+      中文: 今天
+      自定义: [ˈhɔɪ̯tə]
+      Wiktionary: ˈhɔɪ̯tə
+
+  hier | 相似度: 1.0
+      中文: 这里
+      自定义: [hiːɐ̯]
+      Wiktionary: hiːɐ̯
+
+  Hilfe (die) | 相似度: 1.0
+      中文: 帮助
+      自定义: [ˈhɪlfə]
+      Wiktionary: ˈhɪlfə
+
+  hinten | 相似度: 1.0
+      中文: 在后面
+      自定义: [ˈhɪntn̩]
+      Wiktionary: ˈhɪntn̩
+
+  Hobby (das) | 相似度: 1.0
+      中文: 爱好
+      自定义: [ˈhɔbi]
+      Wiktionary: ˈhɔbi
+
+  hoch | 相似度: 1.0
+      中文: 高的
+      自定义: [hoːx]
+      Wiktionary: hoːx
+
+  Hochzeit (die) | 相似度: 1.0
+      中文: 婚礼
+      自定义: [ˈhɔxˌt͡saɪ̯t]
+      Wiktionary: ˈhɔxˌt͡saɪ̯t
+
+  holen | 相似度: 1.0
+      中文: 取来，拿来
+      自定义: [ˈhoːlən]
+      Wiktionary: ˈhoːlən
+
+  hören | 相似度: 1.0
+      中文: 听
+      自定义: [ˈhøːʁən]
+      Wiktionary: ˈhøːʁən
+
+  Hotel (das) | 相似度: 1.0
+      中文: 酒店
+      自定义: [hoˈtɛl]
+      Wiktionary: hoˈtɛl
+
+  Hund (der) | 相似度: 1.0
+      中文: 狗
+      自定义: [hʊnt]
+      Wiktionary: hʊnt
+
+  Hunger (der) | 相似度: 1.0
+      中文: 饥饿
+      自定义: [ˈhʊŋɐ]
+      Wiktionary: ˈhʊŋɐ
+
+  ich | 相似度: 1.0
+      中文: 我
+      自定义: [ɪç]
+      Wiktionary: ɪç
+
+  ihr | 相似度: 1.0
+      中文: 你们；她的；他们的
+      自定义: [iːɐ̯]
+      Wiktionary: iːɐ̯
+
+  immer | 相似度: 1.0
+      中文: 总是，一直
+      自定义: [ˈɪmɐ]
+      Wiktionary: ˈɪmɐ
+
+  in | 相似度: 1.0
+      中文: 在...里面；到...里面
+      自定义: [ɪn]
+      Wiktionary: ɪn
+
+  Information (die) | 相似度: 1.0
+      中文: 信息；问讯处
+      自定义: [ɪnfɔʁmaˈt͡si̯oːn]
+      Wiktionary: ɪnfɔʁmaˈt͡si̯oːn
+
+  international | 相似度: 1.0
+      中文: 国际的
+      自定义: [ɪntɐnat͡si̯oˈnaːl]
+      Wiktionary: ˌɪntɐnat͡si̯oˈnaːl
+
+  Internet (das) | 相似度: 1.0
+      中文: 互联网
+      自定义: [ˈɪntɐnɛt]
+      Wiktionary: ˈɪntɐnɛt
+
+  ja | 相似度: 1.0
+      中文: 是；对
+      自定义: [jaː]
+      Wiktionary: jaː
+
+  Jacke (die) | 相似度: 1.0
+      中文: 夹克
+      自定义: [ˈjakə]
+      Wiktionary: ˈjakə
+
+  jetzt | 相似度: 1.0
+      中文: 现在
+      自定义: [jɛt͡st]
+      Wiktionary: jɛt͡st
+
+  Job (der) | 相似度: 1.0
+      中文: 工作（多指临时或非正式）
+      自定义: [d͡ʒɔp]
+      Wiktionary: d͡ʒɔp
+
+  jung | 相似度: 1.0
+      中文: 年轻的
+      自定义: [jʊŋ]
+      Wiktionary: jʊŋ
+
+  Junge (der) | 相似度: 1.0
+      中文: 男孩
+      自定义: [ˈjʊŋə]
+      Wiktionary: ˈjʊŋə
+
+  Kaffee (der) | 相似度: 1.0
+      中文: 咖啡
+      自定义: [ˈkafeː]
+      Wiktionary: ˈkafe
+
+  kaputt | 相似度: 1.0
+      中文: 坏的，破碎的
+      自定义: [kaˈpʊt]
+      Wiktionary: kaˈpʊt
+
+  Karte (die) | 相似度: 1.0
+      中文: 卡片；门票；地图；菜单
+      自定义: [ˈkaʁtə]
+      Wiktionary: ˈkaʁtə
+
+  Kartoffel (die) | 相似度: 1.0
+      中文: 土豆
+      自定义: [kaʁˈtɔfl̩]
+      Wiktionary: kaʁˈtɔfl̩
+
+  Kasse (die) | 相似度: 1.0
+      中文: 收银台
+      自定义: [ˈkasə]
+      Wiktionary: ˈkasə
+
+  kaufen | 相似度: 1.0
+      中文: 购买
+      自定义: [ˈkaʊ̯fn̩]
+      Wiktionary: ˈkaʊ̯fn̩
+
+  kein | 相似度: 1.0
+      中文: 没有，不
+      自定义: [kaɪ̯n]
+      Wiktionary: kaɪ̯n
+
+  kennen | 相似度: 1.0
+      中文: 认识，了解
+      自定义: [ˈkɛnən]
+      Wiktionary: ˈkɛnən
+
+  kennenlernen | 相似度: 1.0
+      中文: 结识，认识
+      自定义: [ˈkɛnənˌlɛʁnən]
+      Wiktionary: ˈkɛnənˌlɛʁnən
+
+  Kind (das) | 相似度: 1.0
+      中文: 孩子
+      自定义: [kɪnt]
+      Wiktionary: kɪnt
+
+  Kindergarten (der) | 相似度: 1.0
+      中文: 幼儿园
+      自定义: [ˈkɪndɐˌɡaʁtn̩]
+      Wiktionary: ˈkɪndɐˌɡaʁtn̩
+
+  Kino (das) | 相似度: 1.0
+      中文: 电影院
+      自定义: [ˈkiːno]
+      Wiktionary: ˈkiːno
+
+  Kiosk (der) | 相似度: 1.0
+      中文: 报刊亭，小卖部
+      自定义: [kiˈɔsk]
+      Wiktionary: ˈkiːɔsk
+
+  klar | 相似度: 1.0
+      中文: 清楚的；当然
+      自定义: [klaːɐ̯]
+      Wiktionary: klaːɐ̯
+
+  Klasse (die) | 相似度: 1.0
+      中文: 班级；等级
+      自定义: [ˈklasə]
+      Wiktionary: ˈklasə
+
+  Kleidung (die) | 相似度: 1.0
+      中文: 衣服
+      自定义: [ˈklaɪ̯dʊŋ]
+      Wiktionary: ˈklaɪ̯dʊŋ
+
+  klein | 相似度: 1.0
+      中文: 小的
+      自定义: [klaɪ̯n]
+      Wiktionary: klaɪ̯n
+
+  kochen | 相似度: 1.0
+      中文: 烹饪；煮
+      自定义: [ˈkɔxn̩]
+      Wiktionary: ˈkɔxn̩
+
+  Koffer (der) | 相似度: 1.0
+      中文: 行李箱
+      自定义: [ˈkɔfɐ]
+      Wiktionary: ˈkɔfɐ
+
+  Kollege (der) | 相似度: 1.0
+      中文: 同事
+      自定义: [kɔˈleːɡə]
+      Wiktionary: kɔˈleːɡə
+
+  kommen | 相似度: 1.0
+      中文: 来
+      自定义: [ˈkɔmən]
+      Wiktionary: ˈkɔmən
+
+  können | 相似度: 1.0
+      中文: 能够；会
+      自定义: [ˈkœnən]
+      Wiktionary: ˈkœnən
+
+  Konto (das) | 相似度: 1.0
+      中文: 账户
+      自定义: [ˈkɔnto]
+      Wiktionary: ˈkɔnto
+
+  Kopf (der) | 相似度: 1.0
+      中文: 头
+      自定义: [kɔp͡f]
+      Wiktionary: kɔp͡f
+
+  kosten | 相似度: 1.0
+      中文: 花费；品尝
+      自定义: [ˈkɔstn̩]
+      Wiktionary: ˈkɔstn̩
+
+  krank | 相似度: 1.0
+      中文: 生病的
+      自定义: [kʁaŋk]
+      Wiktionary: kʁaŋk
+
+  kriegen | 相似度: 1.0
+      中文: 得到（口语）
+      自定义: [ˈkʁiːɡn̩]
+      Wiktionary: ˈkʁiːɡn̩
+
+  Küche (die) | 相似度: 1.0
+      中文: 厨房；菜肴
+      自定义: [ˈkʏçə]
+      Wiktionary: ˈkʏçə
+
+  Kuchen (der) | 相似度: 1.0
+      中文: 蛋糕
+      自定义: [ˈkuːxn̩]
+      Wiktionary: ˈkuːxn̩
+
+  Kugelschreiber (der) | 相似度: 1.0
+      中文: 圆珠笔
+      自定义: [ˈkuːɡl̩ˌʃʁaɪ̯bɐ]
+      Wiktionary: ˈkuːɡl̩ˌʃʁaɪ̯bɐ
+
+  Kühlschrank (der) | 相似度: 1.0
+      中文: 冰箱
+      自定义: [ˈkyːlˌʃʁaŋk]
+      Wiktionary: ˈkyːlˌʃʁaŋk
+
+  kulturell | 相似度: 1.0
+      中文: 文化的
+      自定义: [kʊltuˈʁɛl]
+      Wiktionary: kʊltuˈʁɛl
+
+  kümmern | 相似度: 1.0
+      中文: 照顾，关心
+      自定义: [ˈkʏmɐn]
+      Wiktionary: ˈkʏmɐn
+
+  Kunde (der) | 相似度: 1.0
+      中文: 顾客
+      自定义: [ˈkʊndə]
+      Wiktionary: ˈkʊndə
+
+  Kurs (der) | 相似度: 1.0
+      中文: 课程；汇率
+      自定义: [kʊʁs]
+      Wiktionary: kʊʁs
+
+  kurz | 相似度: 1.0
+      中文: 短的；短暂的
+      自定义: [kʊʁt͡s]
+      Wiktionary: kʊʁt͡s
+
+  lachen | 相似度: 1.0
+      中文: 笑
+      自定义: [ˈlaxn̩]
+      Wiktionary: ˈlaxn̩
+
+  Laden (der) | 相似度: 1.0
+      中文: 商店
+      自定义: [ˈlaːdn̩]
+      Wiktionary: ˈlaːdn̩
+
+  Land (das) | 相似度: 1.0
+      中文: 国家；陆地；农村
+      自定义: [lant]
+      Wiktionary: lant
+
+  lang | 相似度: 1.0
+      中文: 长的；长久的
+      自定义: [laŋ]
+      Wiktionary: laŋ
+
+  lange | 相似度: 1.0
+      中文: 长久地
+      自定义: [ˈlaŋə]
+      Wiktionary: ˈlaŋə
+
+  langsam | 相似度: 1.0
+      中文: 慢的
+      自定义: [ˈlaŋzaːm]
+      Wiktionary: ˈlaŋzaːm
+
+  laufen | 相似度: 1.0
+      中文: 跑；行走；运转
+      自定义: [ˈlaʊ̯fn̩]
+      Wiktionary: ˈlaʊ̯fn̩
+
+  laut | 相似度: 1.0
+      中文: 大声的；根据
+      自定义: [laʊ̯t]
+      Wiktionary: laʊ̯t
+
+  leben | 相似度: 1.0
+      中文: 生活；居住；活着
+      自定义: [ˈleːbn̩]
+      Wiktionary: ˈleːbn̩
+
+  Lebensmittel (pl. (die)) | 相似度: 1.0
+      中文: 食品
+      自定义: [ˈleːbn̩sˌmɪtl̩]
+      Wiktionary: ˈleːbn̩sˌmɪtl̩
+
+  ledig | 相似度: 1.0
+      中文: 单身的
+      自定义: [ˈleːdɪç]
+      Wiktionary: ˈleːdɪç
+
+  legen | 相似度: 1.0
+      中文: 平放，放置
+      自定义: [ˈleːɡn̩]
+      Wiktionary: ˈleːɡn̩
+
+  Lehrer (der) | 相似度: 1.0
+      中文: 教师
+      自定义: [ˈleːʁɐ]
+      Wiktionary: ˈleːʁɐ
+
+  leicht | 相似度: 1.0
+      中文: 轻的；容易的
+      自定义: [laɪ̯çt]
+      Wiktionary: laɪ̯çt
+
+  leider | 相似度: 1.0
+      中文: 遗憾地，可惜
+      自定义: [ˈlaɪ̯dɐ]
+      Wiktionary: ˈlaɪ̯dɐ
+
+  leise | 相似度: 1.0
+      中文: 安静的；小声的
+      自定义: [ˈlaɪ̯zə]
+      Wiktionary: ˈlaɪ̯zə
+
+  lernen | 相似度: 1.0
+      中文: 学习
+      自定义: [ˈlɛʁnən]
+      Wiktionary: ˈlɛʁnən
+
+  lesen | 相似度: 1.0
+      中文: 阅读
+      自定义: [ˈleːzn̩]
+      Wiktionary: ˈleːzn̩
+
+  letzt- | 相似度: 1.0
+      中文: 最后的
+      自定义: [lɛt͡st]
+      Wiktionary: lɛt͡st
+
+  Leute (pl. (die)) | 相似度: 1.0
+      中文: 人们
+      自定义: [ˈlɔɪ̯tə]
+      Wiktionary: ˈlɔɪ̯tə
+
+  Licht (das) | 相似度: 1.0
+      中文: 灯；光
+      自定义: [lɪçt]
+      Wiktionary: lɪçt
+
+  lieben | 相似度: 1.0
+      中文: 爱
+      自定义: [ˈliːbn̩]
+      Wiktionary: ˈliːbn̩
+
+  lieber | 相似度: 1.0
+      中文: 更喜欢，宁可
+      自定义: [ˈliːbɐ]
+      Wiktionary: ˈliːbɐ
+
+  Lieblings- | 相似度: 1.0
+      中文: 最喜爱的
+      自定义: [ˈliːplɪŋs]
+      Wiktionary: ˈliːplɪŋs
+
+  Lied (das) | 相似度: 1.0
+      中文: 歌曲
+      自定义: [liːt]
+      Wiktionary: liːt
+
+  liegen | 相似度: 1.0
+      中文: 位于；平躺；放着
+      自定义: [ˈliːɡn̩]
+      Wiktionary: ˈliːɡn̩
+
+  links | 相似度: 1.0
+      中文: 左边；向左
+      自定义: [lɪŋks]
+      Wiktionary: lɪŋks
+
+  Lkw (der) | 相似度: 1.0
+      中文: 载重汽车，卡车
+      自定义: [ˈɛlkaːˌveː]
+      Wiktionary: ˈɛlkaveː
+
+  Lokal (das) | 相似度: 1.0
+      中文: 小餐馆，酒馆
+      自定义: [loˈkaːl]
+      Wiktionary: loˈkaːl
+
+  Lösung (die) | 相似度: 1.0
+      中文: 答案；解决
+      自定义: [ˈløːzʊŋ]
+      Wiktionary: ˈløːzʊŋ
+
+  lustig | 相似度: 1.0
+      中文: 有趣的，滑稽的
+      自定义: [ˈlʊstɪç]
+      Wiktionary: ˈlʊstɪç
+
+  machen | 相似度: 1.0
+      中文: 做；使得
+      自定义: [ˈmaxn̩]
+      Wiktionary: ˈmaxn̩
+
+  Mädchen (das) | 相似度: 1.0
+      中文: 女孩
+      自定义: [ˈmɛːtçən]
+      Wiktionary: ˈmɛːtçən
+
+  man | 相似度: 1.0
+      中文: 人们，有人
+      自定义: [man]
+      Wiktionary: man
+
+  Mann (der) | 相似度: 1.0
+      中文: 男人；丈夫
+      自定义: [man]
+      Wiktionary: man
+
+  männlich | 相似度: 1.0
+      中文: 男性的
+      自定义: [ˈmɛnlɪç]
+      Wiktionary: ˈmɛnlɪç
+
+  Maschine (die) | 相似度: 1.0
+      中文: 机器
+      自定义: [maˈʃiːnə]
+      Wiktionary: maˈʃiːnə
+
+  Meer (das) | 相似度: 1.0
+      中文: 海
+      自定义: [meːɐ̯]
+      Wiktionary: meːɐ̯
+
+  mehr | 相似度: 1.0
+      中文: 更多
+      自定义: [meːɐ̯]
+      Wiktionary: meːɐ̯
+
+  mein | 相似度: 1.0
+      中文: 我的
+      自定义: [maɪ̯n]
+      Wiktionary: maɪ̯n
+
+  Mensch (der) | 相似度: 1.0
+      中文: 人
+      自定义: [mɛnʃ]
+      Wiktionary: mɛnʃ
+
+  mieten | 相似度: 1.0
+      中文: 租用
+      自定义: [ˈmiːtn̩]
+      Wiktionary: ˈmiːtn̩
+
+  Miete (die) | 相似度: 1.0
+      中文: 租金
+      自定义: [ˈmiːtə]
+      Wiktionary: ˈmiːtə
+
+  Milch (die) | 相似度: 1.0
+      中文: 牛奶
+      自定义: [mɪlç]
+      Wiktionary: mɪlç
+
+  mit | 相似度: 1.0
+      中文: 和...一起；用
+      自定义: [mɪt]
+      Wiktionary: mɪt
+
+  mitbringen | 相似度: 1.0
+      中文: 带来
+      自定义: [ˈmɪtˌbʁɪŋən]
+      Wiktionary: ˈmɪtˌbʁɪŋən
+
+  mitkommen | 相似度: 1.0
+      中文: 一起来
+      自定义: [ˈmɪtˌkɔmən]
+      Wiktionary: ˈmɪtˌkɔmən
+
+  mitmachen | 相似度: 1.0
+      中文: 一起做，参加
+      自定义: [ˈmɪtˌmaxn̩]
+      Wiktionary: ˈmɪtˌmaxn̩
+
+  mitnehmen | 相似度: 1.0
+      中文: 带走；顺便买
+      自定义: [ˈmɪtˌneːmən]
+      Wiktionary: ˈmɪtˌneːmən
+
+  Mitte (die) | 相似度: 1.0
+      中文: 中间，中心
+      自定义: [ˈmɪtə]
+      Wiktionary: ˈmɪtə
+
+  Möbel (pl. (die)) | 相似度: 1.0
+      中文: 家具
+      自定义: [ˈmøːbl̩]
+      Wiktionary: ˈmøːbl̩
+
+  möchten | 相似度: 1.0
+      中文: 想要（礼貌表达）
+      自定义: [ˈmœçtn̩]
+      Wiktionary: ˈmœçtn̩
+
+  mögen | 相似度: 1.0
+      中文: 喜欢；想要
+      自定义: [ˈmøːɡn̩]
+      Wiktionary: ˈmøːɡn̩
+
+  möglich | 相似度: 1.0
+      中文: 可能的
+      自定义: [ˈmøːklɪç]
+      Wiktionary: ˈmøːklɪç
+
+  Moment (der) | 相似度: 1.0
+      中文: 片刻，时刻
+      自定义: [moˈmɛnt]
+      Wiktionary: moˈmɛnt
+
+  morgen | 相似度: 1.0
+      中文: 明天
+      自定义: [ˈmɔʁɡn̩]
+      Wiktionary: ˈmɔʁɡn̩
+
+  müde | 相似度: 1.0
+      中文: 疲倦的
+      自定义: [ˈmyːdə]
+      Wiktionary: ˈmyːdə
+
+  Mund (der) | 相似度: 1.0
+      中文: 嘴
+      自定义: [mʊnt]
+      Wiktionary: mʊnt
+
+  müssen | 相似度: 1.0
+      中文: 必须，不得不
+      自定义: [ˈmʏsn̩]
+      Wiktionary: ˈmʏsn̩
+
+  Mutter (die) | 相似度: 1.0
+      中文: 母亲
+      自定义: [ˈmʊtɐ]
+      Wiktionary: ˈmʊtɐ
+
+  nach | 相似度: 1.0
+      中文: 向，往；在...之后
+      自定义: [naːx]
+      Wiktionary: naːx
+
+  Name (der) | 相似度: 1.0
+      中文: 名字
+      自定义: [ˈnaːmə]
+      Wiktionary: ˈnaːmə
+
+  nehmen | 相似度: 1.0
+      中文: 拿；取；乘坐
+      自定义: [ˈneːmən]
+      Wiktionary: ˈneːmən
+
+  nein | 相似度: 1.0
+      中文: 不
+      自定义: [naɪ̯n]
+      Wiktionary: naɪ̯n
+
+  neu | 相似度: 1.0
+      中文: 新的
+      自定义: [nɔɪ̯]
+      Wiktionary: nɔɪ̯
+
+  nicht | 相似度: 1.0
+      中文: 不
+      自定义: [nɪçt]
+      Wiktionary: nɪçt
+
+  nichts | 相似度: 1.0
+      中文: 没有什么
+      自定义: [nɪçt͡s]
+      Wiktionary: nɪçt͡s
+
+  nie | 相似度: 1.0
+      中文: 从不
+      自定义: [niː]
+      Wiktionary: niː
+
+  noch | 相似度: 1.0
+      中文: 还，仍然；再
+      自定义: [nɔx]
+      Wiktionary: nɔx
+
+  normal | 相似度: 1.0
+      中文: 正常的
+      自定义: [nɔʁˈmaːl]
+      Wiktionary: nɔʁˈmaːl
+
+  Nummer (die) | 相似度: 1.0
+      中文: 号码
+      自定义: [ˈnʊmɐ]
+      Wiktionary: ˈnʊmɐ
+
+  nur | 相似度: 1.0
+      中文: 只，仅仅
+      自定义: [nuːɐ̯]
+      Wiktionary: nuːɐ̯
+
+  oben | 相似度: 1.0
+      中文: 上面
+      自定义: [ˈoːbn̩]
+      Wiktionary: ˈoːbn̩
+
+  oder | 相似度: 1.0
+      中文: 或者
+      自定义: [ˈoːdɐ]
+      Wiktionary: ˈoːdɐ
+
+  öffnen | 相似度: 1.0
+      中文: 打开
+      自定义: [ˈœfnən]
+      Wiktionary: ˈœfnən
+
+  geöffnet | 相似度: 1.0
+      中文: 开着的，营业中的
+      自定义: [ɡəˈœfnət]
+      Wiktionary: ɡəˈʔœfnət
+
+  oft | 相似度: 1.0
+      中文: 经常
+      自定义: [ɔft]
+      Wiktionary: ɔft
+
+  ohne | 相似度: 1.0
+      中文: 没有
+      自定义: [ˈoːnə]
+      Wiktionary: ˈoːnə
+
+  Öl (das) | 相似度: 1.0
+      中文: 油
+      自定义: [øːl]
+      Wiktionary: øːl
+
+  Oma (die) | 相似度: 1.0
+      中文: 奶奶，外婆
+      自定义: [ˈoːma]
+      Wiktionary: ˈoːma
+
+  Opa (der) | 相似度: 1.0
+      中文: 爷爷，外公
+      自定义: [ˈoːpa]
+      Wiktionary: ˈoːpa
+
+  Ordnung (die) | 相似度: 1.0
+      中文: 秩序；整齐
+      自定义: [ˈɔʁdnʊŋ]
+      Wiktionary: ˈɔʁdnʊŋ
+
+  Ort (der) | 相似度: 1.0
+      中文: 地方，地点
+      自定义: [ɔʁt]
+      Wiktionary: ɔʁt
+
+  Papier (das) | 相似度: 1.0
+      中文: 纸
+      自定义: [paˈpiːɐ̯]
+      Wiktionary: paˈpiːɐ̯
+
+  Papiere (pl. (die)) | 相似度: 1.0
+      中文: 证件，文件
+      自定义: [paˈpiːʁə]
+      Wiktionary: paˈpiːʁə
+
+  Partner (der) | 相似度: 1.0
+      中文: 伙伴，搭档
+      自定义: [ˈpaʁtnɐ]
+      Wiktionary: ˈpaʁtnɐ
+
+  Pass (der) | 相似度: 1.0
+      中文: 护照
+      自定义: [pas]
+      Wiktionary: pas
+
+  Pause (die) | 相似度: 1.0
+      中文: 休息，间歇
+      自定义: [ˈpaʊ̯zə]
+      Wiktionary: ˈpaʊ̯zə
+
+  Plan (der) | 相似度: 1.0
+      中文: 计划；地图
+      自定义: [plaːn]
+      Wiktionary: plaːn
+
+  Platz (der) | 相似度: 1.0
+      中文: 位置；座位；广场
+      自定义: [plat͡s]
+      Wiktionary: plat͡s
+
+  Polizei (die) | 相似度: 1.0
+      中文: 警察；警察局
+      自定义: [poliˈt͡saɪ̯]
+      Wiktionary: poliˈt͡saɪ̯
+
+  Pommes frites (pl. (die)) | 相似度: 1.0
+      中文: 炸薯条
+      自定义: [pɔm ˈfʁɪt]
+      Wiktionary: pɔmˈfʁɪt
+
+  Post (die) | 相似度: 1.0
+      中文: 邮局；邮件
+      自定义: [pɔst]
+      Wiktionary: pɔst
+
+  Postleitzahl (die) | 相似度: 1.0
+      中文: 邮政编码
+      自定义: [ˈpɔstlaɪ̯tˌt͡saːl]
+      Wiktionary: ˈpɔstlaɪ̯tˌt͡saːl
+
+  Praktikum (das) | 相似度: 1.0
+      中文: 实习
+      自定义: [ˈpʁaktikʊm]
+      Wiktionary: ˈpʁaktikʊm
+
+  Praxis (die) | 相似度: 1.0
+      中文: 诊所；实践
+      自定义: [ˈpʁaksɪs]
+      Wiktionary: ˈpʁaksɪs
+
+  Preis (der) | 相似度: 1.0
+      中文: 价格；奖品
+      自定义: [pʁaɪ̯s]
+      Wiktionary: pʁaɪ̯s
+
+  Problem (das) | 相似度: 1.0
+      中文: 问题
+      自定义: [pʁoˈbleːm]
+      Wiktionary: pʁoˈbleːm
+
+  Prospekt (der) | 相似度: 1.0
+      中文: 广告册，说明书
+      自定义: [pʁoˈspɛkt]
+      Wiktionary: pʁoˈspɛkt
+
+  Prüfung (die) | 相似度: 1.0
+      中文: 考试
+      自定义: [ˈpʁyːfʊŋ]
+      Wiktionary: ˈpʁyːfʊŋ
+
+  pünktlich | 相似度: 1.0
+      中文: 准时的
+      自定义: [ˈpʏŋktlɪç]
+      Wiktionary: ˈpʏŋktlɪç
+
+  Rad fahren | 相似度: 1.0
+      中文: 骑自行车
+      自定义: [ʁaːt ˈfaːʁən]
+      Wiktionary: ˈʁaːtˌfaːʁən
+
+  rauchen | 相似度: 1.0
+      中文: 吸烟
+      自定义: [ˈʁaʊ̯xn̩]
+      Wiktionary: ˈʁaʊ̯xn̩
+
+  Raum (der) | 相似度: 1.0
+      中文: 房间；空间
+      自定义: [ʁaʊ̯m]
+      Wiktionary: ʁaʊ̯m
+
+  Rechnung (die) | 相似度: 1.0
+      中文: 账单
+      自定义: [ˈʁɛçnʊŋ]
+      Wiktionary: ˈʁɛçnʊŋ
+
+  rechts | 相似度: 1.0
+      中文: 右边；向右
+      自定义: [ʁɛçt͡s]
+      Wiktionary: ʁɛçt͡s
+
+  regnen | 相似度: 1.0
+      中文: 下雨
+      自定义: [ˈʁeːɡnən]
+      Wiktionary: ˈʁeːɡnən
+
+  Regen (der) | 相似度: 1.0
+      中文: 雨
+      自定义: [ˈʁeːɡn̩]
+      Wiktionary: ˈʁeːɡn̩
+
+  Reis (der) | 相似度: 1.0
+      中文: 大米，米饭
+      自定义: [ʁaɪ̯s]
+      Wiktionary: ʁaɪ̯s
+
+  reisen | 相似度: 1.0
+      中文: 旅行
+      自定义: [ˈʁaɪ̯zn̩]
+      Wiktionary: ˈʁaɪ̯zn̩
+
+  Reise (die) | 相似度: 1.0
+      中文: 旅行
+      自定义: [ˈʁaɪ̯zə]
+      Wiktionary: ˈʁaɪ̯zə
+
+  Reisebüro (das) | 相似度: 1.0
+      中文: 旅行社
+      自定义: [ˈʁaɪ̯zəbyˌʁoː]
+      Wiktionary: ˈʁaɪ̯zəbyˌʁoː
+
+  Reiseführer (der) | 相似度: 1.0
+      中文: 旅行指南；导游
+      自定义: [ˈʁaɪ̯zəˌfyːʁɐ]
+      Wiktionary: ˈʁaɪ̯zəˌfyːʁɐ
+
+  reparieren | 相似度: 1.0
+      中文: 修理
+      自定义: [ʁepaˈʁiːʁən]
+      Wiktionary: ʁepaˈʁiːʁən
+
+  Reparatur (die) | 相似度: 1.0
+      中文: 修理
+      自定义: [ʁepaʁaˈtuːɐ̯]
+      Wiktionary: ʁepaʁaˈtuːɐ̯
+
+  Restaurant (das) | 相似度: 1.0
+      中文: 餐厅
+      自定义: [ʁɛstoˈʁɑ̃ː]
+      Wiktionary: ʁɛstoˈʁɑ̃ː
+
+  Rezeption (die) | 相似度: 1.0
+      中文: 接待处，前台
+      自定义: [ʁet͡sɛpˈt͡si̯oːn]
+      Wiktionary: ˌʁet͡sɛpˈt͡si̯oːn
+
+  richtig | 相似度: 1.0
+      中文: 正确的；真正的
+      自定义: [ˈʁɪçtɪç]
+      Wiktionary: ˈʁɪçtɪç
+
+  riechen | 相似度: 1.0
+      中文: 闻起来
+      自定义: [ˈʁiːçn̩]
+      Wiktionary: ˈʁiːçn̩
+
+  ruhig | 相似度: 1.0
+      中文: 安静的
+      自定义: [ˈʁuːɪç]
+      Wiktionary: ˈʁuːɪç
+
+  Saft (der) | 相似度: 1.0
+      中文: 果汁
+      自定义: [zaft]
+      Wiktionary: zaft
+
+  sagen | 相似度: 1.0
+      中文: 说
+      自定义: [ˈzaːɡn̩]
+      Wiktionary: ˈzaːɡn̩
+
+  Salat (der) | 相似度: 1.0
+      中文: 沙拉
+      自定义: [zaˈlaːt]
+      Wiktionary: zaˈlaːt
+
+  Salz (das) | 相似度: 1.0
+      中文: 盐
+      自定义: [zalt͡s]
+      Wiktionary: zalt͡s
+
+  Satz (der) | 相似度: 1.0
+      中文: 句子
+      自定义: [zat͡s]
+      Wiktionary: zat͡s
+
+  S-Bahn (die) | 相似度: 1.0
+      中文: 城际快铁（市域铁路）
+      自定义: [ˈɛsˌbaːn]
+      Wiktionary: ˈɛsˌbaːn
+
+  Schalter (der) | 相似度: 1.0
+      中文: 窗口；开关
+      自定义: [ˈʃaltɐ]
+      Wiktionary: ˈʃaltɐ
+
+  scheinen | 相似度: 1.0
+      中文: 照耀；似乎
+      自定义: [ˈʃaɪ̯nən]
+      Wiktionary: ˈʃaɪ̯nən
+
+  schicken | 相似度: 1.0
+      中文: 寄送
+      自定义: [ˈʃɪkn̩]
+      Wiktionary: ˈʃɪkn̩
+
+  Schild (das) | 相似度: 1.0
+      中文: 牌子，标志
+      自定义: [ʃɪlt]
+      Wiktionary: ʃɪlt
+
+  Schinken (der) | 相似度: 1.0
+      中文: 火腿
+      自定义: [ˈʃɪŋkn̩]
+      Wiktionary: ˈʃɪŋkn̩
+
+  schlafen | 相似度: 1.0
+      中文: 睡觉
+      自定义: [ˈʃlaːfn̩]
+      Wiktionary: ˈʃlaːfn̩
+
+  schlecht | 相似度: 1.0
+      中文: 坏的；不舒服的
+      自定义: [ʃlɛçt]
+      Wiktionary: ʃlɛçt
+
+  schließen | 相似度: 1.0
+      中文: 关闭；结束
+      自定义: [ˈʃliːsn̩]
+      Wiktionary: ˈʃliːsn̩
+
+  geschlossen | 相似度: 1.0
+      中文: 关闭的
+      自定义: [ɡəˈʃlɔsn̩]
+      Wiktionary: ɡəˈʃlɔsn̩
+
+  Schluss (der) | 相似度: 1.0
+      中文: 结束
+      自定义: [ʃlʊs]
+      Wiktionary: ʃlʊs
+
+  Schlüssel (der) | 相似度: 1.0
+      中文: 钥匙
+      自定义: [ˈʃlʏsl̩]
+      Wiktionary: ˈʃlʏsl̩
+
+  schmecken | 相似度: 1.0
+      中文: 尝起来
+      自定义: [ˈʃmɛkn̩]
+      Wiktionary: ˈʃmɛkn̩
+
+  schnell | 相似度: 1.0
+      中文: 快的
+      自定义: [ʃnɛl]
+      Wiktionary: ʃnɛl
+
+  schon | 相似度: 1.0
+      中文: 已经
+      自定义: [ʃoːn]
+      Wiktionary: ʃoːn
+
+  schön | 相似度: 1.0
+      中文: 美丽的；好的
+      自定义: [ʃøːn]
+      Wiktionary: ʃøːn
+
+  Schrank (der) | 相似度: 1.0
+      中文: 柜子
+      自定义: [ʃʁaŋk]
+      Wiktionary: ʃʁaŋk
+
+  schreiben | 相似度: 1.0
+      中文: 写
+      自定义: [ˈʃʁaɪ̯bn̩]
+      Wiktionary: ˈʃʁaɪ̯bn̩
+
+  Schuh (der) | 相似度: 1.0
+      中文: 鞋
+      自定义: [ʃuː]
+      Wiktionary: ʃuː
+
+  Schule (die) | 相似度: 1.0
+      中文: 学校
+      自定义: [ˈʃuːlə]
+      Wiktionary: ˈʃuːlə
+
+  Schüler (der) | 相似度: 1.0
+      中文: 学生（中小学）
+      自定义: [ˈʃyːlɐ]
+      Wiktionary: ˈʃyːlɐ
+
+  schwer | 相似度: 1.0
+      中文: 重的；困难的
+      自定义: [ʃveːɐ̯]
+      Wiktionary: ʃveːɐ̯
+
+  Schwester (die) | 相似度: 1.0
+      中文: 姐妹
+      自定义: [ˈʃvɛstɐ]
+      Wiktionary: ˈʃvɛstɐ
+
+  schwimmen | 相似度: 1.0
+      中文: 游泳
+      自定义: [ˈʃvɪmən]
+      Wiktionary: ˈʃvɪmən
+
+  Schwimmbad (das) | 相似度: 1.0
+      中文: 游泳池
+      自定义: [ˈʃvɪmˌbaːt]
+      Wiktionary: ˈʃvɪmˌbaːt
+
+  See (der) | 相似度: 1.0
+      中文: 湖
+      自定义: [zeː]
+      Wiktionary: zeː
+
+  sehen | 相似度: 1.0
+      中文: 看见
+      自定义: [ˈzeːən]
+      Wiktionary: ˈzeːən
+
+  Sehenswürdigkeit (die) | 相似度: 1.0
+      中文: 名胜古迹
+      自定义: [ˈzeːənsˌvʏʁdɪçkaɪ̯t]
+      Wiktionary: ˈzeːənsˌvʏʁdɪçkaɪ̯t
+
+  sehr | 相似度: 1.0
+      中文: 很，非常
+      自定义: [zeːɐ̯]
+      Wiktionary: zeːɐ̯
+
+  sein | 相似度: 1.0
+      中文: 他的；是
+      自定义: [zaɪ̯n]
+      Wiktionary: zaɪ̯n
+
+  an sein | 相似度: 1.0
+      中文: 开着
+      自定义: [an zaɪ̯n]
+      Wiktionary: ˈan zaɪ̯n
+
+  auf sein | 相似度: 1.0
+      中文: 开着（门），醒着
+      自定义: [aʊ̯f zaɪ̯n]
+      Wiktionary: ˈaʊ̯f zaɪ̯n
+
+  seit | 相似度: 1.0
+      中文: 自从
+      自定义: [zaɪ̯t]
+      Wiktionary: zaɪ̯t
+
+  selbstständig | 相似度: 1.0
+      中文: 独立的，自主经营的
+      自定义: [ˈzɛlpstˌʃtɛndɪç]
+      Wiktionary: ˈzɛlpstʃtɛndɪç
+
+  sich | 相似度: 1.0
+      中文: 自己（反身代词）
+      自定义: [zɪç]
+      Wiktionary: zɪç
+
+  sie | 相似度: 1.0
+      中文: 她；他们；您（尊称）
+      自定义: [ziː]
+      Wiktionary: ziː
+
+  sitzen | 相似度: 1.0
+      中文: 坐
+      自定义: [ˈzɪt͡sn̩]
+      Wiktionary: ˈzɪt͡sn̩
+
+  so | 相似度: 1.0
+      中文: 如此；那么；这样
+      自定义: [zoː]
+      Wiktionary: zoː
+
+  Sofa (das) | 相似度: 1.0
+      中文: 沙发
+      自定义: [ˈzoːfa]
+      Wiktionary: ˈzoːfa
+
+  sofort | 相似度: 1.0
+      中文: 立刻
+      自定义: [zoˈfɔʁt]
+      Wiktionary: zoˈfɔʁt
+
+  Sohn (der) | 相似度: 1.0
+      中文: 儿子
+      自定义: [zoːn]
+      Wiktionary: zoːn
+
+  sollen | 相似度: 1.0
+      中文: 应该；据说
+      自定义: [ˈzɔlən]
+      Wiktionary: ˈzɔlən
+
+  Sonne (die) | 相似度: 1.0
+      中文: 太阳
+      自定义: [ˈzɔnə]
+      Wiktionary: ˈzɔnə
+
+  spät | 相似度: 1.0
+      中文: 晚的，迟的
+      自定义: [ʃpɛːt]
+      Wiktionary: ʃpɛːt
+
+  später | 相似度: 1.0
+      中文: 以后，稍后
+      自定义: [ˈʃpɛːtɐ]
+      Wiktionary: ˈʃpɛːtɐ
+
+  Speisekarte (die) | 相似度: 1.0
+      中文: 菜单
+      自定义: [ˈʃpaɪ̯zəˌkaʁtə]
+      Wiktionary: ˈʃpaɪ̯zəˌkaʁtə
+
+  spielen | 相似度: 1.0
+      中文: 玩耍；演奏；扮演
+      自定义: [ˈʃpiːlən]
+      Wiktionary: ˈʃpiːlən
+
+  Sport (der) | 相似度: 1.0
+      中文: 体育运动
+      自定义: [ʃpɔʁt]
+      Wiktionary: ʃpɔʁt
+
+  Sprache (die) | 相似度: 1.0
+      中文: 语言
+      自定义: [ˈʃpʁaːxə]
+      Wiktionary: ˈʃpʁaːxə
+
+  sprechen | 相似度: 1.0
+      中文: 说话，交谈
+      自定义: [ˈʃpʁɛçn̩]
+      Wiktionary: ˈʃpʁɛçn̩
+
+  Stadt (die) | 相似度: 1.0
+      中文: 城市
+      自定义: [ʃtat]
+      Wiktionary: ʃtat
+
+  stehen | 相似度: 1.0
+      中文: 站立；写着；处于（状态）
+      自定义: [ˈʃteːən]
+      Wiktionary: ˈʃteːən
+
+  Stelle (die) | 相似度: 1.0
+      中文: 位置；职位
+      自定义: [ˈʃtɛlə]
+      Wiktionary: ˈʃtɛlə
+
+  stellen | 相似度: 1.0
+      中文: 放置；提出
+      自定义: [ˈʃtɛlən]
+      Wiktionary: ˈʃtɛlən
+
+  Stock (der) | 相似度: 1.0
+      中文: 楼层；手杖
+      自定义: [ʃtɔk]
+      Wiktionary: ʃtɔk
+
+  Straße (die) | 相似度: 1.0
+      中文: 街道
+      自定义: [ˈʃtʁaːsə]
+      Wiktionary: ˈʃtʁaːsə
+
+  Straßenbahn (die) | 相似度: 1.0
+      中文: 有轨电车
+      自定义: [ˈʃtʁaːsn̩ˌbaːn]
+      Wiktionary: ˈʃtʁaːsn̩ˌbaːn
+
+  studieren | 相似度: 1.0
+      中文: （在大学）学习
+      自定义: [ʃtuˈdiːʁən]
+      Wiktionary: ʃtuˈdiːʁən
+
+  Studium (das) | 相似度: 1.0
+      中文: 大学学习，学业
+      自定义: [ˈʃtuːdi̯ʊm]
+      Wiktionary: ˈʃtuːdi̯ʊm
+
+  Student (der) | 相似度: 1.0
+      中文: 大学生
+      自定义: [ʃtuˈdɛnt]
+      Wiktionary: ʃtuˈdɛnt
+
+  Stunde (die) | 相似度: 1.0
+      中文: 小时；课时
+      自定义: [ˈʃtʊndə]
+      Wiktionary: ˈʃtʊndə
+
+  suchen | 相似度: 1.0
+      中文: 寻找
+      自定义: [ˈzuːxn̩]
+      Wiktionary: ˈzuːxn̩
+
+  tanzen | 相似度: 1.0
+      中文: 跳舞
+      自定义: [ˈtant͡sn̩]
+      Wiktionary: ˈtant͡sn̩
+
+  Tasche (die) | 相似度: 1.0
+      中文: 包；口袋
+      自定义: [ˈtaʃə]
+      Wiktionary: ˈtaʃə
+
+  Taxi (das) | 相似度: 1.0
+      中文: 出租车
+      自定义: [ˈtaksi]
+      Wiktionary: ˈtaksi
+
+  Tee (der) | 相似度: 1.0
+      中文: 茶
+      自定义: [teː]
+      Wiktionary: teː
+
+  Teil (der/das) | 相似度: 1.0
+      中文: 部分
+      自定义: [taɪ̯l]
+      Wiktionary: taɪ̯l
+
+  Telefon (das) | 相似度: 1.0
+      中文: 电话
+      自定义: [ˈteːləfoːn]
+      Wiktionary: ˈteːləfoːn
+
+  Termin (der) | 相似度: 1.0
+      中文: 约会，预约
+      自定义: [tɛʁˈmiːn]
+      Wiktionary: tɛʁˈmiːn
+
+  Test (der) | 相似度: 1.0
+      中文: 测试
+      自定义: [tɛst]
+      Wiktionary: tɛst
+
+  teuer | 相似度: 1.0
+      中文: 贵的
+      自定义: [ˈtɔɪ̯ɐ]
+      Wiktionary: ˈtɔɪ̯ɐ
+
+  Text (der) | 相似度: 1.0
+      中文: 文本，课文
+      自定义: [tɛkst]
+      Wiktionary: tɛkst
+
+  Thema (das) | 相似度: 1.0
+      中文: 主题，话题
+      自定义: [ˈteːma]
+      Wiktionary: ˈteːma
+
+  Ticket (das) | 相似度: 1.0
+      中文: 票
+      自定义: [ˈtɪkət]
+      Wiktionary: ˈtɪkət
+
+  Tisch (der) | 相似度: 1.0
+      中文: 桌子
+      自定义: [tɪʃ]
+      Wiktionary: tɪʃ
+
+  Tochter (die) | 相似度: 1.0
+      中文: 女儿
+      自定义: [ˈtɔxtɐ]
+      Wiktionary: ˈtɔxtɐ
+
+  Tomate (die) | 相似度: 1.0
+      中文: 番茄
+      自定义: [toˈmaːtə]
+      Wiktionary: toˈmaːtə
+
+  tot | 相似度: 1.0
+      中文: 死的
+      自定义: [toːt]
+      Wiktionary: toːt
+
+  treffen | 相似度: 1.0
+      中文: 遇见；会面
+      自定义: [ˈtʁɛfn̩]
+      Wiktionary: ˈtʁɛfn̩
+
+  Treppe (die) | 相似度: 1.0
+      中文: 楼梯
+      自定义: [ˈtʁɛpə]
+      Wiktionary: ˈtʁɛpə
+
+  trinken | 相似度: 1.0
+      中文: 喝
+      自定义: [ˈtʁɪŋkn̩]
+      Wiktionary: ˈtʁɪŋkn̩
+
+  tschüss | 相似度: 1.0
+      中文: 再见（非正式）
+      自定义: [t͡ʃʏs]
+      Wiktionary: t͡ʃʏs
+
+  tun | 相似度: 1.0
+      中文: 做
+      自定义: [tuːn]
+      Wiktionary: tuːn
+
+  über | 相似度: 1.0
+      中文: 在...上方；关于；超过
+      自定义: [ˈyːbɐ]
+      Wiktionary: ˈyːbɐ
+
+  übernachten | 相似度: 1.0
+      中文: 过夜
+      自定义: [yːbɐˈnaxtn̩]
+      Wiktionary: yːbɐˈnaxtn̩
+
+  überweisen | 相似度: 1.0
+      中文: 汇款，转账
+      自定义: [yːbɐˈvaɪ̯zn̩]
+      Wiktionary: ˌyːbɐˈvaɪ̯zn̩
+
+  Uhr (die) | 相似度: 1.0
+      中文: 钟表；点钟（时间单位）
+      自定义: [uːɐ̯]
+      Wiktionary: uːɐ̯
+
+  um | 相似度: 1.0
+      中文: 在...时间；围绕，大约
+      自定义: [ʊm]
+      Wiktionary: ʊm
+
+  umziehen | 相似度: 1.0
+      中文: 搬家，迁居
+      自定义: [ˈʊmˌt͡siːən]
+      Wiktionary: ˈʊmˌt͡siːən
+
+  und | 相似度: 1.0
+      中文: 和，与，而且
+      自定义: [ʊnt]
+      Wiktionary: ʊnt
+
+  unten | 相似度: 1.0
+      中文: 下面，下方
+      自定义: [ˈʊntn̩]
+      Wiktionary: ˈʊntn̩
+
+  unter | 相似度: 1.0
+      中文: 在...下面；低于，少于
+      自定义: [ˈʊntɐ]
+      Wiktionary: ˈʊntɐ
+
+  Unterricht (der) | 相似度: 1.0
+      中文: 课程，教学
+      自定义: [ˈʊntɐʁɪçt]
+      Wiktionary: ˈʊntɐˌʁɪçt
+
+  unterschreiben | 相似度: 1.0
+      中文: 签名，签字
+      自定义: [ˌʊntɐˈʃʁaɪ̯bn̩]
+      Wiktionary: ˌʊntɐˈʃʁaɪ̯bn̩
+
+  Unterschrift (die) | 相似度: 1.0
+      中文: 签名，签字
+      自定义: [ˈʊntɐʃʁɪft]
+      Wiktionary: ˈʊntɐˌʃʁɪft
+
+  Urlaub (der) | 相似度: 1.0
+      中文: 假期
+      自定义: [ˈuːɐ̯laʊ̯p]
+      Wiktionary: ˈuːɐ̯ˌlaʊ̯p
+
+  Vater (der) | 相似度: 1.0
+      中文: 父亲
+      自定义: [ˈfaːtɐ]
+      Wiktionary: ˈfaːtɐ
+
+  verboten | 相似度: 1.0
+      中文: 被禁止的
+      自定义: [fɛɐ̯ˈboːtn̩]
+      Wiktionary: fɛɐ̯ˈboːtn̩
+
+  verdienen | 相似度: 1.0
+      中文: 赚取，挣钱；应得
+      自定义: [fɛɐ̯ˈdiːnən]
+      Wiktionary: fɛɐ̯ˈdiːnən
+
+  Verein (der) | 相似度: 1.0
+      中文: 协会，社团
+      自定义: [fɛɐ̯ˈʔaɪ̯n]
+      Wiktionary: fɛɐ̯ˈʔaɪ̯n
+
+  verheiratet | 相似度: 1.0
+      中文: 已婚的
+      自定义: [fɛɐ̯ˈhaɪ̯ʁaːtət]
+      Wiktionary: fɛɐ̯ˈhaɪ̯ʁaːtət
+
+  verkaufen | 相似度: 1.0
+      中文: 卖，出售
+      自定义: [fɛɐ̯ˈkaʊ̯fn̩]
+      Wiktionary: fɛɐ̯ˈkaʊ̯fn̩
+
+  Verkäufer (der) | 相似度: 1.0
+      中文: 售货员，销售员
+      自定义: [fɛɐ̯ˈkɔɪ̯fɐ]
+      Wiktionary: fɛɐ̯ˈkɔɪ̯fɐ
+
+  vermieten | 相似度: 1.0
+      中文: 出租
+      自定义: [fɛɐ̯ˈmiːtn̩]
+      Wiktionary: fɛɐ̯ˈmiːtn̩
+
+  Vermieter (der) | 相似度: 1.0
+      中文: 房东
+      自定义: [fɛɐ̯ˈmiːtɐ]
+      Wiktionary: fɛɐ̯ˈmiːtɐ
+
+  verstehen | 相似度: 1.0
+      中文: 理解，明白
+      自定义: [fɛɐ̯ˈʃteːən]
+      Wiktionary: fɛɐ̯ˈʃteːən
+
+  Verwandte (der/die) | 相似度: 1.0
+      中文: 亲戚
+      自定义: [fɛɐ̯ˈvantə]
+      Wiktionary: fɛɐ̯ˈvantə
+
+  viel | 相似度: 1.0
+      中文: 许多，大量
+      自定义: [fiːl]
+      Wiktionary: fiːl
+
+  vielleicht | 相似度: 1.0
+      中文: 也许，可能
+      自定义: [fiˈlaɪ̯çt]
+      Wiktionary: fiˈlaɪ̯çt
+
+  von | 相似度: 1.0
+      中文: 从...来；...的（所属）
+      自定义: [fɔn]
+      Wiktionary: fɔn
+
+  vor | 相似度: 1.0
+      中文: 在...之前；在...前面
+      自定义: [foːɐ̯]
+      Wiktionary: foːɐ̯
+
+  Vorname (der) | 相似度: 1.0
+      中文: 名，名字
+      自定义: [ˈfoːɐ̯naːmə]
+      Wiktionary: ˈfoːɐ̯ˌnaːmə
+
+  Vorsicht (die) | 相似度: 1.0
+      中文: 小心，注意
+      自定义: [ˈfoːɐ̯zɪçt]
+      Wiktionary: ˈfoːɐ̯ˌzɪçt
+
+  vorstellen | 相似度: 1.0
+      中文: 介绍
+      自定义: [ˈfoːɐ̯ʃtɛlən]
+      Wiktionary: ˈfoːɐ̯ˌʃtɛlən
+
+  Vorwahl (die) | 相似度: 1.0
+      中文: 区号
+      自定义: [ˈfoːɐ̯vaːl]
+      Wiktionary: ˈfoːɐ̯ˌvaːl
+
+  wandern | 相似度: 1.0
+      中文: 徒步，远足
+      自定义: [ˈvandɐn]
+      Wiktionary: ˈvandɐn
+
+  wann | 相似度: 1.0
+      中文: 什么时候
+      自定义: [van]
+      Wiktionary: van
+
+  warten | 相似度: 1.0
+      中文: 等待
+      自定义: [ˈvaʁtn̩]
+      Wiktionary: ˈvaʁtn̩
+
+  warum | 相似度: 1.0
+      中文: 为什么
+      自定义: [vaˈʁʊm]
+      Wiktionary: vaˈʁʊm
+
+  was | 相似度: 1.0
+      中文: 什么
+      自定义: [vas]
+      Wiktionary: vas
+
+  waschen | 相似度: 1.0
+      中文: 洗
+      自定义: [ˈvaʃn̩]
+      Wiktionary: ˈvaʃn̩
+
+  Wasser (das) | 相似度: 1.0
+      中文: 水
+      自定义: [ˈvasɐ]
+      Wiktionary: ˈvasɐ
+
+  weh tun | 相似度: 1.0
+      中文: 疼痛
+      自定义: [veː tuːn]
+      Wiktionary: ˈveː ˌtuːn
+
+  weiblich | 相似度: 1.0
+      中文: 女性的
+      自定义: [ˈvaɪ̯plɪç]
+      Wiktionary: ˈvaɪ̯plɪç
+
+  Wein (der) | 相似度: 1.0
+      中文: 葡萄酒
+      自定义: [vaɪ̯n]
+      Wiktionary: vaɪ̯n
+
+  weit | 相似度: 1.0
+      中文: 远的
+      自定义: [vaɪ̯t]
+      Wiktionary: vaɪ̯t
+
+  weiter | 相似度: 1.0
+      中文: 继续；进一步的
+      自定义: [ˈvaɪ̯tɐ]
+      Wiktionary: ˈvaɪ̯tɐ
+
+  Welt (die) | 相似度: 1.0
+      中文: 世界
+      自定义: [vɛlt]
+      Wiktionary: vɛlt
+
+  wenig | 相似度: 1.0
+      中文: 少的，一点
+      自定义: [ˈveːnɪç]
+      Wiktionary: ˈveːnɪç
+
+  wer | 相似度: 1.0
+      中文: 谁
+      自定义: [veːɐ̯]
+      Wiktionary: veːɐ̯
+
+  werden | 相似度: 1.0
+      中文: 将，会；成为，变得
+      自定义: [ˈveːɐ̯dn̩]
+      Wiktionary: ˈveːɐ̯dn̩
+
+  Wetter (das) | 相似度: 1.0
+      中文: 天气
+      自定义: [ˈvɛtɐ]
+      Wiktionary: ˈvɛtɐ
+
+  wichtig | 相似度: 1.0
+      中文: 重要的
+      自定义: [ˈvɪçtɪç]
+      Wiktionary: ˈvɪçtɪç
+
+  wie | 相似度: 1.0
+      中文: 怎样；多么；像...一样
+      自定义: [viː]
+      Wiktionary: viː
+
+  wiederholen | 相似度: 1.0
+      中文: 重复，复习
+      自定义: [ˌviːdɐˈhoːlən]
+      Wiktionary: ˌviːdɐˈhoːlən
+
+  Wiederhören (das) | 相似度: 1.0
+      中文: 再见（电话用语）
+      自定义: [ˈviːdɐˌhøːʁən]
+      Wiktionary: ˈviːdɐˌhøːʁən
+
+  Wiedersehen (das) | 相似度: 1.0
+      中文: 再见
+      自定义: [ˈviːdɐˌzeːən]
+      Wiktionary: ˈviːdɐˌzeːən
+
+  wie viel | 相似度: 1.0
+      中文: 多少
+      自定义: [viː fiːl]
+      Wiktionary: viː ˈfiːl
+
+  willkommen | 相似度: 1.0
+      中文: 欢迎
+      自定义: [vɪlˈkɔmən]
+      Wiktionary: vɪlˈkɔmən
+
+  Wind (der) | 相似度: 1.0
+      中文: 风
+      自定义: [vɪnt]
+      Wiktionary: vɪnt
+
+  wir | 相似度: 1.0
+      中文: 我们
+      自定义: [viːɐ̯]
+      Wiktionary: viːɐ̯
+
+  wissen | 相似度: 1.0
+      中文: 知道，了解
+      自定义: [ˈvɪsn̩]
+      Wiktionary: ˈvɪsn̩
+
+  wo | 相似度: 1.0
+      中文: 在哪里
+      自定义: [voː]
+      Wiktionary: voː
+
+  woher | 相似度: 1.0
+      中文: 从哪里来
+      自定义: [voˈheːɐ̯]
+      Wiktionary: voˈheːɐ̯
+
+  wohin | 相似度: 1.0
+      中文: 去哪里
+      自定义: [voˈhɪn]
+      Wiktionary: voˈhɪn
+
+  wohnen | 相似度: 1.0
+      中文: 居住
+      自定义: [ˈvoːnən]
+      Wiktionary: ˈvoːnən
+
+  Wohnung (die) | 相似度: 1.0
+      中文: 公寓，住房
+      自定义: [ˈvoːnʊŋ]
+      Wiktionary: ˈvoːnʊŋ
+
+  wollen | 相似度: 1.0
+      中文: 想要，打算
+      自定义: [ˈvɔlən]
+      Wiktionary: ˈvɔlən
+
+  Wort (das) | 相似度: 1.0
+      中文: 词，单词；话
+      自定义: [vɔʁt]
+      Wiktionary: vɔʁt
+
+  wunderbar | 相似度: 1.0
+      中文: 美妙的，极好的
+      自定义: [ˈvʊndɐbaːɐ̯]
+      Wiktionary: ˈvʊndɐbaːɐ̯
+
+  Zahlen | 相似度: 1.0
+      中文: 付款（动词zahlen的命令式或不定式）
+      自定义: [ˈt͡saːlən]
+      Wiktionary: ˈt͡saːlən
+
+  Zeit (die) | 相似度: 1.0
+      中文: 时间
+      自定义: [t͡saɪ̯t]
+      Wiktionary: t͡saɪ̯t
+
+  Zeitung (die) | 相似度: 1.0
+      中文: 报纸
+      自定义: [ˈt͡saɪ̯tʊŋ]
+      Wiktionary: ˈt͡saɪ̯tʊŋ
+
+  Zigarette (die) | 相似度: 1.0
+      中文: 香烟
+      自定义: [t͡siɡaˈʁɛtə]
+      Wiktionary: t͡siɡaˈʁɛtə
+
+  Zimmer (das) | 相似度: 1.0
+      中文: 房间
+      自定义: [ˈt͡sɪmɐ]
+      Wiktionary: ˈt͡sɪmɐ
+
+  Zoll (der) | 相似度: 1.0
+      中文: 海关；关税
+      自定义: [t͡sɔl]
+      Wiktionary: t͡sɔl
+
+  zu | 相似度: 1.0
+      中文: 到，向；太；关闭的
+      自定义: [t͡suː]
+      Wiktionary: t͡suː
+
+  zufrieden | 相似度: 1.0
+      中文: 满意的
+      自定义: [t͡suːˈfʁiːdn̩]
+      Wiktionary: t͡suˈfʁiːdn̩
+
+  Zug (der) | 相似度: 1.0
+      中文: 火车
+      自定义: [t͡suːk]
+      Wiktionary: t͡suːk
+
+  zurück | 相似度: 1.0
+      中文: 回，返回
+      自定义: [t͡suːˈʁʏk]
+      Wiktionary: t͡suˈʁʏk
+
+  zusammen | 相似度: 1.0
+      中文: 一起；总共
+      自定义: [t͡suˈzamən]
+      Wiktionary: t͡suˈzamən
+
+  zwischen | 相似度: 1.0
+      中文: 在...之间
+      自定义: [ˈt͡svɪʃn̩]
+      Wiktionary: ˈt͡svɪʃn̩
+
