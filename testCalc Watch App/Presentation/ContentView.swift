@@ -66,6 +66,8 @@ struct WordPracticeView: View {
                                     .font(.caption2)
                                     .foregroundColor(.secondary)
                                     .multilineTextAlignment(.center)
+                                    .lineLimit(nil)
+                                    .fixedSize(horizontal: false, vertical: true)
                             }
                         }
 
