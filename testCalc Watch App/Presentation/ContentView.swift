@@ -101,24 +101,26 @@ struct WordPracticeView: View {
 //        )
         .crownStepper(
             crownValue: $crownValue,
-            threshold: 6, // 每卡塔一次触发
+            threshold: 5, // 累计7个单位触发一次
+            by: 1,        // 每齿增量
             onStepForward: {
-                scheduler.next()
+                scheduler.next() // 切换下一个单词
             },
             onStepBackward: {
-                scheduler.previous()
+                scheduler.previous() // 切换上一个单词
             }
         )
 
-        .onChange(of: crownValue) { _, newValue in
-            let step = Int(newValue)
-            if step > lastStep {
-                scheduler.next()
-            } else if step < lastStep {
-                scheduler.previous()
-            }
-            lastStep = step
-        }
+
+//        .onChange(of: crownValue) { _, newValue in
+//            let step = Int(newValue)
+//            if step > lastStep {
+//                scheduler.next()
+//            } else if step < lastStep {
+//                scheduler.previous()
+//            }
+//            lastStep = step
+//        }
         .onAppear {
             isCrownFocused = true
             DispatchQueue.main.asyncAfter(deadline: .now() + 4) {
@@ -259,6 +261,8 @@ private extension WordPracticeView {
     
     func handleFamiliar() {
         scheduler.markFamiliar()
+        WKInterfaceDevice.current().play(.success) // 或 .click
+
         flashFamiliar()
 //
 //        DispatchQueue.main.asyncAfter(deadline: .now() + 0.45) {
@@ -268,6 +272,8 @@ private extension WordPracticeView {
 
     func handleUnfamiliar() {
         scheduler.markUnfamiliar()
+        WKInterfaceDevice.current().play(.click) // 或 .click
+
         flashUnfamiliar()
 
         DispatchQueue.main.asyncAfter(deadline: .now() + 0.45) {

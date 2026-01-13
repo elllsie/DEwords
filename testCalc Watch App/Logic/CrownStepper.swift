@@ -7,12 +7,8 @@
 
 import SwiftUI
 import WatchKit
-
-/// 一个表冠离散步进组件
-/// 每转满阈值就触发一次动作
 struct CrownStepper: ViewModifier {
 
-    /// 阈值：表冠累计到多少触发一次动作
     let threshold: Double
     let onStepForward: () -> Void
     let onStepBackward: () -> Void
@@ -20,22 +16,33 @@ struct CrownStepper: ViewModifier {
     @Binding var crownValue: Double
     @State private var accumulated: Double = 0
 
+    let by: Double
+
     func body(content: Content) -> some View {
         content
             .digitalCrownRotation(
                 $crownValue,
                 from: -1000,
                 through: 1000,
-                by: 1 // 保持精细
+                by: by,
+                sensitivity: .medium,
+                isContinuous: true,
+                isHapticFeedbackEnabled: false // 自行控制卡塔触觉
             )
             .onChange(of: crownValue) { oldValue, newValue in
                 let delta = newValue - oldValue
                 accumulated += delta
 
+                // 小齿轻微反馈
+                if abs(delta) >= 1 {
+                    WKInterfaceDevice.current().play(.directionUp) // 或 directionDown，轻微触感
+                }
+
+                // 阈值触发切换
                 if accumulated >= threshold {
                     onStepForward()
                     accumulated = 0
-                    WKInterfaceDevice.current().play(.click)
+                    WKInterfaceDevice.current().play(.click) // 清脆卡塔
                 } else if accumulated <= -threshold {
                     onStepBackward()
                     accumulated = 0
@@ -46,10 +53,10 @@ struct CrownStepper: ViewModifier {
 }
 
 extension View {
-    /// 方便调用
     func crownStepper(
         crownValue: Binding<Double>,
-        threshold: Double = 6,
+        threshold: Double = 7,
+        by: Double = 1,
         onStepForward: @escaping () -> Void,
         onStepBackward: @escaping () -> Void
     ) -> some View {
@@ -58,7 +65,8 @@ extension View {
                 threshold: threshold,
                 onStepForward: onStepForward,
                 onStepBackward: onStepBackward,
-                crownValue: crownValue
+                crownValue: crownValue,
+                by: by
             )
         )
     }
