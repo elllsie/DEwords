@@ -376,7 +376,7 @@ private extension WordPracticeView {
                 )
                 .navigationDestination(for: WordList.self) { list in
                     let words = WordRepository.loadWords(resourceName: list.resourceName)
-                    let scheduler = WordScheduler(words: words)
+                    let scheduler = WordScheduler(words: words, listID: list.resourceName)
 
                     WordPracticeView(
                         scheduler: scheduler,
